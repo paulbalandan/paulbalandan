@@ -28,7 +28,7 @@ knowledge, I am continuously enhancing myself and the rest is history.
 
 ### 👯 Check out some of my recent followers
 {{range followers 5}}
-- [{{.Login}}]({{.URL}})
+- [@{{.Login}}]({{.URL}})
 {{- end}}
 
 ### 📫 You can reach me here
