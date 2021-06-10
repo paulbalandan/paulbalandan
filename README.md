@@ -56,14 +56,18 @@ knowledge, I am continuously enhancing myself and the rest is history.
 
 ### 📫 You can reach me here
 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pauleyala_" height="20" width="20" />
-<a href="https://twitter.com/pauleyala_" target="blank">@pauleyala_</a><br/>
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulbalandan" height="20" width="20" />
-<a href="https://fb.com/paulbalandan" target="blank">Paul Evangelista Balandan</a><br/>
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ampoband" height="20" width="20" />
-<a href="https://instagram.com/ampoband" target="blank">@ampoband</a><br/>
+<a href="https://twitter.com/pauleyala_" target="blank" style="text-decoration: none">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pauleyala_" height="20" width="20" />
+    @pauleyala_
+</a><br/>
+<a href="https://fb.com/paulbalandan" target="blank" style="text-decoration: none">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulbalandan" height="20" width="20" />
+    Paul Evangelista Balandan
+</a><br/>
+<a href="https://instagram.com/ampoband" target="blank" style="text-decoration: none">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ampoband" height="20" width="20" />
+    @ampoband
+</a><br/>
 
 ---
 
