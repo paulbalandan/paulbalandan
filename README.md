@@ -48,11 +48,11 @@ knowledge, I am continuously enhancing myself and the rest is history.
 
 ### 👯 Check out some of my recent followers
 
-- [AnimMouse](https://github.com/AnimMouse)
-- [benjaminbellamy](https://github.com/benjaminbellamy)
-- [sajjadef98](https://github.com/sajjadef98)
-- [musmanikram](https://github.com/musmanikram)
-- [cesart050892](https://github.com/cesart050892)
+- [@AnimMouse](https://github.com/AnimMouse)
+- [@benjaminbellamy](https://github.com/benjaminbellamy)
+- [@sajjadef98](https://github.com/sajjadef98)
+- [@musmanikram](https://github.com/musmanikram)
+- [@cesart050892](https://github.com/cesart050892)
 
 ### 📫 You can reach me here
 
