@@ -38,6 +38,5 @@ jobs:
           branch: master
           commit_message: Update generated README
           commit_options: '--gpg-sign'
-          commit_user_name: ${{ steps.import_gpg.outputs.name }}
-          commit_user_email: ${{ steps.import_gpg.outputs.email }}
-          commit_author: ${{ steps.import_gpg.outputs.name }} <${{ steps.import_gpg.outputs.email }}>
+          commit_user_name: paulbalandan
+          commit_user_email: paulbalandan@gmail.com
