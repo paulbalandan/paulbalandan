@@ -22,12 +22,6 @@ knowledge, I am continuously enhancing myself and the rest is history.
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4 (9 months ago)
 - [paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer) - A full suite installer for CodeIgniter4. (10 months ago)
 
-### 🌱 My latest projects
-
-- [paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
-- [paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision) - Seamless software updates library for CodeIgniter4 projects.
-- [paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer) - A full suite installer for CodeIgniter4.
-
 ### 🔭 Latest releases I've contributed to
 
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), today) - One-stop Auth package for CodeIgniter 4
