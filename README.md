@@ -35,6 +35,7 @@ knowledge, I am continuously enhancing myself and the rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Heredocs-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4818)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define remaining &#34;c&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4817)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `class_definition` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4811)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Class, trait and interface elements must be separated with one line](https://github.com/codeigniter4/CodeIgniter4/pull/4810)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -44,7 +45,6 @@ knowledge, I am continuously enhancing myself and the rest is history.
 - **[Shift binary alignment to `align_single_space_minimal`](https://github.com/codeigniter4/CodeIgniter4/pull/4801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Ensure single space between cast and variable](https://github.com/codeigniter4/CodeIgniter4/pull/4797)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Enable `braces`](https://github.com/codeigniter4/CodeIgniter4/pull/4792)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Enable `blank_line_before_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/4790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
