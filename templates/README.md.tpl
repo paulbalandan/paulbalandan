@@ -3,13 +3,13 @@
 I am **John Paul E. Balandan**. You can simply call me as Paul. I hail from the Philippines in the
 City of San Pablo. I am currently practicing my profession as a certified public accountant. In late 2018
 I entered the software development world by accident. From then on and in the pursuit of greater
-knowledge, I am continuously enhancing myself and the rest is history.
+knowledge, I am continuously learning. The rest is history.
 
 ---
 
 ### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&count_private=true&show_icons=true&hide_title=true&theme=highcontrast)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&count_private=true&show_icons=true&hide_title=true)
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
