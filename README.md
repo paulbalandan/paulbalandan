@@ -14,8 +14,8 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*6 months ago*)
@@ -24,8 +24,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), *2 days ago*) - One-stop Auth package for CodeIgniter 4
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *6 days ago*) - System message translations for CodeIgniter4
+- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), *3 days ago*) - One-stop Auth package for CodeIgniter 4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.0.3](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.0.3), *1 week ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.3](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.3), *1 week ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
@@ -35,16 +35,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Phpdoc types](https://github.com/codeigniter4/CodeIgniter4/pull/4823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Enforce ordering and trimming of phpdoc elements](https://github.com/codeigniter4/CodeIgniter4/pull/4822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Initial Phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4820)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Heredocs-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4818)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Define remaining &#34;c&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4817)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Enable `class_definition` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4811)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Class, trait and interface elements must be separated with one line](https://github.com/codeigniter4/CodeIgniter4/pull/4810)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[PSR12: Add visibility identifiers](https://github.com/codeigniter4/CodeIgniter4/pull/4809)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Phpdoc types](https://github.com/codeigniter4/CodeIgniter4/pull/4823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Enforce ordering and trimming of phpdoc elements](https://github.com/codeigniter4/CodeIgniter4/pull/4822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Initial Phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4820)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Heredocs-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4818)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Define remaining &#34;c&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4817)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Enable `class_definition` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4811)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Class, trait and interface elements must be separated with one line](https://github.com/codeigniter4/CodeIgniter4/pull/4810)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[PSR12: Add visibility identifiers](https://github.com/codeigniter4/CodeIgniter4/pull/4809)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
