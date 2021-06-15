@@ -35,6 +35,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define rules for ternary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -43,8 +45,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Phpdoc types](https://github.com/codeigniter4/CodeIgniter4/pull/4823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Enforce ordering and trimming of phpdoc elements](https://github.com/codeigniter4/CodeIgniter4/pull/4822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Initial Phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4820)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Heredocs-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4818)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
