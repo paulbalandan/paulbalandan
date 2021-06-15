@@ -35,16 +35,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define rules for ternary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define switch-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4835)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Phpdoc types](https://github.com/codeigniter4/CodeIgniter4/pull/4823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Enforce ordering and trimming of phpdoc elements](https://github.com/codeigniter4/CodeIgniter4/pull/4822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Initial Phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4820)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Heredocs-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4818)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Define remaining &#34;c&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4817)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enable `class_definition` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4811)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Class, trait and interface elements must be separated with one line](https://github.com/codeigniter4/CodeIgniter4/pull/4810)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[PSR12: Add visibility identifiers](https://github.com/codeigniter4/CodeIgniter4/pull/4809)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
