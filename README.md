@@ -35,6 +35,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -43,8 +45,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Define switch-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4835)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Phpdoc types](https://github.com/codeigniter4/CodeIgniter4/pull/4823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enforce ordering and trimming of phpdoc elements](https://github.com/codeigniter4/CodeIgniter4/pull/4822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
