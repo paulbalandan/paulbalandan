@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
@@ -24,7 +24,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), *6 days ago*) - One-stop Auth package for CodeIgniter 4
+- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), *1 week ago*) - One-stop Auth package for CodeIgniter 4
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.0.3](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.0.3), *2 weeks ago*) - Seamless software updates library for CodeIgniter4 projects.
@@ -35,16 +35,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Define rules for ternary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Define switch-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4835)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Define rules for ternary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Define switch-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4835)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Document new coding style guide](https://github.com/codeigniter4/CodeIgniter4/pull/4825)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Modernize and standardize typecasting](https://github.com/codeigniter4/CodeIgniter4/pull/4824)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
