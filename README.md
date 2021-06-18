@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
@@ -35,16 +35,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Master language constructs shall be used instead of aliases.](https://github.com/codeigniter4/CodeIgniter4/pull/4847)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[PSR12: All instances created with `new` keyword must be followed by braces.](https://github.com/codeigniter4/CodeIgniter4/pull/4846)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Native functions and type hints should be written in correct case](https://github.com/codeigniter4/CodeIgniter4/pull/4845)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Make CLI detection as interface independent as possible](https://github.com/codeigniter4/CodeIgniter4/pull/4844)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Master language constructs shall be used instead of aliases.](https://github.com/codeigniter4/CodeIgniter4/pull/4847)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[PSR12: All instances created with `new` keyword must be followed by braces.](https://github.com/codeigniter4/CodeIgniter4/pull/4846)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Native functions and type hints should be written in correct case](https://github.com/codeigniter4/CodeIgniter4/pull/4845)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Make CLI detection as interface independent as possible](https://github.com/codeigniter4/CodeIgniter4/pull/4844)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Define rules starting with &#34;L&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Define rules on unary operators](https://github.com/codeigniter4/CodeIgniter4/pull/4837)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
