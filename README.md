@@ -24,12 +24,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0), *1 week ago*) - One-stop Auth package for CodeIgniter 4
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.0.3](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.0.3), *2 weeks ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.3](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.3), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.1.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.1.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *7 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
 - **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** ([v1.0.0](https://github.com/paulbalandan/codeigniter4-installer/releases/tag/v1.0.0), *11 months ago*) - A full suite installer for CodeIgniter4.
 
