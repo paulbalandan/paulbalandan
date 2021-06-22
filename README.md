@@ -35,6 +35,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add `ReflectionUnionType` to function map for PHP8](https://github.com/phpstan/phpstan-src/pull/563)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Add explicit options to enabled configurable fixers](https://github.com/codeigniter4/translations/pull/233)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
 - **[NoAlternativeSyntaxFixer - Add option to not fix non-monolithic PHP code](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5773)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 days ago*)
 - **[Master language constructs shall be used instead of aliases.](https://github.com/codeigniter4/CodeIgniter4/pull/4847)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -44,7 +45,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Define last &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4842)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Enable `method_chaining_indentation` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4841)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[PSR12: Enable `method_argument_space` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4840)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Define initial &#34;m&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
