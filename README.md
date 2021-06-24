@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*today*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*4 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 days ago*)
