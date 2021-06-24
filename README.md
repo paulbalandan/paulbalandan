@@ -35,6 +35,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Other PHPUnit-related fixers](https://github.com/codeigniter4/CodeIgniter4/pull/4871)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Test classes should be marked as final and internal](https://github.com/codeigniter4/CodeIgniter4/pull/4870)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Normalize tests to use dedicated PHPUnit assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4868)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Namespace extracted by GeneratorTrait should always end in backslash](https://github.com/codeigniter4/CodeIgniter4/pull/4867)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Allow `Utils\\` namespace to be available in external CI4 libraries](https://github.com/codeigniter4/CodeIgniter4/pull/4866)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -43,8 +45,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NoAlternativeSyntaxFixer - Add option to not fix non-monolithic PHP code](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5773)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*5 days ago*)
 - **[Master language constructs shall be used instead of aliases.](https://github.com/codeigniter4/CodeIgniter4/pull/4847)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[PSR12: All instances created with `new` keyword must be followed by braces.](https://github.com/codeigniter4/CodeIgniter4/pull/4846)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Native functions and type hints should be written in correct case](https://github.com/codeigniter4/CodeIgniter4/pull/4845)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Make CLI detection as interface independent as possible](https://github.com/codeigniter4/CodeIgniter4/pull/4844)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
