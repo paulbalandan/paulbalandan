@@ -41,3 +41,4 @@ jobs:
           commit_options: '--gpg-sign'
           commit_user_name: paulbalandan
           commit_user_email: paulbalandan@gmail.com
+          push_options: '--no-signed'
