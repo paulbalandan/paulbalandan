@@ -36,6 +36,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable `explicit_indirect_variable`](https://github.com/codeigniter4/CodeIgniter4/pull/4881)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `escape_implicit_backslashes` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4880)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `echo_tag_syntax` until `error_suppression` fixers](https://github.com/codeigniter4/CodeIgniter4/pull/4879)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Strive for stricter assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4874)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Defining the trailing &#34;p&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4873)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Configure rules in &#34;d&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4872)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -43,9 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Test classes should be marked as final and internal](https://github.com/codeigniter4/CodeIgniter4/pull/4870)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Normalize tests to use dedicated PHPUnit assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4868)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Namespace extracted by GeneratorTrait should always end in backslash](https://github.com/codeigniter4/CodeIgniter4/pull/4867)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Allow `Utils\\` namespace to be available in external CI4 libraries](https://github.com/codeigniter4/CodeIgniter4/pull/4866)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add `ReflectionUnionType` to function map for PHP8](https://github.com/phpstan/phpstan-src/pull/563)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
-- **[Add explicit options to enabled configurable fixers](https://github.com/codeigniter4/translations/pull/233)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
