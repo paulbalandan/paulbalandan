@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*4 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*5 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*7 months ago*)
@@ -36,24 +36,24 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Import global symbols](https://github.com/codeigniter4/CodeIgniter4/pull/4890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Enable remaining rules in &#34;f&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4888)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Test framework for compatibility against PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/4883)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Convert to explicit those implicit string variables](https://github.com/codeigniter4/CodeIgniter4/pull/4882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enable `explicit_indirect_variable`](https://github.com/codeigniter4/CodeIgniter4/pull/4881)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enable `escape_implicit_backslashes` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4880)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enable `echo_tag_syntax` until `error_suppression` fixers](https://github.com/codeigniter4/CodeIgniter4/pull/4879)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Strive for stricter assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4874)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Defining the trailing &#34;p&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4873)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Configure rules in &#34;d&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4872)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Import global symbols](https://github.com/codeigniter4/CodeIgniter4/pull/4890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Enable remaining rules in &#34;f&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4888)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Test framework for compatibility against PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/4883)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Convert to explicit those implicit string variables](https://github.com/codeigniter4/CodeIgniter4/pull/4882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Enable `explicit_indirect_variable`](https://github.com/codeigniter4/CodeIgniter4/pull/4881)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Enable `escape_implicit_backslashes` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4880)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Enable `echo_tag_syntax` until `error_suppression` fixers](https://github.com/codeigniter4/CodeIgniter4/pull/4879)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Strive for stricter assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4874)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Defining the trailing &#34;p&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4873)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Configure rules in &#34;d&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4872)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
+- [@mbrignone93](https://github.com/mbrignone93)
 - [@ballpumpe](https://github.com/ballpumpe)
 - [@AnimMouse](https://github.com/AnimMouse)
 - [@benjaminbellamy](https://github.com/benjaminbellamy)
 - [@sajjadef98](https://github.com/sajjadef98)
-- [@musmanikram](https://github.com/musmanikram)
 
 ### 📫 You can reach me here
 
