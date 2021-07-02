@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Import global classes but fully qualify functions and constants](https://github.com/codeigniter4/CodeIgniter4/pull/4899)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Import global symbols](https://github.com/codeigniter4/CodeIgniter4/pull/4890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Enable remaining rules in &#34;f&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4888)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Test framework for compatibility against PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/4883)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable `echo_tag_syntax` until `error_suppression` fixers](https://github.com/codeigniter4/CodeIgniter4/pull/4879)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Strive for stricter assertions](https://github.com/codeigniter4/CodeIgniter4/pull/4874)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Defining the trailing &#34;p&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4873)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Configure rules in &#34;d&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4872)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
