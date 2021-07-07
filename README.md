@@ -25,10 +25,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.1), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *5 days ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 weeks ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *1 month ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *8 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*today*)
 - **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define &#34;i&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable prohibitory rules](https://github.com/codeigniter4/CodeIgniter4/pull/4900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Import global classes but fully qualify functions and constants](https://github.com/codeigniter4/CodeIgniter4/pull/4899)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Import global symbols](https://github.com/codeigniter4/CodeIgniter4/pull/4890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable remaining rules in &#34;f&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4888)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
