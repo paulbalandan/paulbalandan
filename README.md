@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix namespace to path sync of views files during publish](https://github.com/lonnieezell/myth-auth/pull/407)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*today*)
 - **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*today*)
 - **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define &#34;i&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable `no_null_property_initialization` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4901)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Enable prohibitory rules](https://github.com/codeigniter4/CodeIgniter4/pull/4900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Import global classes but fully qualify functions and constants](https://github.com/codeigniter4/CodeIgniter4/pull/4899)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Import global symbols](https://github.com/codeigniter4/CodeIgniter4/pull/4890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
