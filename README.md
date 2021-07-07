@@ -36,6 +36,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix: NoBlankLinesAfterPhpdoc - Add T_NAMESPACE in array of forbidden successors](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5791)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Remove `?` from nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4902)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Enable `no_null_property_initialization` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4901)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Enable prohibitory rules](https://github.com/codeigniter4/CodeIgniter4/pull/4900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -44,8 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable remaining rules in &#34;f&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/4888)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Test framework for compatibility against PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/4883)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Convert to explicit those implicit string variables](https://github.com/codeigniter4/CodeIgniter4/pull/4882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable `explicit_indirect_variable`](https://github.com/codeigniter4/CodeIgniter4/pull/4881)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable `escape_implicit_backslashes` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4880)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
