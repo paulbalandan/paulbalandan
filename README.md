@@ -36,6 +36,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define `single_**` rules](https://github.com/codeigniter4/CodeIgniter4/pull/4924)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Define initial &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix namespace to path sync of views files during publish](https://github.com/lonnieezell/myth-auth/pull/407)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*1 day ago*)
 - **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*1 day ago*)
 - **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -43,9 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix: NoBlankLinesAfterPhpdoc - Add T_NAMESPACE in array of forbidden successors](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5791)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 day ago*)
 - **[Remove `?` from nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4902)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Enable `no_null_property_initialization` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/4901)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Enable prohibitory rules](https://github.com/codeigniter4/CodeIgniter4/pull/4900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Import global classes but fully qualify functions and constants](https://github.com/codeigniter4/CodeIgniter4/pull/4899)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
