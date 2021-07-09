@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define &#34;r&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4926)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Define `single_**` rules](https://github.com/codeigniter4/CodeIgniter4/pull/4924)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Define &#34;i&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Fix: NoBlankLinesAfterPhpdoc - Add T_NAMESPACE in array of forbidden successors](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5791)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
