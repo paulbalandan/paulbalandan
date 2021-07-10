@@ -49,11 +49,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@Novusvetus](https://github.com/Novusvetus)
 - [@mbrignone93](https://github.com/mbrignone93)
 - [@ballpumpe](https://github.com/ballpumpe)
 - [@AnimMouse](https://github.com/AnimMouse)
 - [@benjaminbellamy](https://github.com/benjaminbellamy)
-- [@sajjadef98](https://github.com/sajjadef98)
 
 ### 📫 You can reach me here
 
