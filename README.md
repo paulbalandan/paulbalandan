@@ -14,9 +14,9 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*4 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*5 days ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
@@ -25,7 +25,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.1), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.1), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 week ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *3 weeks ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *3 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
@@ -36,16 +36,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Define &#34;r&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4926)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Define `single_**` rules](https://github.com/codeigniter4/CodeIgniter4/pull/4924)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Define initial &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Fix namespace to path sync of views files during publish](https://github.com/lonnieezell/myth-auth/pull/407)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*5 days ago*)
-- **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*5 days ago*)
-- **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Define &#34;i&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Define &#34;r&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4926)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Define `single_**` rules](https://github.com/codeigniter4/CodeIgniter4/pull/4924)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Define initial &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Fix namespace to path sync of views files during publish](https://github.com/lonnieezell/myth-auth/pull/407)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*6 days ago*)
+- **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*6 days ago*)
+- **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Define &#34;i&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[General phpdocs](https://github.com/codeigniter4/CodeIgniter4/pull/4917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
