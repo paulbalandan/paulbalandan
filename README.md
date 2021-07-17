@@ -37,6 +37,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Add param to all annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4940)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Define remaining rules](https://github.com/codeigniter4/CodeIgniter4/pull/4934)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -45,8 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Define `single_**` rules](https://github.com/codeigniter4/CodeIgniter4/pull/4924)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Define initial &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix namespace to path sync of views files during publish](https://github.com/lonnieezell/myth-auth/pull/407)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*1 week ago*)
-- **[Use &#34;env&#34; key instead of additional workflow step](https://github.com/lonnieezell/myth-auth/pull/406)** on [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) (*1 week ago*)
-- **[Define &#34;o&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4921)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
