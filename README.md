@@ -13,13 +13,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*1 week ago*)
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 weeks ago*)
 - **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*3 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 weeks ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*7 months ago*)
 - **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** - A full suite installer for CodeIgniter4. (*11 months ago*)
 
@@ -36,13 +36,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Add param to all annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4940)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Define remaining rules](https://github.com/codeigniter4/CodeIgniter4/pull/4934)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Add param to all annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4940)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Define remaining rules](https://github.com/codeigniter4/CodeIgniter4/pull/4934)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Define &#34;r&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4926)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
