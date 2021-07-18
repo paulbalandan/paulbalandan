@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove useless code separator comments](https://github.com/codeigniter4/CodeIgniter4/pull/4946)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Add `?` to nullable typehints](https://github.com/codeigniter4/CodeIgniter4/pull/4928)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Define &#34;r&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4926)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Define last &#34;s&#34; rules](https://github.com/codeigniter4/CodeIgniter4/pull/4925)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
