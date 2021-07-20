@@ -13,13 +13,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 weeks ago*)
 - **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*3 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*7 months ago*)
 - **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** - A full suite installer for CodeIgniter4. (*11 months ago*)
 
@@ -36,16 +36,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix return type of `Memcached::deleteMulti`](https://github.com/phpstan/phpstan-src/pull/582)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
-- **[Normalize and add file-level headers to `system/`, `tests/`, `utils/`](https://github.com/codeigniter4/CodeIgniter4/pull/4949)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Remove useless code separator comments](https://github.com/codeigniter4/CodeIgniter4/pull/4946)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add param to all annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4940)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Define remaining rules](https://github.com/codeigniter4/CodeIgniter4/pull/4934)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Fix return type of `Memcached::deleteMulti`](https://github.com/phpstan/phpstan-src/pull/582)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
+- **[Normalize and add file-level headers to `system/`, `tests/`, `utils/`](https://github.com/codeigniter4/CodeIgniter4/pull/4949)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Remove useless code separator comments](https://github.com/codeigniter4/CodeIgniter4/pull/4946)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Add param to all annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4940)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Define remaining rules](https://github.com/codeigniter4/CodeIgniter4/pull/4934)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Define remaining phpdoc-related rules](https://github.com/codeigniter4/CodeIgniter4/pull/4933)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
