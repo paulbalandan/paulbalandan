@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*1 week ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 weeks ago*)
-- **[NexusPHP/personal-activity-reporter](https://github.com/NexusPHP/personal-activity-reporter)** - :writing_hand: A GitHub Action that automatically generates and updates the README with the recent activity of the user. (*3 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*7 months ago*)
 - **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** - A full suite installer for CodeIgniter4. (*11 months ago*)
