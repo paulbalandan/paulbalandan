@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update to phpdoc v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/4961)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update pre-commit to lint code](https://github.com/codeigniter4/CodeIgniter4/pull/4960)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add workflow for linting framework](https://github.com/codeigniter4/CodeIgniter4/pull/4958)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[Validation] Fix splitting of string rules](https://github.com/codeigniter4/CodeIgniter4/pull/4957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Fix tag casing and tag types](https://github.com/codeigniter4/CodeIgniter4/pull/4943)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Normalize var and return annotations](https://github.com/codeigniter4/CodeIgniter4/pull/4942)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Remove superfluous phpdoc tags](https://github.com/codeigniter4/CodeIgniter4/pull/4941)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
