@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix properly the phpstan error in 0.12.93](https://github.com/codeigniter4/CodeIgniter4/pull/4970)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix API repo preparation step](https://github.com/codeigniter4/CodeIgniter4/pull/4969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Manual cleanup of docblocks and comments](https://github.com/codeigniter4/CodeIgniter4/pull/4964)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Update to phpdoc v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/4961)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix return type of `Memcached::deleteMulti`](https://github.com/phpstan/phpstan-src/pull/582)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[Normalize and add file-level headers to `system/`, `tests/`, `utils/`](https://github.com/codeigniter4/CodeIgniter4/pull/4949)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Remove useless code separator comments](https://github.com/codeigniter4/CodeIgniter4/pull/4946)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Change some phpdocs to simple comments](https://github.com/codeigniter4/CodeIgniter4/pull/4945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
