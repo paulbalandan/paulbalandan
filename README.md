@@ -33,7 +33,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *1 month ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *8 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
-- **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** ([v1.0.0](https://github.com/paulbalandan/codeigniter4-installer/releases/tag/v1.0.0), *1 year ago*) - A full suite installer for CodeIgniter4.
 
 ### 🔨 My recent Pull Requests
 
