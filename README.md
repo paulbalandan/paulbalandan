@@ -36,6 +36,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[DX: Fix SCA with PHPMD](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5829)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Delete `docs` directly, not `api/docs`](https://github.com/codeigniter4/CodeIgniter4/pull/4976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Fix properly the phpstan error in 0.12.93](https://github.com/codeigniter4/CodeIgniter4/pull/4970)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Fix API repo preparation step](https://github.com/codeigniter4/CodeIgniter4/pull/4969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -45,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add workflow for linting framework](https://github.com/codeigniter4/CodeIgniter4/pull/4958)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[[Validation] Fix splitting of string rules](https://github.com/codeigniter4/CodeIgniter4/pull/4957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix return type of `Memcached::deleteMulti`](https://github.com/phpstan/phpstan-src/pull/582)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
-- **[Normalize and add file-level headers to `system/`, `tests/`, `utils/`](https://github.com/codeigniter4/CodeIgniter4/pull/4949)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
