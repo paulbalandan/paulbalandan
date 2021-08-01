@@ -22,7 +22,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*8 months ago*)
-- **[paulbalandan/codeigniter4-installer](https://github.com/paulbalandan/codeigniter4-installer)** - A full suite installer for CodeIgniter4. (*1 year ago*)
 
 ### 🔭 Latest releases I've contributed to
 
