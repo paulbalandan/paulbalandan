@@ -37,6 +37,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[DX: Fix SCA with PHPMD](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5829)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*5 days ago*)
 - **[Delete `docs` directly, not `api/docs`](https://github.com/codeigniter4/CodeIgniter4/pull/4976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix properly the phpstan error in 0.12.93](https://github.com/codeigniter4/CodeIgniter4/pull/4970)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update pre-commit to lint code](https://github.com/codeigniter4/CodeIgniter4/pull/4960)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add workflow for linting framework](https://github.com/codeigniter4/CodeIgniter4/pull/4958)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[[Validation] Fix splitting of string rules](https://github.com/codeigniter4/CodeIgniter4/pull/4957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Fix return type of `Memcached::deleteMulti`](https://github.com/phpstan/phpstan-src/pull/582)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
