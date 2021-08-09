@@ -50,11 +50,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@mgirlene](https://github.com/mgirlene)
 - [@trafficinc](https://github.com/trafficinc)
 - [@meisampalizban](https://github.com/meisampalizban)
 - [@Novusvetus](https://github.com/Novusvetus)
 - [@mbrignone93](https://github.com/mbrignone93)
-- [@ballpumpe](https://github.com/ballpumpe)
 
 ### 📫 You can reach me here
 
