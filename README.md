@@ -37,6 +37,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Remove override](https://github.com/codeigniter4/CodeIgniter4/pull/4991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix API repo preparation step](https://github.com/codeigniter4/CodeIgniter4/pull/4969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Manual cleanup of docblocks and comments](https://github.com/codeigniter4/CodeIgniter4/pull/4964)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Update to phpdoc v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/4961)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Update pre-commit to lint code](https://github.com/codeigniter4/CodeIgniter4/pull/4960)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
