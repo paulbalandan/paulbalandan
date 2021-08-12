@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*4 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
 - **[codeigniter4/api](https://github.com/codeigniter4/api)** - CodeIgniter 4.0 API (*2 weeks ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *4 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.0.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.0.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 month ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *1 month ago*) - Seamless software updates library for CodeIgniter4 projects.
@@ -37,10 +37,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 day ago*)
-- **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 day ago*)
-- **[Remove override](https://github.com/codeigniter4/CodeIgniter4/pull/4991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
+- **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
+- **[Remove override](https://github.com/codeigniter4/CodeIgniter4/pull/4991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[DX: Fix SCA with PHPMD](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5829)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
 - **[Delete `docs` directly, not `api/docs`](https://github.com/codeigniter4/CodeIgniter4/pull/4976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix properly the phpstan error in 0.12.93](https://github.com/codeigniter4/CodeIgniter4/pull/4970)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
