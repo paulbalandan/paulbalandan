@@ -37,6 +37,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Replace deprecated FILTER_SANITIZE_STRING](https://github.com/codeigniter4/CodeIgniter4/pull/5005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Make Cookie compatible with ArrayAccess](https://github.com/codeigniter4/CodeIgniter4/pull/5004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add SpaceAfterCommentStartFixer](https://github.com/codeigniter4/CodeIgniter4/pull/4999)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
 - **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
@@ -45,8 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[DX: Fix SCA with PHPMD](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5829)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
 - **[Delete `docs` directly, not `api/docs`](https://github.com/codeigniter4/CodeIgniter4/pull/4976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix properly the phpstan error in 0.12.93](https://github.com/codeigniter4/CodeIgniter4/pull/4970)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Fix API repo preparation step](https://github.com/codeigniter4/CodeIgniter4/pull/4969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Manual cleanup of docblocks and comments](https://github.com/codeigniter4/CodeIgniter4/pull/4964)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
