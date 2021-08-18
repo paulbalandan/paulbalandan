@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v2.19.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.19.2), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.0.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.0.2), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 month ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
