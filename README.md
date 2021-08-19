@@ -13,20 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
 - **[codeigniter4/api](https://github.com/codeigniter4/api)** - CodeIgniter 4.0 API (*3 weeks ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 weeks ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** - One-stop Auth package for CodeIgniter 4 (*1 month ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
 - **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer. (*8 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v2.19.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.19.2), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v2.19.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.19.2), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 month ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 months ago*) - Seamless software updates library for CodeIgniter4 projects.
@@ -37,14 +37,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Make CookieStore compatible with IteratorAggregate::getIterator](https://github.com/codeigniter4/CodeIgniter4/pull/5010)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Replace deprecated FILTER_SANITIZE_STRING](https://github.com/codeigniter4/CodeIgniter4/pull/5005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Make Cookie compatible with ArrayAccess](https://github.com/codeigniter4/CodeIgniter4/pull/5004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Add SpaceAfterCommentStartFixer](https://github.com/codeigniter4/CodeIgniter4/pull/4999)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Make CookieStore compatible with IteratorAggregate::getIterator](https://github.com/codeigniter4/CodeIgniter4/pull/5010)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Replace deprecated FILTER_SANITIZE_STRING](https://github.com/codeigniter4/CodeIgniter4/pull/5005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Make Cookie compatible with ArrayAccess](https://github.com/codeigniter4/CodeIgniter4/pull/5004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Add SpaceAfterCommentStartFixer](https://github.com/codeigniter4/CodeIgniter4/pull/4999)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
 - **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
 - **[Remove override](https://github.com/codeigniter4/CodeIgniter4/pull/4991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Fix adding foreign keys with only string fields](https://github.com/codeigniter4/CodeIgniter4/pull/4988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[DX: Fix SCA with PHPMD](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5829)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
 - **[Delete `docs` directly, not `api/docs`](https://github.com/codeigniter4/CodeIgniter4/pull/4976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
