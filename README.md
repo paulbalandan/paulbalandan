@@ -37,6 +37,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Make Time compatible with DateTime](https://github.com/codeigniter4/CodeIgniter4/pull/5022)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update to phpdocumentor v3.1.1](https://github.com/codeigniter4/CodeIgniter4/pull/5020)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add `ReturnTypeWillChange` attribute to CursorBasedIterator](https://github.com/predis/predis/pull/708)** on [predis/predis](https://github.com/predis/predis) (*1 day ago*)
 - **[Make CITestStreamFilter compatible with php_user_filter](https://github.com/codeigniter4/CodeIgniter4/pull/5014)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Make Cookie compatible with ArrayAccess](https://github.com/codeigniter4/CodeIgniter4/pull/5004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add SpaceAfterCommentStartFixer](https://github.com/codeigniter4/CodeIgniter4/pull/4999)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[ClassAttributesSeparationFixer - Fix `trait_import` spacing with conflict or visibility resolution](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5869)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
-- **[ClassAttributesSeparationFixer - Fix spacing in between different element types](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5868)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
