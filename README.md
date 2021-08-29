@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[Update documentation code samples](https://github.com/codeigniter4/CodeIgniter4/pull/5039)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Switch to official coding standard](https://github.com/codeigniter4/CodeIgniter4/pull/5038)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update dependabot config](https://github.com/codeigniter4/CodeIgniter4/pull/5027)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Shift to deptrac-shim](https://github.com/codeigniter4/CodeIgniter4/pull/5026)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Make Time compatible with DateTime](https://github.com/codeigniter4/CodeIgniter4/pull/5022)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Update to phpdocumentor v3.1.1](https://github.com/codeigniter4/CodeIgniter4/pull/5020)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
