@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 week ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 week ago*)
@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.0.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.0.0), *today*) - Official Coding Standards for CodeIgniter
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v2.19.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.19.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 month ago*) - One-stop Auth package for CodeIgniter 4
@@ -37,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Switch to official coding standard](https://github.com/codeigniter4/CodeIgniter4/pull/5038)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix broken apt installation](https://github.com/codeigniter4/CodeIgniter4/pull/5037)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Replace unused Entity private method](https://github.com/codeigniter4/CodeIgniter4/pull/5029)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Add `ReturnTypeWillChange` attribute to Entity](https://github.com/codeigniter4/CodeIgniter4/pull/5028)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -46,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update to phpdocumentor v3.1.1](https://github.com/codeigniter4/CodeIgniter4/pull/5020)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Add `ReturnTypeWillChange` attribute to CursorBasedIterator](https://github.com/predis/predis/pull/708)** on [predis/predis](https://github.com/predis/predis) (*5 days ago*)
 - **[Make CITestStreamFilter compatible with php_user_filter](https://github.com/codeigniter4/CodeIgniter4/pull/5014)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Make the session handlers all compatible with SessionHandlerInterface](https://github.com/codeigniter4/CodeIgniter4/pull/5012)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
