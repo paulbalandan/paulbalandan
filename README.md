@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 week ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 week ago*)
@@ -26,28 +26,28 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.1.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.1.0), *today*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.0.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.0.0), *today*) - Official Coding Standards for CodeIgniter
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.1.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.1.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.0.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.0.0), *1 day ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 month ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.3](https://github.com/codeigniter4/translations/releases/tag/v4.1.3), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.3), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *9 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
+- **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *10 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
 
 ### 🔨 My recent Pull Requests
 
-- **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
-- **[Update documentation code samples](https://github.com/codeigniter4/CodeIgniter4/pull/5039)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Switch to official coding standard](https://github.com/codeigniter4/CodeIgniter4/pull/5038)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix broken apt installation](https://github.com/codeigniter4/CodeIgniter4/pull/5037)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Replace unused Entity private method](https://github.com/codeigniter4/CodeIgniter4/pull/5029)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Add `ReturnTypeWillChange` attribute to Entity](https://github.com/codeigniter4/CodeIgniter4/pull/5028)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Update dependabot config](https://github.com/codeigniter4/CodeIgniter4/pull/5027)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Shift to deptrac-shim](https://github.com/codeigniter4/CodeIgniter4/pull/5026)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Make Time compatible with DateTime](https://github.com/codeigniter4/CodeIgniter4/pull/5022)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[Update documentation code samples](https://github.com/codeigniter4/CodeIgniter4/pull/5039)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Switch to official coding standard](https://github.com/codeigniter4/CodeIgniter4/pull/5038)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix broken apt installation](https://github.com/codeigniter4/CodeIgniter4/pull/5037)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Replace unused Entity private method](https://github.com/codeigniter4/CodeIgniter4/pull/5029)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Add `ReturnTypeWillChange` attribute to Entity](https://github.com/codeigniter4/CodeIgniter4/pull/5028)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Update dependabot config](https://github.com/codeigniter4/CodeIgniter4/pull/5027)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Shift to deptrac-shim](https://github.com/codeigniter4/CodeIgniter4/pull/5026)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Make Time compatible with DateTime](https://github.com/codeigniter4/CodeIgniter4/pull/5022)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
