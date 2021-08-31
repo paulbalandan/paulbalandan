@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Bump to php-cs-fixer v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/5045)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[Update documentation code samples](https://github.com/codeigniter4/CodeIgniter4/pull/5039)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add `ReturnTypeWillChange` attribute to Entity](https://github.com/codeigniter4/CodeIgniter4/pull/5028)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Update dependabot config](https://github.com/codeigniter4/CodeIgniter4/pull/5027)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Shift to deptrac-shim](https://github.com/codeigniter4/CodeIgniter4/pull/5026)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Make Time compatible with DateTime](https://github.com/codeigniter4/CodeIgniter4/pull/5022)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
