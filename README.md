@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.1.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.1.0), *today*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.1.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.1.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.0.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.0.0), *2 days ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.2.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.2.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *2 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
