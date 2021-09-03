@@ -38,6 +38,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fixes and enhancements to Exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/5052)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Bump to php-cs-fixer v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/5045)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
@@ -46,8 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix broken apt installation](https://github.com/codeigniter4/CodeIgniter4/pull/5037)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Replace unused Entity private method](https://github.com/codeigniter4/CodeIgniter4/pull/5029)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add `ReturnTypeWillChange` attribute to Entity](https://github.com/codeigniter4/CodeIgniter4/pull/5028)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Update dependabot config](https://github.com/codeigniter4/CodeIgniter4/pull/5027)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Shift to deptrac-shim](https://github.com/codeigniter4/CodeIgniter4/pull/5026)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
