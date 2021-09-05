@@ -51,11 +51,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@murilomagalhaes](https://github.com/murilomagalhaes)
 - [@ganeshdas](https://github.com/ganeshdas)
 - [@MGatner](https://github.com/MGatner)
 - [@mgirlene](https://github.com/mgirlene)
 - [@trafficinc](https://github.com/trafficinc)
-- [@meisampalizban](https://github.com/meisampalizban)
 
 ### 📫 You can reach me here
 
