@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*2 weeks ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[codeigniter4/api](https://github.com/codeigniter4/api)** - CodeIgniter 4.0 API (*1 month ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.1), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.1.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.1.0), *6 days ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.1), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.1.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.1.0), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.1.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.1.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *2 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 months ago*) - Seamless software updates library for CodeIgniter4 projects.
@@ -38,13 +38,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[GetClassToClassKeywordFixer - introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5953)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
-- **[ClassAttributesSeparationFixer - Re-add omitted `only_if_meta` option](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5952)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
-- **[Fix entity name generation when bundled in model](https://github.com/codeigniter4/CodeIgniter4/pull/5055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Fixes and enhancements to Exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/5052)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Bump to php-cs-fixer v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/5045)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[GetClassToClassKeywordFixer - introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5953)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 days ago*)
+- **[ClassAttributesSeparationFixer - Re-add omitted `only_if_meta` option](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5952)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 days ago*)
+- **[Fix entity name generation when bundled in model](https://github.com/codeigniter4/CodeIgniter4/pull/5055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Fixes and enhancements to Exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/5052)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Bump to php-cs-fixer v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/5045)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Make File compatible with SplFileInfo](https://github.com/codeigniter4/CodeIgniter4/pull/5040)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Switch to official coding standard](https://github.com/codeigniter4/translations/pull/244)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Update documentation code samples](https://github.com/codeigniter4/CodeIgniter4/pull/5039)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
