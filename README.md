@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for v4.1.4 release](https://github.com/codeigniter4/translations/pull/247)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
 - **[Merge branch &#39;4.2&#39;](https://github.com/codeigniter4/CodeIgniter4/pull/5060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Fixes and enhancements to Exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/5052)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Bump to php-cs-fixer v3.1](https://github.com/codeigniter4/CodeIgniter4/pull/5045)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
