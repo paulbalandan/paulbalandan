@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for v4.1.4 release](https://github.com/codeigniter4/translations/pull/247)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix entity name generation when bundled in model](https://github.com/codeigniter4/CodeIgniter4/pull/5055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Fixes and enhancements to Exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/5052)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
