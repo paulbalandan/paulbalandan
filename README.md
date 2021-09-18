@@ -13,16 +13,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*3 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*4 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*4 weeks ago*)
-- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*4 weeks ago*)
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
+- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 month ago*)
 - **[codeigniter4/api](https://github.com/codeigniter4/api)** - CodeIgniter 4.0 API (*1 month ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -38,15 +38,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for v4.1.4 release](https://github.com/codeigniter4/translations/pull/247)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Merge branch &#39;4.2&#39;](https://github.com/codeigniter4/CodeIgniter4/pull/5060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[GetClassToClassKeywordFixer - introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5953)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
-- **[ClassAttributesSeparationFixer - Re-add omitted `only_if_meta` option](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5952)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
-- **[Fix entity name generation when bundled in model](https://github.com/codeigniter4/CodeIgniter4/pull/5055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[GetClassToClassKeywordFixer - introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5953)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
+- **[ClassAttributesSeparationFixer - Re-add omitted `only_if_meta` option](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5952)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
+- **[Fix entity name generation when bundled in model](https://github.com/codeigniter4/CodeIgniter4/pull/5055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[Add entry to changelog for initial PHP 8.1 changes](https://github.com/codeigniter4/CodeIgniter4/pull/5054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Apply NoCodeSeparatorCommentFixer](https://github.com/codeigniter4/CodeIgniter4/pull/5053)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
