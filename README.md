@@ -38,6 +38,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Add support for new fixers added in php-cs-fixer v3.2.0](https://github.com/codeigniter4/CodeIgniter4/pull/5175)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[NoExtraBlankLinesFixer - Improve deprecation message](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6051)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Add tabs detector for RST files](https://github.com/codeigniter4/CodeIgniter4/pull/5165)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Refactor/optimise starter&#39;s tests](https://github.com/codeigniter4/CodeIgniter4/pull/5158)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -46,8 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Prep for v4.1.4 release](https://github.com/codeigniter4/translations/pull/247)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
 - **[Merge branch &#39;4.2&#39;](https://github.com/codeigniter4/CodeIgniter4/pull/5060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[GetClassToClassKeywordFixer - introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5953)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 month ago*)
-- **[ClassAttributesSeparationFixer - Re-add omitted `only_if_meta` option](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/5952)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
