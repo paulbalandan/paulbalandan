@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.2.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.2.0), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.2.1](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.2.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.4](https://github.com/codeigniter4/translations/releases/tag/v4.1.4), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.4), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
