@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Utils - Add multibyte and UTF-8 support](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6054)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add support for new fixers added in php-cs-fixer v3.2.0](https://github.com/codeigniter4/CodeIgniter4/pull/5175)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Prep for v4.1.4 release](https://github.com/codeigniter4/translations/pull/247)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
