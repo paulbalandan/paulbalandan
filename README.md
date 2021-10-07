@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.3), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.2.1](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.2.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.3), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.2.1](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.2.1), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.4](https://github.com/codeigniter4/translations/releases/tag/v4.1.4), *4 weeks ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.4), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.4), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.1.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.1.0), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *3 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *3 months ago*) - Seamless software updates library for CodeIgniter4 projects.
@@ -38,16 +38,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Utils - Add multibyte and UTF-8 support](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6054)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
-- **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Add support for new fixers added in php-cs-fixer v3.2.0](https://github.com/codeigniter4/CodeIgniter4/pull/5175)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[NoExtraBlankLinesFixer - Improve deprecation message](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6051)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 day ago*)
-- **[Add tabs detector for RST files](https://github.com/codeigniter4/CodeIgniter4/pull/5165)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Refactor/optimise starter&#39;s tests](https://github.com/codeigniter4/CodeIgniter4/pull/5158)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Utils - Add multibyte and UTF-8 support](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6054)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 day ago*)
+- **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Add support for new fixers added in php-cs-fixer v3.2.0](https://github.com/codeigniter4/CodeIgniter4/pull/5175)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[NoExtraBlankLinesFixer - Improve deprecation message](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6051)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 days ago*)
+- **[Add tabs detector for RST files](https://github.com/codeigniter4/CodeIgniter4/pull/5165)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Refactor/optimise starter&#39;s tests](https://github.com/codeigniter4/CodeIgniter4/pull/5158)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Fix debugbar styles printing](https://github.com/codeigniter4/CodeIgniter4/pull/5100)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[Test fixing apidocs action](https://github.com/codeigniter4/CodeIgniter4/pull/5064)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Add phive to tools in workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5063)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
