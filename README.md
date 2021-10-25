@@ -51,11 +51,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@michalsn](https://github.com/michalsn)
 - [@DevPrecious](https://github.com/DevPrecious)
 - [@TimexPeachtree](https://github.com/TimexPeachtree)
 - [@murilomagalhaes](https://github.com/murilomagalhaes)
 - [@ganeshdas](https://github.com/ganeshdas)
-- [@MGatner](https://github.com/MGatner)
 
 ### 📫 You can reach me here
 
