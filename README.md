@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
@@ -38,9 +38,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix wrong helper path resolution](https://github.com/codeigniter4/CodeIgniter4/pull/5246)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix wrong helper path resolution](https://github.com/codeigniter4/CodeIgniter4/pull/5246)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Rename toolbar loader to be a regular JS file](https://github.com/codeigniter4/CodeIgniter4/pull/5224)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Fix `Tokens::insertSlices` not moving around all affected tokens](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6058)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
+- **[Fix `Tokens::insertSlices` not moving around all affected tokens](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6058)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Utils - Add multibyte and UTF-8 support](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6054)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
