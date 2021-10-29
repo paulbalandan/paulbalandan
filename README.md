@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
@@ -34,11 +34,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *3 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *4 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.4](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.4), *4 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *11 months ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
+- **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *1 year ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix wrong helper path resolution](https://github.com/codeigniter4/CodeIgniter4/pull/5246)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix wrong helper path resolution](https://github.com/codeigniter4/CodeIgniter4/pull/5246)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Rename toolbar loader to be a regular JS file](https://github.com/codeigniter4/CodeIgniter4/pull/5224)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `Tokens::insertSlices` not moving around all affected tokens](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6058)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -46,8 +46,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Add support for new fixers added in php-cs-fixer v3.2.0](https://github.com/codeigniter4/CodeIgniter4/pull/5175)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[NoExtraBlankLinesFixer - Improve deprecation message](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6051)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
-- **[Add tabs detector for RST files](https://github.com/codeigniter4/CodeIgniter4/pull/5165)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Refactor/optimise starter&#39;s tests](https://github.com/codeigniter4/CodeIgniter4/pull/5158)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[Add tabs detector for RST files](https://github.com/codeigniter4/CodeIgniter4/pull/5165)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Refactor/optimise starter&#39;s tests](https://github.com/codeigniter4/CodeIgniter4/pull/5158)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
