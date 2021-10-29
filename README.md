@@ -38,6 +38,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Replace explicit calls to `Services::reset()` in tests](https://github.com/codeigniter4/CodeIgniter4/pull/5259)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Speed up `CommonSingleServiceTest`](https://github.com/codeigniter4/CodeIgniter4/pull/5258)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Disable blank issues](https://github.com/codeigniter4/CodeIgniter4/pull/5257)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enclose the PR template&#39;s notes as comments](https://github.com/codeigniter4/CodeIgniter4/pull/5256)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Optimize `builds`](https://github.com/codeigniter4/CodeIgniter4/pull/5255)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -46,8 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Rename toolbar loader to be a regular JS file](https://github.com/codeigniter4/CodeIgniter4/pull/5224)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `Tokens::insertSlices` not moving around all affected tokens](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6058)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Enable `no_alternative_syntax` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Utils - Add multibyte and UTF-8 support](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6054)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*3 weeks ago*)
-- **[Change behavior of `class_attributes_separation` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5176)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
