@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Simplify logic of `number_to_roman` function](https://github.com/codeigniter4/CodeIgniter4/pull/5270)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `ordered_class_elements` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Convert bug report to new syntax](https://github.com/codeigniter4/CodeIgniter4/pull/5264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Replace usage of `FILTER_SANITIZE_STRING`](https://github.com/codeigniter4/CodeIgniter4/pull/5263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enclose the PR template&#39;s notes as comments](https://github.com/codeigniter4/CodeIgniter4/pull/5256)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Optimize `builds`](https://github.com/codeigniter4/CodeIgniter4/pull/5255)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Cleanup php-cs-fixer config files](https://github.com/codeigniter4/CodeIgniter4/pull/5254)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Fix wrong helper path resolution](https://github.com/codeigniter4/CodeIgniter4/pull/5246)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
