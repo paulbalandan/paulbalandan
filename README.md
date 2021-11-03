@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Optimize validation tests](https://github.com/codeigniter4/CodeIgniter4/pull/5282)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix compatibility of `PgSql\Result` on closing the result instance](https://github.com/codeigniter4/CodeIgniter4/pull/5279)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix compatibility of Postgres result for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5278)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Simplify logic of `number_to_roman` function](https://github.com/codeigniter4/CodeIgniter4/pull/5270)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Replace explicit calls to `Services::reset()` in tests](https://github.com/codeigniter4/CodeIgniter4/pull/5259)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Speed up `CommonSingleServiceTest`](https://github.com/codeigniter4/CodeIgniter4/pull/5258)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Disable blank issues](https://github.com/codeigniter4/CodeIgniter4/pull/5257)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enclose the PR template&#39;s notes as comments](https://github.com/codeigniter4/CodeIgniter4/pull/5256)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
