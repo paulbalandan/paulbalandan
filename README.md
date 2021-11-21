@@ -38,6 +38,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix deprecated usage of `null` on `string` params of internal functions](https://github.com/codeigniter4/CodeIgniter4/pull/5371)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix precision loss deprecation on float to int conversion](https://github.com/codeigniter4/CodeIgniter4/pull/5370)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Optimize validation tests](https://github.com/codeigniter4/CodeIgniter4/pull/5282)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix compatibility of `PgSql\Result` on closing the result instance](https://github.com/codeigniter4/CodeIgniter4/pull/5279)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix compatibility of Postgres result for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5278)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
@@ -46,8 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Convert bug report to new syntax](https://github.com/codeigniter4/CodeIgniter4/pull/5264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Replace usage of `FILTER_SANITIZE_STRING`](https://github.com/codeigniter4/CodeIgniter4/pull/5263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Replace explicit calls to `Services::reset()` in tests](https://github.com/codeigniter4/CodeIgniter4/pull/5259)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Speed up `CommonSingleServiceTest`](https://github.com/codeigniter4/CodeIgniter4/pull/5258)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Disable blank issues](https://github.com/codeigniter4/CodeIgniter4/pull/5257)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
