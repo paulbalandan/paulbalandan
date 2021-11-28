@@ -34,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.2.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.2.0), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *4 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *5 months ago*) - Seamless software updates library for CodeIgniter4 projects.
-- **[paulbalandan/liaison-cs-config](https://github.com/paulbalandan/liaison-cs-config)** ([v1.2.1](https://github.com/paulbalandan/liaison-cs-config/releases/tag/v1.2.1), *1 year ago*) - [DEPRECATED] A configuration factory for custom rule sets for friendsofphp/php-cs-fixer.
 
 ### 🔨 My recent Pull Requests
 
