@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
@@ -38,16 +38,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Additional fix for deprecated `null` usage](https://github.com/codeigniter4/CodeIgniter4/pull/5388)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Fix deprecated usage of `null` on `string` params of internal functions](https://github.com/codeigniter4/CodeIgniter4/pull/5371)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Fix precision loss deprecation on float to int conversion](https://github.com/codeigniter4/CodeIgniter4/pull/5370)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Additional fix for deprecated `null` usage](https://github.com/codeigniter4/CodeIgniter4/pull/5388)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Fix deprecated usage of `null` on `string` params of internal functions](https://github.com/codeigniter4/CodeIgniter4/pull/5371)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Fix precision loss deprecation on float to int conversion](https://github.com/codeigniter4/CodeIgniter4/pull/5370)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Optimize validation tests](https://github.com/codeigniter4/CodeIgniter4/pull/5282)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Fix compatibility of `PgSql\Result` on closing the result instance](https://github.com/codeigniter4/CodeIgniter4/pull/5279)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Fix compatibility of Postgres result for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5278)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Simplify logic of `number_to_roman` function](https://github.com/codeigniter4/CodeIgniter4/pull/5270)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Enable `ordered_class_elements` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Convert bug report to new syntax](https://github.com/codeigniter4/CodeIgniter4/pull/5264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Replace usage of `FILTER_SANITIZE_STRING`](https://github.com/codeigniter4/CodeIgniter4/pull/5263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[Enable `ordered_class_elements` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Convert bug report to new syntax](https://github.com/codeigniter4/CodeIgniter4/pull/5264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Replace usage of `FILTER_SANITIZE_STRING`](https://github.com/codeigniter4/CodeIgniter4/pull/5263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
