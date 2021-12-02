@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*2 months ago*)
@@ -29,20 +29,20 @@ knowledge, I am continuously learning. The rest is history.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.3.2](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.3.2), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.5](https://github.com/codeigniter4/translations/releases/tag/v4.1.5), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.5), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *4 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.4), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.4), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.2.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.2.0), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *5 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *5 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 
 ### 🔨 My recent Pull Requests
 
-- **[Additional fix for deprecated `null` usage](https://github.com/codeigniter4/CodeIgniter4/pull/5388)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Additional fix for deprecated `null` usage](https://github.com/codeigniter4/CodeIgniter4/pull/5388)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix deprecated usage of `null` on `string` params of internal functions](https://github.com/codeigniter4/CodeIgniter4/pull/5371)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix precision loss deprecation on float to int conversion](https://github.com/codeigniter4/CodeIgniter4/pull/5370)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Optimize validation tests](https://github.com/codeigniter4/CodeIgniter4/pull/5282)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[Fix compatibility of `PgSql\Result` on closing the result instance](https://github.com/codeigniter4/CodeIgniter4/pull/5279)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[Fix compatibility of Postgres result for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5278)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Fix compatibility of `PgSql\Result` on closing the result instance](https://github.com/codeigniter4/CodeIgniter4/pull/5279)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[Fix compatibility of Postgres result for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5278)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Simplify logic of `number_to_roman` function](https://github.com/codeigniter4/CodeIgniter4/pull/5270)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Enable `ordered_class_elements` rule](https://github.com/codeigniter4/CodeIgniter4/pull/5265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Convert bug report to new syntax](https://github.com/codeigniter4/CodeIgniter4/pull/5264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
