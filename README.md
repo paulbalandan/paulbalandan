@@ -50,11 +50,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@royswale](https://github.com/royswale)
 - [@michalsn](https://github.com/michalsn)
 - [@DevPrecious](https://github.com/DevPrecious)
 - [@TimexPeachtree](https://github.com/TimexPeachtree)
 - [@murilomagalhaes](https://github.com/murilomagalhaes)
-- [@ganeshdas](https://github.com/ganeshdas)
 
 ### 📫 You can reach me here
 
