@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.6), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.4.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.4.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.5](https://github.com/codeigniter4/translations/releases/tag/v4.1.5), *1 month ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.5), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.4), *2 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.2.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.2.0), *2 months ago*) - Official Coding Standards for CodeIgniter
