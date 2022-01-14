@@ -37,6 +37,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Validation: support placeholders for anything](https://github.com/codeigniter4/CodeIgniter4/pull/5545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Auto-review required dependency matching in composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/5538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix function signatures in PHP 7.4](https://github.com/phpstan/phpstan-src/pull/847)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
 - **[Use PHPStan&#39;s baseline instead of global ignore of errors](https://github.com/codeigniter4/CodeIgniter4/pull/5460)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Additional fix for deprecated `null` usage](https://github.com/codeigniter4/CodeIgniter4/pull/5388)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Fix deprecated usage of `null` on `string` params of internal functions](https://github.com/codeigniter4/CodeIgniter4/pull/5371)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
