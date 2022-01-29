@@ -51,11 +51,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@holynation](https://github.com/holynation)
 - [@andresletelier](https://github.com/andresletelier)
 - [@abjaz](https://github.com/abjaz)
 - [@hilalahmad32](https://github.com/hilalahmad32)
 - [@royswale](https://github.com/royswale)
-- [@michalsn](https://github.com/michalsn)
 
 ### 📫 You can reach me here
 
