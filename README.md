@@ -13,13 +13,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*1 day ago*)
+- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*2 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 months ago*)
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*4 months ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*5 months ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*5 months ago*)
@@ -28,9 +28,9 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.8), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.3.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.3.0), *2 weeks ago*) - Official Coding Standards for CodeIgniter
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.5.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.5.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *4 weeks ago*) - A flexible and feature-complete Redis client for PHP.
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.6](https://github.com/codeigniter4/translations/releases/tag/v4.1.6), *4 weeks ago*) - System message translations for CodeIgniter4
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.5.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.5.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.6](https://github.com/codeigniter4/translations/releases/tag/v4.1.6), *1 month ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *3 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.3.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.3.4), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *7 months ago*) - One-stop Auth package for CodeIgniter 4
@@ -38,13 +38,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*1 day ago*)
-- **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*2 days ago*)
+- **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `array_flatten_with_dots` ignores empty array values](https://github.com/codeigniter4/CodeIgniter4/pull/5606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
-- **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Validation: support placeholders for anything](https://github.com/codeigniter4/CodeIgniter4/pull/5545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
+- **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Validation: support placeholders for anything](https://github.com/codeigniter4/CodeIgniter4/pull/5545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Auto-review required dependency matching in composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/5538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Remove experimental flag for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Revert workaround for php-coveralls](https://github.com/codeigniter4/CodeIgniter4/pull/5528)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
