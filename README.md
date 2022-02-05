@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*3 days ago*)
 - **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Validation: support placeholders for anything](https://github.com/codeigniter4/CodeIgniter4/pull/5545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Auto-review required dependency matching in composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/5538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Remove experimental flag for PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/5529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Revert workaround for php-coveralls](https://github.com/codeigniter4/CodeIgniter4/pull/5528)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
