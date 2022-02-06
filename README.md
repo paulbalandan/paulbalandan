@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*3 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
+- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*4 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 months ago*)
@@ -38,15 +38,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
-- **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
-- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
-- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*3 days ago*)
+- **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*4 days ago*)
 - **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix `array_flatten_with_dots` ignores empty array values](https://github.com/codeigniter4/CodeIgniter4/pull/5606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
-- **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Validation: support placeholders for anything](https://github.com/codeigniter4/CodeIgniter4/pull/5545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
