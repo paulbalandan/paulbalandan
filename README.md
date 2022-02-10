@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
 - **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *today*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *1 day ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.8), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.6](https://github.com/codeigniter4/translations/releases/tag/v4.1.6), *1 month ago*) - System message translations for CodeIgniter4
@@ -38,10 +38,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
-- **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
-- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
+- **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
+- **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
+- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*1 week ago*)
 - **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
