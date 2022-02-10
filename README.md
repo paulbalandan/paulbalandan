@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix `array_flatten_with_dots` ignores empty array values](https://github.com/codeigniter4/CodeIgniter4/pull/5606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
-- **[Refactor Database Collector display](https://github.com/codeigniter4/CodeIgniter4/pull/5553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
