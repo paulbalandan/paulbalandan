@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add header comment to scripts](https://github.com/codeigniter4/translations/pull/294)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Rename docblocks in Routes utilities classes](https://github.com/codeigniter4/CodeIgniter4/pull/5630)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Refactor `if_exist` validation with dot notation](https://github.com/codeigniter4/CodeIgniter4/pull/5607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Fix `array_flatten_with_dots` ignores empty array values](https://github.com/codeigniter4/CodeIgniter4/pull/5606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Bump minimum PHP version to 7.4](https://github.com/codeigniter4/translations/pull/281)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
