@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
-- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*1 week ago*)
-- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*1 week ago*)
+- **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*2 weeks ago*)
+- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*5 months ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *6 days ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *1 week ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.8), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Deprecate object implementations of `clean_path()` function](https://github.com/codeigniter4/CodeIgniter4/pull/5681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Add header comment to scripts](https://github.com/codeigniter4/translations/pull/294)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
-- **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Deprecate object implementations of `clean_path()` function](https://github.com/codeigniter4/CodeIgniter4/pull/5681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Add header comment to scripts](https://github.com/codeigniter4/translations/pull/294)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
+- **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
-- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*1 week ago*)
+- **[Update values of `Memcached::HAVE_**` constants](https://github.com/JetBrains/phpstorm-stubs/pull/1339)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
