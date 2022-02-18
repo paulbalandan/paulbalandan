@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[paulbalandan/phpstan-bug6263](https://github.com/paulbalandan/phpstan-bug6263)** - A reproducer for PHPStan Issue 6263 (*2 weeks ago*)
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Expand `.env` values conversion ability of `BaseConfig`](https://github.com/codeigniter4/CodeIgniter4/pull/5704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Deprecate object implementations of `clean_path()` function](https://github.com/codeigniter4/CodeIgniter4/pull/5681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Add header comment to scripts](https://github.com/codeigniter4/translations/pull/294)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
+- **[Expand `.env` values conversion ability of `BaseConfig`](https://github.com/codeigniter4/CodeIgniter4/pull/5704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Deprecate object implementations of `clean_path()` function](https://github.com/codeigniter4/CodeIgniter4/pull/5681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Add header comment to scripts](https://github.com/codeigniter4/translations/pull/294)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
