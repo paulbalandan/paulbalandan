@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Limit running PHP workflows to related PHP files](https://github.com/codeigniter4/CodeIgniter4/pull/5732)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Sass workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5731)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Expand `.env` values conversion ability of `BaseConfig`](https://github.com/codeigniter4/CodeIgniter4/pull/5704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Auto-review `require-dev` matching](https://github.com/codeigniter4/CodeIgniter4/pull/5673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Permit use of lates php-cs-fixer v3.6](https://github.com/codeigniter4/CodeIgniter4/pull/5668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Introduce Auto Review tests](https://github.com/codeigniter4/translations/pull/293)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
-- **[Convert MISSING from RST to MD file](https://github.com/codeigniter4/translations/pull/292)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
-- **[Add message when new locale has no unit test](https://github.com/codeigniter4/translations/pull/291)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
