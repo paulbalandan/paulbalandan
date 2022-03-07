@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.7.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.7.0), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.9), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.6.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.6.0), *4 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *2 months ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.1.6](https://github.com/codeigniter4/translations/releases/tag/v4.1.6), *2 months ago*) - System message translations for CodeIgniter4
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2021.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2021.3), *3 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
