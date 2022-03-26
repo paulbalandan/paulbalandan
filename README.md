@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Unset Composer&#39;s autoloader from the autoload stack](https://github.com/codeigniter4/CodeIgniter4/pull/5834)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Rename `Abstact` to `Abstract`](https://github.com/codeigniter4/CodeIgniter4/pull/5833)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update Laminas Escaper to v2.10](https://github.com/codeigniter4/CodeIgniter4/pull/5806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[BinaryOperatorSpacesFixer - Fix for alignment in `elseif`](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6333)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Expand `.env` values conversion ability of `BaseConfig`](https://github.com/codeigniter4/CodeIgniter4/pull/5704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Deprecate object implementations of `clean_path()` function](https://github.com/codeigniter4/CodeIgniter4/pull/5681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
