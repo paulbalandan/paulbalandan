@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@ChibuezeAgwuDennis](https://github.com/ChibuezeAgwuDennis)
 - [@johnadan](https://github.com/johnadan)
 - [@holynation](https://github.com/holynation)
 - [@andresletelier](https://github.com/andresletelier)
 - [@abjaz](https://github.com/abjaz)
-- [@hilalahmad32](https://github.com/hilalahmad32)
 
 ### 📫 You can reach me here
 
