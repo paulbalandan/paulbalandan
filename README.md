@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
@@ -28,7 +28,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1), *1 week ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.9), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.1.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.9), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *2 months ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *2 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v1.1.10](https://github.com/predis/predis/releases/tag/v1.1.10), *3 months ago*) - A flexible and feature-complete Redis client for PHP.
