@@ -15,14 +15,14 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 months ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 months ago*)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*3 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*8 months ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*8 months ago*)
-- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*8 months ago*)
+- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*9 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -41,7 +41,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[Unset Composer&#39;s autoloader from the autoload stack](https://github.com/codeigniter4/CodeIgniter4/pull/5834)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Rename `Abstact` to `Abstract`](https://github.com/codeigniter4/CodeIgniter4/pull/5833)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Update Laminas Escaper to v2.10](https://github.com/codeigniter4/CodeIgniter4/pull/5806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[Update Laminas Escaper to v2.10](https://github.com/codeigniter4/CodeIgniter4/pull/5806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[BinaryOperatorSpacesFixer - Fix for alignment in `elseif`](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6333)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*2 months ago*)
 - **[Delete stale.yml](https://github.com/codeigniter4/CodeIgniter4/pull/5737)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Limit running PHP workflows to related PHP files](https://github.com/codeigniter4/CodeIgniter4/pull/5732)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
