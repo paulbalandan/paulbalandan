@@ -21,7 +21,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 months ago*)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*3 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*8 months ago*)
-- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*8 months ago*)
+- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*9 months ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*9 months ago*)
 
 ### 🔭 Latest releases I've contributed to
