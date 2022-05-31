@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix ThrottleTest failing occasionally](https://github.com/codeigniter4/CodeIgniter4/pull/6056)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Unset Composer&#39;s autoloader from the autoload stack](https://github.com/codeigniter4/CodeIgniter4/pull/5834)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Rename `Abstact` to `Abstract`](https://github.com/codeigniter4/CodeIgniter4/pull/5833)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Update Laminas Escaper to v2.10](https://github.com/codeigniter4/CodeIgniter4/pull/5806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Sass workflow](https://github.com/codeigniter4/CodeIgniter4/pull/5731)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[Expand `.env` values conversion ability of `BaseConfig`](https://github.com/codeigniter4/CodeIgniter4/pull/5704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[Do not call non-statically the static `getPrivateMethodInvoker()` method](https://github.com/codeigniter4/CodeIgniter4/pull/5685)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
-- **[Improve exception logging](https://github.com/codeigniter4/CodeIgniter4/pull/5684)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
