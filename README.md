@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 months ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 months ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 months ago*)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*4 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*8 months ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*9 months ago*)
@@ -26,22 +26,22 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.0](https://github.com/codeigniter4/translations/releases/tag/v4.2.0), *4 days ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.0), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.0](https://github.com/codeigniter4/translations/releases/tag/v4.2.0), *5 days ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.0), *6 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), *2 months ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *3 months ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *4 months ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *4 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *7 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *11 months ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *11 months ago*) - Seamless software updates library for CodeIgniter4 projects.
 
 ### 🔨 My recent Pull Requests
 
-- **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
-- **[Update README to reflect new locales](https://github.com/codeigniter4/translations/pull/305)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
+- **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
+- **[Update README to reflect new locales](https://github.com/codeigniter4/translations/pull/305)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Fix MIME guessing of extension from type](https://github.com/codeigniter4/CodeIgniter4/pull/6059)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `slash_item()` erroring when property fetched does not exist on `Config\App`](https://github.com/codeigniter4/CodeIgniter4/pull/6058)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix ThrottleTest failing occasionally](https://github.com/codeigniter4/CodeIgniter4/pull/6056)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
