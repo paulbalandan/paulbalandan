@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** -  (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** -  (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
@@ -33,13 +33,13 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *4 months ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.4.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.4.0), *4 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *7 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *11 months ago*) - One-stop Auth package for CodeIgniter 4
+- **[lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth)** ([v1.0.1](https://github.com/lonnieezell/myth-auth/releases/tag/v1.0.1), *1 year ago*) - One-stop Auth package for CodeIgniter 4
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *1 year ago*) - Seamless software updates library for CodeIgniter4 projects.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
