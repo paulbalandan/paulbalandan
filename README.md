@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*today*)
 - **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*3 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -22,12 +23,12 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 months ago*)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*4 months ago*)
 - **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*9 months ago*)
-- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*10 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.1](https://github.com/codeigniter4/translations/releases/tag/v4.2.1), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.1), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1), *2 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), *3 months ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *4 months ago*) - Official Coding Standards for CodeIgniter
