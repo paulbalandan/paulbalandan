@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*5 days ago*)
+- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*6 days ago*)
 - **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*5 days ago*)
+- **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*6 days ago*)
 - **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[Update README to reflect new locales](https://github.com/codeigniter4/translations/pull/305)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[Fix MIME guessing of extension from type](https://github.com/codeigniter4/CodeIgniter4/pull/6059)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
