@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*6 days ago*)
+- **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*1 week ago*)
 - **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*1 week ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
@@ -28,7 +28,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.1](https://github.com/codeigniter4/translations/releases/tag/v4.2.1), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.1), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
+- **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *4 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1), *2 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.8.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.8.0), *3 months ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *4 months ago*) - Official Coding Standards for CodeIgniter
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*6 days ago*)
-- **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*1 week ago*)
+- **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
