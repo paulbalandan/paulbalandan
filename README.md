@@ -22,7 +22,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 months ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*5 months ago*)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** - PHP runtime &amp; extensions header files for PhpStorm (*5 months ago*)
-- **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*9 months ago*)
+- **[NexusPHP/semi-finals](https://github.com/NexusPHP/semi-finals)** - :trophy: Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests. (*10 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
