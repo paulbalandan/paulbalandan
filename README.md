@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*3 weeks ago*)
 - **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*4 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.9.5](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.5), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.5.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.5.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.9.5](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.5), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.5.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.5.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.1](https://github.com/codeigniter4/translations/releases/tag/v4.2.1), *1 month ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.1), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
