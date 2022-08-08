@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*today*)
 - **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*1 month ago*)
 - **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update README to reflect new locales](https://github.com/codeigniter4/translations/pull/305)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 - **[Fix MIME guessing of extension from type](https://github.com/codeigniter4/CodeIgniter4/pull/6059)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Fix `slash_item()` erroring when property fetched does not exist on `Config\App`](https://github.com/codeigniter4/CodeIgniter4/pull/6058)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[Fix ThrottleTest failing occasionally](https://github.com/codeigniter4/CodeIgniter4/pull/6056)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
