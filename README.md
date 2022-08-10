@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
+- **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*1 month ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.24.0](https://github.com/laravel/framework/releases/tag/v9.24.0), *today*) - The Laravel Framework.
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.2](https://github.com/codeigniter4/translations/releases/tag/v4.2.2), *2 days ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.3), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.24.0](https://github.com/laravel/framework/releases/tag/v9.24.0), *1 day ago*) - The Laravel Framework.
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.2](https://github.com/codeigniter4/translations/releases/tag/v4.2.2), *3 days ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.3), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.9.5](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.9.5), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.5.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.5.0), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.5.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.5.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *2 months ago*) - A flexible and feature-complete Redis client for PHP.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.1), *3 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *6 months ago*) - Official Coding Standards for CodeIgniter
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*1 day ago*)
+- **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*2 days ago*)
 - **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*1 month ago*)
 - **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
