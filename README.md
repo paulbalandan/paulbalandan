@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Exclude non-monolithic files from CS](https://github.com/codeigniter4/CodeIgniter4/pull/6401)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Allow calling help info using `spark --help`](https://github.com/codeigniter4/CodeIgniter4/pull/6383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Remove superfluous `--using-cache` option](https://github.com/codeigniter4/shield/pull/378)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*6 days ago*)
 - **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*1 week ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
-- **[Update README to reflect new locales](https://github.com/codeigniter4/translations/pull/305)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
