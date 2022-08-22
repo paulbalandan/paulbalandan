@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feature: OrderedTypesFixer - Introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6571)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*today*)
 - **[Exclude non-monolithic files from CS](https://github.com/codeigniter4/CodeIgniter4/pull/6401)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Allow calling help info using `spark --help`](https://github.com/codeigniter4/CodeIgniter4/pull/6383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Remove superfluous `--using-cache` option](https://github.com/codeigniter4/shield/pull/378)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Remove useless catch](https://github.com/codeigniter4/CodeIgniter4/pull/6095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Remove renumerate script in file list to lint](https://github.com/codeigniter4/CodeIgniter4/pull/6094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[Prepare changelog for v4.2.0](https://github.com/codeigniter4/translations/pull/306)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
