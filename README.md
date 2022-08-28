@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove deprecated `Nexus/space_after_comment_start`](https://github.com/codeigniter4/translations/pull/326)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[Remove unneeded abstract `handle()` method](https://github.com/codeigniter4/CodeIgniter4/pull/6434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Set cookie max Expires to 400 days](https://github.com/codeigniter4/CodeIgniter4/pull/6413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[feature: OrderedTypesFixer - Introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6571)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*6 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*2 weeks ago*)
 - **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*2 months ago*)
 - **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[Add PHP 8.2 to Unit Tests GHA](https://github.com/codeigniter4/CodeIgniter4/pull/6172)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
