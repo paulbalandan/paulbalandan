@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 weeks ago*)
 - **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*3 weeks ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*2 months ago*)
@@ -26,18 +26,21 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.27.0](https://github.com/laravel/framework/releases/tag/v9.27.0), *3 days ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.5](https://github.com/codeigniter4/translations/releases/tag/v4.2.5), *4 days ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.5), *4 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), *1 week ago*) - PHP runtime &amp; extensions header files for PhpStorm
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.5.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.5.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.0](https://github.com/predis/predis/releases/tag/v2.0.0), *2 months ago*) - A flexible and feature-complete Redis client for PHP.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.4.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.4.0), *6 months ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *10 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix redis cache increment/decrement methods](https://github.com/codeigniter4/CodeIgniter4/pull/6473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix fatal error gets turned to `0` severity on shutdown handler](https://github.com/codeigniter4/CodeIgniter4/pull/6472)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Bump `friendsofphp/php-cs-fixer` to `~3.11.0`](https://github.com/codeigniter4/CodeIgniter4/pull/6471)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Remove deprecated `Nexus/space_after_comment_start`](https://github.com/codeigniter4/translations/pull/326)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Remove unneeded abstract `handle()` method](https://github.com/codeigniter4/CodeIgniter4/pull/6434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Set cookie max Expires to 400 days](https://github.com/codeigniter4/CodeIgniter4/pull/6413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -45,9 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Exclude non-monolithic files from CS](https://github.com/codeigniter4/CodeIgniter4/pull/6401)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Allow calling help info using `spark --help`](https://github.com/codeigniter4/CodeIgniter4/pull/6383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Remove superfluous `--using-cache` option](https://github.com/codeigniter4/shield/pull/378)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
-- **[[9.x] Allow using static closures as callable for macros](https://github.com/laravel/framework/pull/43589)** on [laravel/framework](https://github.com/laravel/framework) (*3 weeks ago*)
-- **[Declare `$parameters` property of `Predis\Connection\Parameters`](https://github.com/predis/predis/pull/781)** on [predis/predis](https://github.com/predis/predis) (*2 months ago*)
-- **[Add close PR action for repo splits](https://github.com/codeigniter4/CodeIgniter4/pull/6173)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
