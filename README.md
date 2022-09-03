@@ -38,16 +38,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable `statement_indentation`](https://github.com/codeigniter4/CodeIgniter4/pull/6485)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `single_line_comment_spacing`](https://github.com/codeigniter4/CodeIgniter4/pull/6484)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `no_useless_nullsafe_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6483)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `no_trailing_comma_in_singleline`](https://github.com/codeigniter4/CodeIgniter4/pull/6482)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `no_multiple_statements_per_line`](https://github.com/codeigniter4/CodeIgniter4/pull/6481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `date_time_create_from_format_call`](https://github.com/codeigniter4/CodeIgniter4/pull/6480)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `control_structure_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `blank_line_between_import_groups`](https://github.com/codeigniter4/CodeIgniter4/pull/6478)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix redis cache increment/decrement methods](https://github.com/codeigniter4/CodeIgniter4/pull/6473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix fatal error gets turned to `0` severity on shutdown handler](https://github.com/codeigniter4/CodeIgniter4/pull/6472)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Bump `friendsofphp/php-cs-fixer` to `~3.11.0`](https://github.com/codeigniter4/CodeIgniter4/pull/6471)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Remove deprecated `Nexus/space_after_comment_start`](https://github.com/codeigniter4/translations/pull/326)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
-- **[Remove unneeded abstract `handle()` method](https://github.com/codeigniter4/CodeIgniter4/pull/6434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Set cookie max Expires to 400 days](https://github.com/codeigniter4/CodeIgniter4/pull/6413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[feature: OrderedTypesFixer - Introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6571)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
