@@ -38,6 +38,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable `date_time_create_from_format_call`](https://github.com/codeigniter4/CodeIgniter4/pull/6480)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `control_structure_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable `blank_line_between_import_groups`](https://github.com/codeigniter4/CodeIgniter4/pull/6478)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix redis cache increment/decrement methods](https://github.com/codeigniter4/CodeIgniter4/pull/6473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix fatal error gets turned to `0` severity on shutdown handler](https://github.com/codeigniter4/CodeIgniter4/pull/6472)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Bump `friendsofphp/php-cs-fixer` to `~3.11.0`](https://github.com/codeigniter4/CodeIgniter4/pull/6471)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -45,9 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Remove unneeded abstract `handle()` method](https://github.com/codeigniter4/CodeIgniter4/pull/6434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Set cookie max Expires to 400 days](https://github.com/codeigniter4/CodeIgniter4/pull/6413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feature: OrderedTypesFixer - Introduction](https://github.com/FriendsOfPHP/PHP-CS-Fixer/pull/6571)** on [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) (*1 week ago*)
-- **[Exclude non-monolithic files from CS](https://github.com/codeigniter4/CodeIgniter4/pull/6401)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Allow calling help info using `spark --help`](https://github.com/codeigniter4/CodeIgniter4/pull/6383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Remove superfluous `--using-cache` option](https://github.com/codeigniter4/shield/pull/378)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
