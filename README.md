@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add `inline_constructor_arguments` option to `class_definition`](https://github.com/codeigniter4/CodeIgniter4/pull/6486)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `statement_indentation`](https://github.com/codeigniter4/CodeIgniter4/pull/6485)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `single_line_comment_spacing`](https://github.com/codeigniter4/CodeIgniter4/pull/6484)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `no_useless_nullsafe_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6483)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable `control_structure_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `blank_line_between_import_groups`](https://github.com/codeigniter4/CodeIgniter4/pull/6478)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix redis cache increment/decrement methods](https://github.com/codeigniter4/CodeIgniter4/pull/6473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Fix fatal error gets turned to `0` severity on shutdown handler](https://github.com/codeigniter4/CodeIgniter4/pull/6472)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
