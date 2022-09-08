@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add `order` option to `phpdoc_order`](https://github.com/codeigniter4/CodeIgniter4/pull/6515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add options to `new_with_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add the `trailing_comma_single_line` option to `function_declaration`](https://github.com/codeigniter4/CodeIgniter4/pull/6513)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `curly_braces_position`](https://github.com/codeigniter4/CodeIgniter4/pull/6505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable `statement_indentation`](https://github.com/codeigniter4/CodeIgniter4/pull/6485)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Enable `single_line_comment_spacing`](https://github.com/codeigniter4/CodeIgniter4/pull/6484)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Enable `no_useless_nullsafe_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6483)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Enable `no_trailing_comma_in_singleline`](https://github.com/codeigniter4/CodeIgniter4/pull/6482)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
