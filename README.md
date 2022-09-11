@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 weeks ago*)
@@ -38,6 +38,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Add `order` option to `phpdoc_order`](https://github.com/codeigniter4/CodeIgniter4/pull/6515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Add options to `new_with_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -46,8 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix grammatical inaccuracies](https://github.com/codeigniter4/CodeIgniter4/pull/6504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Fix overlooked coding style violations](https://github.com/codeigniter4/CodeIgniter4/pull/6491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add `inline_constructor_arguments` option to `class_definition`](https://github.com/codeigniter4/CodeIgniter4/pull/6486)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable `statement_indentation`](https://github.com/codeigniter4/CodeIgniter4/pull/6485)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable `single_line_comment_spacing`](https://github.com/codeigniter4/CodeIgniter4/pull/6484)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
