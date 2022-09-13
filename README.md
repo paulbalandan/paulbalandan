@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.30.0](https://github.com/laravel/framework/releases/tag/v9.30.0), *today*) - The Laravel Framework.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *today*) - Official Coding Standards for CodeIgniter
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.28.0](https://github.com/laravel/framework/releases/tag/v9.28.0), *1 week ago*) - The Laravel Framework.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.2](https://github.com/predis/predis/releases/tag/v2.0.2), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
