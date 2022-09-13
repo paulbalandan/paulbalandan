@@ -38,6 +38,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -47,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Enable `curly_braces_position`](https://github.com/codeigniter4/CodeIgniter4/pull/6505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Fix grammatical inaccuracies](https://github.com/codeigniter4/CodeIgniter4/pull/6504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix overlooked coding style violations](https://github.com/codeigniter4/CodeIgniter4/pull/6491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add `inline_constructor_arguments` option to `class_definition`](https://github.com/codeigniter4/CodeIgniter4/pull/6486)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
