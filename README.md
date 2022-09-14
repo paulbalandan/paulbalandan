@@ -51,11 +51,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@jeroendesloovere](https://github.com/jeroendesloovere)
 - [@crysaro](https://github.com/crysaro)
 - [@samchanpanha](https://github.com/samchanpanha)
 - [@abrahamodianjo](https://github.com/abrahamodianjo)
 - [@Rohit19060](https://github.com/Rohit19060)
-- [@cijagani](https://github.com/cijagani)
 
 ### 📫 You can reach me here
 
