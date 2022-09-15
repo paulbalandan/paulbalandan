@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
@@ -26,25 +26,25 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.30.0](https://github.com/laravel/framework/releases/tag/v9.30.0), *1 day ago*) - The Laravel Framework.
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *1 day ago*) - Official Coding Standards for CodeIgniter
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.30.0](https://github.com/laravel/framework/releases/tag/v9.30.0), *2 days ago*) - The Laravel Framework.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *2 days ago*) - Official Coding Standards for CodeIgniter
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.2](https://github.com/predis/predis/releases/tag/v2.0.2), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.5](https://github.com/codeigniter4/translations/releases/tag/v4.2.5), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), *3 weeks ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *10 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Add `order` option to `phpdoc_order`](https://github.com/codeigniter4/CodeIgniter4/pull/6515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Add options to `new_with_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Add the `trailing_comma_single_line` option to `function_declaration`](https://github.com/codeigniter4/CodeIgniter4/pull/6513)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Add `order` option to `phpdoc_order`](https://github.com/codeigniter4/CodeIgniter4/pull/6515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Add options to `new_with_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Add the `trailing_comma_single_line` option to `function_declaration`](https://github.com/codeigniter4/CodeIgniter4/pull/6513)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Enable `curly_braces_position`](https://github.com/codeigniter4/CodeIgniter4/pull/6505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix grammatical inaccuracies](https://github.com/codeigniter4/CodeIgniter4/pull/6504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix overlooked coding style violations](https://github.com/codeigniter4/CodeIgniter4/pull/6491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
