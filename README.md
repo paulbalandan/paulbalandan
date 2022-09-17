@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.30.0](https://github.com/laravel/framework/releases/tag/v9.30.0), *3 days ago*) - The Laravel Framework.
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *3 days ago*) - Official Coding Standards for CodeIgniter
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.30.0](https://github.com/laravel/framework/releases/tag/v9.30.0), *4 days ago*) - The Laravel Framework.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *4 days ago*) - Official Coding Standards for CodeIgniter
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.2](https://github.com/predis/predis/releases/tag/v2.0.2), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -38,9 +38,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add `order` option to `phpdoc_order`](https://github.com/codeigniter4/CodeIgniter4/pull/6515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add options to `new_with_braces`](https://github.com/codeigniter4/CodeIgniter4/pull/6514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
