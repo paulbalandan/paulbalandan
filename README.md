@@ -20,13 +20,13 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*1 month ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*2 months ago*)
-- **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*2 months ago*)
+- **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*3 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*6 months ago*)
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*6 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.31.0](https://github.com/laravel/framework/releases/tag/v9.31.0), *3 days ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.31.0](https://github.com/laravel/framework/releases/tag/v9.31.0), *4 days ago*) - The Laravel Framework.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.2](https://github.com/predis/predis/releases/tag/v2.0.2), *2 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.6), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
