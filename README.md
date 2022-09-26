@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*1 month ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*2 months ago*)
@@ -26,19 +26,19 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.31.0](https://github.com/laravel/framework/releases/tag/v9.31.0), *5 days ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.31.0](https://github.com/laravel/framework/releases/tag/v9.31.0), *6 days ago*) - The Laravel Framework.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.2](https://github.com/predis/predis/releases/tag/v2.0.2), *2 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.6), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.11.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.11.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.5](https://github.com/codeigniter4/translations/releases/tag/v4.2.5), *3 weeks ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.5](https://github.com/codeigniter4/translations/releases/tag/v4.2.5), *4 weeks ago*) - System message translations for CodeIgniter4
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.3.5](https://github.com/NexusPHP/tachycardia/releases/tag/v1.3.5), *10 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*1 day ago*)
+- **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
 - **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
