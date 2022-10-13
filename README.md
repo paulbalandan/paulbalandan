@@ -13,16 +13,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*2 weeks ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[laravel/framework](https://github.com/laravel/framework)** - The Laravel Framework. (*2 months ago*)
 - **[predis/predis](https://github.com/predis/predis)** - A flexible and feature-complete Redis client for PHP. (*3 months ago*)
-- **[paulbalandan/create-mock](https://github.com/paulbalandan/create-mock)** - Minimal bug reproducer for Rector (to be deleted soon) (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
+- **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable `no_useless_concat_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6678)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update laminas-escaper](https://github.com/codeigniter4/CodeIgniter4/pull/6664)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Remove unneeded `$logger` property in `Session`](https://github.com/codeigniter4/CodeIgniter4/pull/6647)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 weeks ago*)
 - **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Use the `space_multiple_catch` option of `types_spaces`](https://github.com/codeigniter4/CodeIgniter4/pull/6529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Add `group_to_single_imports` option to `single_import_per_statement`](https://github.com/codeigniter4/CodeIgniter4/pull/6519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
