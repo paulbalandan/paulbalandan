@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *today*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.12.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.12.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.35.1](https://github.com/laravel/framework/releases/tag/v9.35.1), *3 days ago*) - The Laravel Framework.
-- **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *3 days ago*) - A flexible and feature-complete Redis client for PHP.
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *1 day ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)** ([v3.12.0](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v3.12.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.35.1](https://github.com/laravel/framework/releases/tag/v9.35.1), *4 days ago*) - The Laravel Framework.
+- **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *4 days ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.5.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.5.0), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.6.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.6.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
-- **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Enable `no_useless_concat_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6678)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Update laminas-escaper](https://github.com/codeigniter4/CodeIgniter4/pull/6664)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Remove unneeded `$logger` property in `Session`](https://github.com/codeigniter4/CodeIgniter4/pull/6647)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Enable `no_useless_concat_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6678)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Update laminas-escaper](https://github.com/codeigniter4/CodeIgniter4/pull/6664)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Remove unneeded `$logger` property in `Session`](https://github.com/codeigniter4/CodeIgniter4/pull/6647)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix DotEnv class turning `export` to empty string](https://github.com/codeigniter4/CodeIgniter4/pull/6625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Remove outgoing/response/018.php](https://github.com/codeigniter4/CodeIgniter4/pull/6592)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 weeks ago*)
+- **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 weeks ago*)
 - **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Enable `ensure_single_space` option of `whitespace_after_comma_in_array`](https://github.com/codeigniter4/CodeIgniter4/pull/6530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
