@@ -14,9 +14,9 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*2 weeks ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*2 weeks ago*)
@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.7](https://github.com/codeigniter4/translations/releases/tag/v4.2.7), *today*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.7.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.7.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.6.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.6.0), *today*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *1 day ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.35.1](https://github.com/laravel/framework/releases/tag/v9.35.1), *4 days ago*) - The Laravel Framework.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *4 days ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.5](https://github.com/codeigniter4/translations/releases/tag/v4.2.5), *1 month ago*) - System message translations for CodeIgniter4
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *1 year ago*) - Seamless software updates library for CodeIgniter4 projects.
 
