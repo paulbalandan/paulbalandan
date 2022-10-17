@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: Add `$useExactComparison` option to `assertLogged`](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/devkit/pull/51)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
 - **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update laminas-escaper](https://github.com/codeigniter4/CodeIgniter4/pull/6664)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Remove unneeded `$logger` property in `Session`](https://github.com/codeigniter4/CodeIgniter4/pull/6647)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix DotEnv class turning `export` to empty string](https://github.com/codeigniter4/CodeIgniter4/pull/6625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Remove outgoing/response/018.php](https://github.com/codeigniter4/CodeIgniter4/pull/6592)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[Update coding standards version](https://github.com/codeigniter4/devkit/pull/47)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 weeks ago*)
-- **[Update coding-standards version](https://github.com/codeigniter4/CodeIgniter4/pull/6537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
