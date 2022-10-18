@@ -44,7 +44,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[feat: Add `$useExactComparison` option to `assertLogged`](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[feat: Check logs against parts of the message only](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/devkit/pull/51)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 days ago*)
 - **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
