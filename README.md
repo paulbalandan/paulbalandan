@@ -41,7 +41,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Add template types to PreparedQuery](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: Add `$useExactComparison` option to `assertLogged`](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
