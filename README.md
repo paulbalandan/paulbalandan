@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove unneeded abstract public methods](https://github.com/codeigniter4/CodeIgniter4/pull/6713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/devkit/pull/51)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*4 days ago*)
 - **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/CodeIgniter4/pull/6680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Enable `no_useless_concat_operator`](https://github.com/codeigniter4/CodeIgniter4/pull/6678)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
