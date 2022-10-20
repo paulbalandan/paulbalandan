@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix coveralls failure using phpcov](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove unneeded abstract public methods](https://github.com/codeigniter4/CodeIgniter4/pull/6713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[feat: Check logs against parts of the message only](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Use environment variables instead of `set-output`](https://github.com/codeigniter4/devkit/pull/51)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*5 days ago*)
-- **[Update action workflows](https://github.com/codeigniter4/translations/pull/341)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
