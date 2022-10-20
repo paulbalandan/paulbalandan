@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix coveralls failure using phpcov](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: Coverage uploading to coveralls.io](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove unneeded abstract public methods](https://github.com/codeigniter4/CodeIgniter4/pull/6713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
