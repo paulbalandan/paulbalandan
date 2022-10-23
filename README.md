@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*6 days ago*)
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 weeks ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*3 weeks ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.6.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.6.1), *2 days ago*) - Official Coding Standards for CodeIgniter
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.36.1](https://github.com/laravel/framework/releases/tag/v9.36.1), *4 days ago*) - The Laravel Framework.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.6.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.6.1), *3 days ago*) - Official Coding Standards for CodeIgniter
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.36.1](https://github.com/laravel/framework/releases/tag/v9.36.1), *5 days ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.7](https://github.com/codeigniter4/translations/releases/tag/v4.2.7), *1 week ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.7.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.7.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *1 week ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Cancel running CI jobs when a PR is updated](https://github.com/codeigniter4/CodeIgniter4/pull/6739)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: Coverage uploading to coveralls.io](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: remove unneeded abstract public methods](https://github.com/codeigniter4/CodeIgniter4/pull/6713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: Check logs against parts of the message only](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Cancel running CI jobs when a PR is updated](https://github.com/codeigniter4/CodeIgniter4/pull/6739)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: Coverage uploading to coveralls.io](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: remove unneeded abstract public methods](https://github.com/codeigniter4/CodeIgniter4/pull/6713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Match signature of `PreparedQueryInterface::close()` to `BasePreparedQuery::close()`](https://github.com/codeigniter4/CodeIgniter4/pull/6711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: Check logs against parts of the message only](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
