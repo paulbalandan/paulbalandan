@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Use SQL Server 2022 in mssql image](https://github.com/codeigniter4/CodeIgniter4/pull/6745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Raise runner version to ubuntu-22.04](https://github.com/codeigniter4/CodeIgniter4/pull/6744)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Cancel running CI jobs when a PR is updated](https://github.com/codeigniter4/CodeIgniter4/pull/6739)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: Coverage uploading to coveralls.io](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add template types to `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/6709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Add template types to `PreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/6708)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[fix: `TestCaseTest::testStreamFilter` fails on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6706)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: Opt-in logging of deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6705)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: Check logs against parts of the message only](https://github.com/codeigniter4/CodeIgniter4/pull/6704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
