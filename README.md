@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Delete SessionsCommandsTest.php](https://github.com/codeigniter4/CodeIgniter4/pull/6768)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Leverage Tachycardia&#39;s Expeditable trait to obtain slim execution times](https://github.com/codeigniter4/CodeIgniter4/pull/6761)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Streamline Oracle docker image](https://github.com/codeigniter4/CodeIgniter4/pull/6755)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Simplify `@codeCoverageIgnore*` tags](https://github.com/codeigniter4/CodeIgniter4/pull/6754)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Raise runner version to ubuntu-22.04](https://github.com/codeigniter4/CodeIgniter4/pull/6744)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Cancel running CI jobs when a PR is updated](https://github.com/codeigniter4/CodeIgniter4/pull/6739)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: Coverage uploading to coveralls.io](https://github.com/codeigniter4/CodeIgniter4/pull/6714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
