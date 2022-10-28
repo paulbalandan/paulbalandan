@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add config changes to upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/6780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Delete admin/module directory](https://github.com/codeigniter4/CodeIgniter4/pull/6775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Turn on logging for deprecation notices by default](https://github.com/codeigniter4/CodeIgniter4/pull/6773)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Leverage Tachycardia&#39;s Expeditable trait to obtain slim execution times](https://github.com/codeigniter4/CodeIgniter4/pull/6761)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Streamline Oracle docker image](https://github.com/codeigniter4/CodeIgniter4/pull/6755)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Simplify `@codeCoverageIgnore*` tags](https://github.com/codeigniter4/CodeIgniter4/pull/6754)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Add template types to Result](https://github.com/codeigniter4/CodeIgniter4/pull/6749)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
