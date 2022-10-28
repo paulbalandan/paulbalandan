@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Turn on logging for deprecation notices by default](https://github.com/codeigniter4/CodeIgniter4/pull/6773)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Auto-review tests to enforce `@group` annotations](https://github.com/codeigniter4/CodeIgniter4/pull/6772)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add `@group UnitTest` to all other tests](https://github.com/codeigniter4/CodeIgniter4/pull/6770)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Delete SessionsCommandsTest.php](https://github.com/codeigniter4/CodeIgniter4/pull/6768)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add template types to Result](https://github.com/codeigniter4/CodeIgniter4/pull/6749)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Remove unneeded `implements`](https://github.com/codeigniter4/CodeIgniter4/pull/6748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Use SQL Server 2022 in mssql image](https://github.com/codeigniter4/CodeIgniter4/pull/6745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Raise runner version to ubuntu-22.04](https://github.com/codeigniter4/CodeIgniter4/pull/6744)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
