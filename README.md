@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Auto-review tests to enforce `@group` annotations](https://github.com/codeigniter4/CodeIgniter4/pull/6772)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Add `@group UnitTest` to all other tests](https://github.com/codeigniter4/CodeIgniter4/pull/6770)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Delete SessionsCommandsTest.php](https://github.com/codeigniter4/CodeIgniter4/pull/6768)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Leverage Tachycardia&#39;s Expeditable trait to obtain slim execution times](https://github.com/codeigniter4/CodeIgniter4/pull/6761)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Streamline Oracle docker image](https://github.com/codeigniter4/CodeIgniter4/pull/6755)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Remove unneeded `implements`](https://github.com/codeigniter4/CodeIgniter4/pull/6748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Use SQL Server 2022 in mssql image](https://github.com/codeigniter4/CodeIgniter4/pull/6745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Raise runner version to ubuntu-22.04](https://github.com/codeigniter4/CodeIgniter4/pull/6744)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Cancel running CI jobs when a PR is updated](https://github.com/codeigniter4/CodeIgniter4/pull/6739)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Fix error handler callback](https://github.com/codeigniter4/CodeIgniter4/pull/6724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
