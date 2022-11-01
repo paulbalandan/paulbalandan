@@ -13,25 +13,25 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[NexusPHP/manage-tweets](https://github.com/NexusPHP/manage-tweets)** - Manage tweets programmatically using Twitter API v2. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 month ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *today*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.9), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.6.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.6.2), *2 days ago*) - Official Coding Standards for CodeIgniter
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.37.0](https://github.com/laravel/framework/releases/tag/v9.37.0), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.7](https://github.com/codeigniter4/translations/releases/tag/v4.2.7), *2 weeks ago*) - System message translations for CodeIgniter4
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.7.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.7.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.0](https://github.com/codeigniter4/devkit/releases/tag/v1.1.0), *2 months ago*) - Development toolkit for CodeIgniter libraries and projects
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix grammatical errors in 4.3.0.rst](https://github.com/codeigniter4/CodeIgniter4/pull/6800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Add config changes to upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/6780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Delete admin/module directory](https://github.com/codeigniter4/CodeIgniter4/pull/6775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Turn on logging for deprecation notices by default](https://github.com/codeigniter4/CodeIgniter4/pull/6773)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
