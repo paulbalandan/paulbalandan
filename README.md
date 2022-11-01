@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/manage-tweets](https://github.com/NexusPHP/manage-tweets)** - Manage tweets programmatically using Twitter API v2. (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix grammatical errors in 4.3.0.rst](https://github.com/codeigniter4/CodeIgniter4/pull/6800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[CS fix for AutoloaderTest](https://github.com/codeigniter4/CodeIgniter4/pull/6790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add config changes to upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/6780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Delete admin/module directory](https://github.com/codeigniter4/CodeIgniter4/pull/6775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Turn on logging for deprecation notices by default](https://github.com/codeigniter4/CodeIgniter4/pull/6773)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Auto-review tests to enforce `@group` annotations](https://github.com/codeigniter4/CodeIgniter4/pull/6772)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
