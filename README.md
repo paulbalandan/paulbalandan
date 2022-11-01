@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Group `runInSeparateProcess` and `preserveGlobalState`](https://github.com/codeigniter4/CodeIgniter4/pull/6788)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Fix faker access deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6787)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Add config changes to upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/6780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Delete admin/module directory](https://github.com/codeigniter4/CodeIgniter4/pull/6775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
