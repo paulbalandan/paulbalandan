@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
-- **[NexusPHP/manage-tweets](https://github.com/NexusPHP/manage-tweets)** - Manage tweets programmatically using Twitter API v2. (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
+- **[NexusPHP/manage-tweets](https://github.com/NexusPHP/manage-tweets)** - Manage tweets programmatically using Twitter API v2. (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v8.83.26](https://github.com/laravel/framework/releases/tag/v8.83.26), *1 day ago*) - The Laravel Framework.
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *1 day ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.9), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v8.83.26](https://github.com/laravel/framework/releases/tag/v8.83.26), *2 days ago*) - The Laravel Framework.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *2 days ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.9](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.9), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.7](https://github.com/codeigniter4/translations/releases/tag/v4.2.7), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Fix grammatical errors in 4.3.0.rst](https://github.com/codeigniter4/CodeIgniter4/pull/6800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[CS fix for AutoloaderTest](https://github.com/codeigniter4/CodeIgniter4/pull/6790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Group `runInSeparateProcess` and `preserveGlobalState`](https://github.com/codeigniter4/CodeIgniter4/pull/6788)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Fix faker access deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6787)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Fix grammatical errors in 4.3.0.rst](https://github.com/codeigniter4/CodeIgniter4/pull/6800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[CS fix for AutoloaderTest](https://github.com/codeigniter4/CodeIgniter4/pull/6790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Group `runInSeparateProcess` and `preserveGlobalState`](https://github.com/codeigniter4/CodeIgniter4/pull/6788)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Fix faker access deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6787)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
