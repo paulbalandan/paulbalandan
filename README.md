@@ -13,15 +13,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
 - **[NexusPHP/manage-tweets](https://github.com/NexusPHP/manage-tweets)** - Manage tweets programmatically using Twitter API v2. (*6 days ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*3 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 month ago*)
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
