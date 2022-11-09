@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: Remove previous CS overrides](https://github.com/codeigniter4/CodeIgniter4/pull/6836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CS fix for AutoloaderTest](https://github.com/codeigniter4/CodeIgniter4/pull/6790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Group `runInSeparateProcess` and `preserveGlobalState`](https://github.com/codeigniter4/CodeIgniter4/pull/6788)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix faker access deprecations](https://github.com/codeigniter4/CodeIgniter4/pull/6787)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Remove testing of deprecated methods in CookieStore](https://github.com/codeigniter4/CodeIgniter4/pull/6781)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
