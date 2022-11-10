@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@yamileth15](https://github.com/yamileth15)
 - [@EdsonACortese](https://github.com/EdsonACortese)
 - [@jeroendesloovere](https://github.com/jeroendesloovere)
 - [@crysaro](https://github.com/crysaro)
 - [@samchanpanha](https://github.com/samchanpanha)
-- [@abrahamodianjo](https://github.com/abrahamodianjo)
 
 ### 📫 You can reach me here
 
