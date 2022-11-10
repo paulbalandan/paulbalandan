@@ -53,10 +53,10 @@ knowledge, I am continuously learning. The rest is history.
 ### 👯 Check out some of my recent followers
 
 - [@EdsonACortese](https://github.com/EdsonACortese)
-- [@paulaxisabel](https://github.com/paulaxisabel)
 - [@jeroendesloovere](https://github.com/jeroendesloovere)
 - [@crysaro](https://github.com/crysaro)
 - [@samchanpanha](https://github.com/samchanpanha)
+- [@abrahamodianjo](https://github.com/abrahamodianjo)
 
 ### 📫 You can reach me here
 
