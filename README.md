@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix MigrationRunnerTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6855)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix ShowTableInfoTest to pass on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6853)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Convert PHPUnit tests to use reusable workflows](https://github.com/codeigniter4/CodeIgniter4/pull/6849)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Improve outputs of bin/generate-page script](https://github.com/codeigniter4/translations/pull/348)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
 - **[Update .gitattributes](https://github.com/codeigniter4/translations/pull/347)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix deptrac requires ^8.1](https://github.com/codeigniter4/CodeIgniter4/pull/6804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add a check for updated version before deployment](https://github.com/codeigniter4/CodeIgniter4/pull/6802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Update PR template](https://github.com/codeigniter4/CodeIgniter4/pull/6801)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
