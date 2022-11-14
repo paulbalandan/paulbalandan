@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Refactor AlterTableTest](https://github.com/codeigniter4/CodeIgniter4/pull/6858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix CreateDatabase leaving altered database config in connection](https://github.com/codeigniter4/CodeIgniter4/pull/6856)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix MigrationRunnerTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6855)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix ShowTableInfoTest to pass on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6853)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Handle key generation when key is not present in .env](https://github.com/codeigniter4/CodeIgniter4/pull/6839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: Remove previous CS overrides](https://github.com/codeigniter4/CodeIgniter4/pull/6836)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Refactor assertHeaderEmitted and assertHeaderNotEmitted](https://github.com/codeigniter4/CodeIgniter4/pull/6806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Enable xdebug regardless of coverage option](https://github.com/codeigniter4/CodeIgniter4/pull/6805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
