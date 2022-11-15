@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Improve testing for `MetadataTest`](https://github.com/codeigniter4/CodeIgniter4/pull/6869)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix ShowTableInfoTest when migration records are numerous](https://github.com/codeigniter4/CodeIgniter4/pull/6868)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix CreateDatabaseTest to not leave database](https://github.com/codeigniter4/CodeIgniter4/pull/6867)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix MigrateStatusTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6866)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update README for tests](https://github.com/codeigniter4/CodeIgniter4/pull/6865)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix MigrationRunnerTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6855)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Fix ShowTableInfoTest to pass on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6853)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Convert PHPUnit tests to use reusable workflows](https://github.com/codeigniter4/CodeIgniter4/pull/6849)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Improve outputs of bin/generate-page script](https://github.com/codeigniter4/translations/pull/348)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
-- **[Update .gitattributes](https://github.com/codeigniter4/translations/pull/347)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
