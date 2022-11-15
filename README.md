@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix CreateDatabaseTest to not leave database](https://github.com/codeigniter4/CodeIgniter4/pull/6867)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix MigrateStatusTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6866)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update README for tests](https://github.com/codeigniter4/CodeIgniter4/pull/6865)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Refactor AlterTableTest](https://github.com/codeigniter4/CodeIgniter4/pull/6858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Convert PHPUnit tests to use reusable workflows](https://github.com/codeigniter4/CodeIgniter4/pull/6849)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Improve outputs of bin/generate-page script](https://github.com/codeigniter4/translations/pull/348)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 - **[Update .gitattributes](https://github.com/codeigniter4/translations/pull/347)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
-- **[Handle key generation when key is not present in .env](https://github.com/codeigniter4/CodeIgniter4/pull/6839)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
