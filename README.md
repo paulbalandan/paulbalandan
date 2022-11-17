@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.0.0), *today*) - Prevent merge commits in pull requests.
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.40.1](https://github.com/laravel/framework/releases/tag/v9.40.1), *2 days ago*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -35,10 +36,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.0](https://github.com/codeigniter4/devkit/releases/tag/v1.1.0), *2 months ago*) - Development toolkit for CodeIgniter libraries and projects
-- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2), *2 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 
 ### 🔨 My recent Pull Requests
 
+- **[Add rebuilt index.js](https://github.com/NexusPHP/no-merge-commits/pull/1)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[Improve testing for `MetadataTest`](https://github.com/codeigniter4/CodeIgniter4/pull/6869)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Fix ShowTableInfoTest when migration records are numerous](https://github.com/codeigniter4/CodeIgniter4/pull/6868)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Fix CreateDatabaseTest to not leave database](https://github.com/codeigniter4/CodeIgniter4/pull/6867)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix CreateDatabase leaving altered database config in connection](https://github.com/codeigniter4/CodeIgniter4/pull/6856)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Fix MigrationRunnerTest for Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6855)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Fix ShowTableInfoTest to pass on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/6853)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Convert PHPUnit tests to use reusable workflows](https://github.com/codeigniter4/CodeIgniter4/pull/6849)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
