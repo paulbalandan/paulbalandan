@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Cache phpunit&#39;s static analysis coverage cache](https://github.com/codeigniter4/CodeIgniter4/pull/6885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Upload phpunit&#39;s static analysis coverage cache](https://github.com/codeigniter4/CodeIgniter4/pull/6885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add `is_windows()` global function](https://github.com/codeigniter4/CodeIgniter4/pull/6884)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add rebuilt index.js](https://github.com/NexusPHP/no-merge-commits/pull/1)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[Improve testing for `MetadataTest`](https://github.com/codeigniter4/CodeIgniter4/pull/6869)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
