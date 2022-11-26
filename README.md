@@ -13,22 +13,22 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/spencer-bot](https://github.com/NexusPHP/spencer-bot)** - An issue butler made with Probot (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 days ago*)
+- **[NexusPHP/spencer-bot](https://github.com/NexusPHP/spencer-bot)** - An issue butler made with Probot (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*5 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 month ago*)
-- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*1 month ago*)
+- **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.41.0](https://github.com/laravel/framework/releases/tag/v9.41.0), *3 days ago*) - The Laravel Framework.
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *4 days ago*) - Prevent merge commits in pull requests.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.41.0](https://github.com/laravel/framework/releases/tag/v9.41.0), *4 days ago*) - The Laravel Framework.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *5 days ago*) - Prevent merge commits in pull requests.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/8)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
-- **[Fix links in github actions console](https://github.com/NexusPHP/no-merge-commits/pull/6)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/5)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/4)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[Use verbose logging](https://github.com/NexusPHP/no-merge-commits/pull/2)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[Fix coverage merge warning](https://github.com/codeigniter4/CodeIgniter4/pull/6885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[Add `is_windows()` global function](https://github.com/codeigniter4/CodeIgniter4/pull/6884)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/8)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
+- **[Fix links in github actions console](https://github.com/NexusPHP/no-merge-commits/pull/6)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/5)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/4)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
+- **[Use verbose logging](https://github.com/NexusPHP/no-merge-commits/pull/2)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
+- **[Fix coverage merge warning](https://github.com/codeigniter4/CodeIgniter4/pull/6885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Add `is_windows()` global function](https://github.com/codeigniter4/CodeIgniter4/pull/6884)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add rebuilt index.js](https://github.com/NexusPHP/no-merge-commits/pull/1)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[Improve testing for `MetadataTest`](https://github.com/codeigniter4/CodeIgniter4/pull/6869)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
