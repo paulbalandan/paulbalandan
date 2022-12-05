@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[NexusPHP/spencer-bot](https://github.com/NexusPHP/spencer-bot)** - An issue butler made with Probot (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.42.0](https://github.com/laravel/framework/releases/tag/v9.42.0), *5 days ago*) - The Laravel Framework.
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *1 week ago*) - Prevent merge commits in pull requests.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.42.0](https://github.com/laravel/framework/releases/tag/v9.42.0), *6 days ago*) - The Laravel Framework.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *2 weeks ago*) - Prevent merge commits in pull requests.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.0), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.0), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,8 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/8)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/8)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Fix links in github actions console](https://github.com/NexusPHP/no-merge-commits/pull/6)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/5)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/4)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
