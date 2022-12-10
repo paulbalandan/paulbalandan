@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), *today*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.43.0](https://github.com/laravel/framework/releases/tag/v9.43.0), *4 days ago*) - The Laravel Framework.
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *2 weeks ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.10](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.10), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.7](https://github.com/codeigniter4/translations/releases/tag/v4.2.7), *1 month ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.0.3](https://github.com/predis/predis/releases/tag/v2.0.3), *2 months ago*) - A flexible and feature-complete Redis client for PHP.
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.0](https://github.com/codeigniter4/devkit/releases/tag/v1.1.0), *3 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
 
