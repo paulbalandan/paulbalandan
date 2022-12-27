@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.45.1](https://github.com/laravel/framework/releases/tag/v9.45.1), *today*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.11](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.11), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *5 days ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.1), *5 days ago*) - Official Coding Standards for CodeIgniter
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.45.0](https://github.com/laravel/framework/releases/tag/v9.45.0), *1 week ago*) - The Laravel Framework.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), *2 weeks ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *1 month ago*) - Prevent merge commits in pull requests.
