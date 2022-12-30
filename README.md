@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.45.1](https://github.com/laravel/framework/releases/tag/v9.45.1), *2 days ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.45.1](https://github.com/laravel/framework/releases/tag/v9.45.1), *3 days ago*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.11](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.11), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.1), *1 week ago*) - Official Coding Standards for CodeIgniter
