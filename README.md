@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.46.0](https://github.com/laravel/framework/releases/tag/v9.46.0), *today*) - The Laravel Framework.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.2), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.2.11](https://github.com/codeigniter4/translations/releases/tag/v4.2.11), *3 days ago*) - System message translations for CodeIgniter4
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.45.1](https://github.com/laravel/framework/releases/tag/v9.45.1), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.2.11](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.2.11), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.1), *1 week ago*) - Official Coding Standards for CodeIgniter
