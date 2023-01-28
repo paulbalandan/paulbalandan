@@ -29,7 +29,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *1 week ago*) - System message translations for CodeIgniter4
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.1](https://github.com/predis/predis/releases/tag/v2.1.1), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[laravel/framework](https://github.com/laravel/framework)** ([v9.48.0](https://github.com/laravel/framework/releases/tag/v9.48.0), *1 week ago*) - The Laravel Framework.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.1), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.1), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.13.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.13.2), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.1), *1 month ago*) - Official Coding Standards for CodeIgniter
