@@ -43,7 +43,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix diffing of deeply nested array translations](https://github.com/codeigniter4/translations/pull/366)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Replace deprecated `COMPOSER_TOKEN` with `GITHUB_TOKEN`](https://github.com/codeigniter4/shield/pull/602)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[Set `GITHUB_TOKEN` env in setup-php](https://github.com/codeigniter4/translations/pull/355)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
-- **[Auto-review updating of license year](https://github.com/codeigniter4/translations/pull/352)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
+- **[Auto-review updating of license year](https://github.com/codeigniter4/translations/pull/352)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 weeks ago*)
 - **[feat: add `shield:model` command](https://github.com/codeigniter4/shield/pull/558)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
 - **[Unify platform checking](https://github.com/codeigniter4/CodeIgniter4/pull/6945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
