@@ -33,9 +33,9 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.1), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.1), *1 month ago*) - Official Coding Standards for CodeIgniter
-- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2022.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.3), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *2 months ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.8.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.8.0), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *3 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
