@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), *5 days ago*) - The Laravel Framework.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[laravel/framework](https://github.com/laravel/framework)** ([v9.49.0](https://github.com/laravel/framework/releases/tag/v9.49.0), *6 days ago*) - The Laravel Framework.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.3), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.1](https://github.com/predis/predis/releases/tag/v2.1.1), *2 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.1), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
