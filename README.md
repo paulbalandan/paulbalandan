@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.0.0](https://github.com/laravel/framework/releases/tag/v10.0.0), *today*) - The Laravel Framework.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.51.0](https://github.com/laravel/framework/releases/tag/v9.51.0), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.1](https://github.com/predis/predis/releases/tag/v2.1.1), *4 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.1), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
