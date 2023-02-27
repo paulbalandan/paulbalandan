@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.1.1](https://github.com/laravel/framework/releases/tag/v10.1.1), *5 days ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.1.1](https://github.com/laravel/framework/releases/tag/v10.1.1), *6 days ago*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.2), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *1 month ago*) - System message translations for CodeIgniter4
@@ -39,8 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Fix metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Replace deprecated `CLI::isWindows()`](https://github.com/codeigniter4/translations/pull/367)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[Fix diffing of deeply nested array translations](https://github.com/codeigniter4/translations/pull/366)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[Replace deprecated `COMPOSER_TOKEN` with `GITHUB_TOKEN`](https://github.com/codeigniter4/shield/pull/602)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
