@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v9.52.4](https://github.com/laravel/framework/releases/tag/v9.52.4), *today*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), *today*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.2), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *1 month ago*) - System message translations for CodeIgniter4
