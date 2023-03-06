@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 months ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.2), *today*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.9.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.9.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[predis/predis](https://github.com/predis/predis)** ([v2.1.2](https://github.com/predis/predis/releases/tag/v2.1.2), *3 days ago*) - A flexible and feature-complete Redis client for PHP.
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), *5 days ago*) - The Laravel Framework.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.2), *1 day ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.9.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.9.0), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[predis/predis](https://github.com/predis/predis)** ([v2.1.2](https://github.com/predis/predis/releases/tag/v2.1.2), *4 days ago*) - A flexible and feature-complete Redis client for PHP.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.1.5](https://github.com/laravel/framework/releases/tag/v10.1.5), *6 days ago*) - The Laravel Framework.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.2), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.14.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.0](https://github.com/codeigniter4/translations/releases/tag/v4.3.0), *1 month ago*) - System message translations for CodeIgniter4
@@ -47,7 +47,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[Set `GITHUB_TOKEN` env in setup-php](https://github.com/codeigniter4/translations/pull/355)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[Auto-review updating of license year](https://github.com/codeigniter4/translations/pull/352)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 - **[feat: add `shield:model` command](https://github.com/codeigniter4/shield/pull/558)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 months ago*)
-- **[Unify platform checking](https://github.com/codeigniter4/CodeIgniter4/pull/6945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
+- **[Unify platform checking](https://github.com/codeigniter4/CodeIgniter4/pull/6945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
