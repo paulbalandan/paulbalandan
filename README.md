@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.3.1](https://github.com/laravel/framework/releases/tag/v10.3.1), *6 days ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.3.3](https://github.com/laravel/framework/releases/tag/v10.3.3), *today*) - The Laravel Framework.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.2), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.9.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.9.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.2](https://github.com/predis/predis/releases/tag/v2.1.2), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@alineai18](https://github.com/alineai18)
 - [@nizzam](https://github.com/nizzam)
 - [@jozefrebjak](https://github.com/jozefrebjak)
 - [@demirkaric](https://github.com/demirkaric)
 - [@jmmaguigad](https://github.com/jmmaguigad)
-- [@yamileth15](https://github.com/yamileth15)
 
 ### 📫 You can reach me here
 
