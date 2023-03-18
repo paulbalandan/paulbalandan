@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix intermittent failures on CI](https://github.com/codeigniter4/translations/pull/382)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[fix: incorrect metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[fix: handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Replace deprecated `CLI::isWindows()`](https://github.com/codeigniter4/translations/pull/367)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Auto-review updating of license year](https://github.com/codeigniter4/translations/pull/352)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 - **[feat: add `shield:model` command](https://github.com/codeigniter4/shield/pull/558)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 months ago*)
 - **[Unify platform checking](https://github.com/codeigniter4/CodeIgniter4/pull/6945)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/9)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
