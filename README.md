@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
+- **[bug: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[bug: CurlyBracesPositionFixer - fix for callable return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6855)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
 - **[Fix intermittent failures on CI](https://github.com/codeigniter4/translations/pull/382)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[fix: incorrect metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix diffing of deeply nested array translations](https://github.com/codeigniter4/translations/pull/366)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
 - **[Replace deprecated `COMPOSER_TOKEN` with `GITHUB_TOKEN`](https://github.com/codeigniter4/shield/pull/602)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 months ago*)
 - **[Set `GITHUB_TOKEN` env in setup-php](https://github.com/codeigniter4/translations/pull/355)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
-- **[Auto-review updating of license year](https://github.com/codeigniter4/translations/pull/352)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
-- **[feat: add `shield:model` command](https://github.com/codeigniter4/shield/pull/558)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
