@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.3), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.4.1](https://github.com/laravel/framework/releases/tag/v10.4.1), *5 days ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0-beta.5](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.5), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.2), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.9.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.9.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.2](https://github.com/predis/predis/releases/tag/v2.1.2), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.2), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *3 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *4 months ago*) - Prevent merge commits in pull requests.
 
