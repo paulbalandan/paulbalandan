@@ -13,24 +13,24 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*6 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 months ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 months ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 months ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*5 months ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*6 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.3), *today*) - Open Source PHP Framework (originally from EllisLab)
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.4.1](https://github.com/laravel/framework/releases/tag/v10.4.1), *5 days ago*) - The Laravel Framework.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.3), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.4.1](https://github.com/laravel/framework/releases/tag/v10.4.1), *6 days ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0-beta.5](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.5), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.2), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.9.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.9.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.1.2](https://github.com/predis/predis/releases/tag/v2.1.2), *3 weeks ago*) - A flexible and feature-complete Redis client for PHP.
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
-- **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[feature: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[bug: CurlyBracesPositionFixer - fix for callable return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6855)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
+- **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[feature: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[bug: CurlyBracesPositionFixer - fix for callable return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6855)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[Fix intermittent failures on CI](https://github.com/codeigniter4/translations/pull/382)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[fix: incorrect metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[fix: handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
