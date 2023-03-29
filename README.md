@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.3), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.3), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.4.1](https://github.com/laravel/framework/releases/tag/v10.4.1), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *1 week ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0-beta.5](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.5), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
-- **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
-- **[feature: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
-- **[bug: CurlyBracesPositionFixer - fix for callable return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6855)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
+- **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
+- **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
+- **[feature: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
+- **[bug: CurlyBracesPositionFixer - fix for callable return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6855)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*5 days ago*)
 - **[Fix intermittent failures on CI](https://github.com/codeigniter4/translations/pull/382)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[fix: incorrect metadata querying of Redis cache](https://github.com/codeigniter4/CodeIgniter4/pull/7307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[fix: handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
