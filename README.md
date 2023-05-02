@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: make:cell using class as view file](https://github.com/codeigniter4/CodeIgniter4/pull/7471)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[feature: AbstractPhpUnitFixer - support attribute detection in docblock insertion](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6858)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: handling of null bytes in `Exceptions::renderBacktrace()`](https://github.com/codeigniter4/CodeIgniter4/pull/7306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Replace deprecated `CLI::isWindows()`](https://github.com/codeigniter4/translations/pull/367)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 months ago*)
 - **[Fix diffing of deeply nested array translations](https://github.com/codeigniter4/translations/pull/366)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 months ago*)
-- **[Replace deprecated `COMPOSER_TOKEN` with `GITHUB_TOKEN`](https://github.com/codeigniter4/shield/pull/602)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
