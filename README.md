@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.10.0](https://github.com/laravel/framework/releases/tag/v10.10.0), *4 days ago*) - The Laravel Framework.
-- **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *4 days ago*) - A flexible and feature-complete Redis client for PHP.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.10.0](https://github.com/laravel/framework/releases/tag/v10.10.0), *5 days ago*) - The Laravel Framework.
+- **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *5 days ago*) - A flexible and feature-complete Redis client for PHP.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.3), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.10.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.10.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.4), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add Windows tests to GHA](https://github.com/codeigniter4/CodeIgniter4/pull/7491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Add Windows tests to GHA](https://github.com/codeigniter4/CodeIgniter4/pull/7491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: standardize behavior of `make:cell` and `Cells`](https://github.com/codeigniter4/CodeIgniter4/pull/7481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Remove composer compatibility option for PHP 8.2](https://github.com/codeigniter4/CodeIgniter4/pull/7480)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: forbid single words as cell name input in `make:cell`](https://github.com/codeigniter4/CodeIgniter4/pull/7479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
