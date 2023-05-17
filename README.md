@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
@@ -26,25 +26,25 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), *today*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), *1 day ago*) - The Laravel Framework.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.3), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.10.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.10.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.4), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *1 month ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *4 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *5 months ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *7 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: simplify extraction of email parts](https://github.com/codeigniter4/shield/pull/742)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
-- **[feature: DescribeCommand - allow describing custom fixers](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6957)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
-- **[Add Windows tests to GHA](https://github.com/codeigniter4/CodeIgniter4/pull/7491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[fix: simplify extraction of email parts](https://github.com/codeigniter4/shield/pull/742)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
+- **[feature: DescribeCommand - allow describing custom fixers](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6957)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
+- **[Add Windows tests to GHA](https://github.com/codeigniter4/CodeIgniter4/pull/7491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[fix: standardize behavior of `make:cell` and `Cells`](https://github.com/codeigniter4/CodeIgniter4/pull/7481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Remove composer compatibility option for PHP 8.2](https://github.com/codeigniter4/CodeIgniter4/pull/7480)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: forbid single words as cell name input in `make:cell`](https://github.com/codeigniter4/CodeIgniter4/pull/7479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: forbid single words as cell name input in `make:cell`](https://github.com/codeigniter4/CodeIgniter4/pull/7479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[fix: make:cell using class as view file](https://github.com/codeigniter4/CodeIgniter4/pull/7471)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[bug: VoidReturnFixer - fix for intervening attributes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6863)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[bug: CurlyBracesPositionFixer - fix for DNF types](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6859)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
