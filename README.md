@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 days ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 month ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.5), *today*) - Open Source PHP Framework (originally from EllisLab)
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), *5 days ago*) - The Laravel Framework.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.5), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.11.0](https://github.com/laravel/framework/releases/tag/v10.11.0), *6 days ago*) - The Laravel Framework.
 - **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *1 week ago*) - A flexible and feature-complete Redis client for PHP.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.3), *2 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.10.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.10.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: simplify extraction of email parts](https://github.com/codeigniter4/shield/pull/742)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*6 days ago*)
+- **[fix: simplify extraction of email parts](https://github.com/codeigniter4/shield/pull/742)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[feature: DescribeCommand - allow describing custom fixers](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6957)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[Add Windows tests to GHA](https://github.com/codeigniter4/CodeIgniter4/pull/7491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: standardize behavior of `make:cell` and `Cells`](https://github.com/codeigniter4/CodeIgniter4/pull/7481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
