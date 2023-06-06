@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[minor: SingleSpaceAroundConstructFixer - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[bug: ListFilesCommand - fix computing of relative path](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7028)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feature: Introduce `TypehintSpaceFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7001)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: SingleSpaceAroundConstructFixer - fix more cases involving `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6995)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: CompactNullableTypehintFixer - fix for whitespace between `?` and `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6993)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[fix: simplify extraction of email parts](https://github.com/codeigniter4/shield/pull/742)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
