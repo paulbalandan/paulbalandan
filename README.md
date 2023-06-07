@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.0](https://github.com/laravel/framework/releases/tag/v10.13.0), *1 week ago*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), *today*) - The Laravel Framework.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.11.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.11.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@agusharya17](https://github.com/agusharya17)
 - [@sukrillah](https://github.com/sukrillah)
 - [@4cyberlord](https://github.com/4cyberlord)
 - [@FelipeLamas](https://github.com/FelipeLamas)
 - [@peserra](https://github.com/peserra)
-- [@kingstar1115](https://github.com/kingstar1115)
 
 ### 📫 You can reach me here
 
