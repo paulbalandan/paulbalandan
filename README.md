@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 weeks ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), *today*) - The Laravel Framework.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), *1 day ago*) - The Laravel Framework.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.11.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.11.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *4 weeks ago*) - A flexible and feature-complete Redis client for PHP.
+- **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.3), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.1](https://github.com/codeigniter4/translations/releases/tag/v4.3.1), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *5 months ago*) - Development toolkit for CodeIgniter libraries and projects
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[minor: SingleSpaceAroundConstructFixer - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[bug: ListFilesCommand - fix computing of relative path](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7028)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[bug: SelfStaticAccessor - fix static access inside enums](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7024)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
-- **[minor: Utils - add naturalLanguageJoin](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7022)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[minor: SingleSpaceAroundConstructFixer - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[bug: ListFilesCommand - fix computing of relative path](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7028)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[bug: SelfStaticAccessor - fix static access inside enums](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7024)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
+- **[minor: Utils - add naturalLanguageJoin](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7022)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[feature: Introduce `NullableTypeDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7002)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[feature: Introduce `TypehintSpaceFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7001)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: SingleSpaceAroundConstructFixer - fix more cases involving `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6995)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[bug: CompactNullableTypehintFixer - fix for whitespace between `?` and `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6993)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[bug: CompactNullableTypehintFixer - fix for whitespace between `?` and `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6993)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
