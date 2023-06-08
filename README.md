@@ -46,7 +46,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[bug: SelfStaticAccessor - fix static access inside enums](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7024)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[minor: Utils - add naturalLanguageJoin](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7022)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[feature: Introduce `NullableTypeDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7002)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[feature: Introduce `TypehintSpaceFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7001)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[feature: Introduce `TypeDeclarationSpacesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7001)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: SingleSpaceAroundConstructFixer - fix more cases involving `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6995)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: CompactNullableTypehintFixer - fix for whitespace between `?` and `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6993)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 
