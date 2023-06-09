@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[DX: Cleanup duplicate files in finder](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7042)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[minor: SingleSpaceAroundConstructFixer - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feature: Introduce `NullableTypeDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7002)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[feature: Introduce `TypeDeclarationSpacesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7001)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: SingleSpaceAroundConstructFixer - fix more cases involving `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6995)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
-- **[bug: CompactNullableTypehintFixer - fix for whitespace between `?` and `static`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6993)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
