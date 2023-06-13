@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*5 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*4 weeks ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*2 months ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), *5 days ago*) - The Laravel Framework.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.11.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.11.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.13.2](https://github.com/laravel/framework/releases/tag/v10.13.2), *6 days ago*) - The Laravel Framework.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.11.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.11.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.5), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[predis/predis](https://github.com/predis/predis)** ([v2.2.0-RC1](https://github.com/predis/predis/releases/tag/v2.2.0-RC1), *1 month ago*) - A flexible and feature-complete Redis client for PHP.
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[DX: Cleanup duplicate files in finder](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7042)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
-- **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
-- **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
-- **[minor: SingleSpaceAroundConstructFixer - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
-- **[bug: ListFilesCommand - fix computing of relative path](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7028)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
+- **[DX: Cleanup duplicate files in finder](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7042)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
+- **[minor: Transfer `HelpCommand::toString()` to `Utils`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7034)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[DX: Use `Utils::naturalLanguageJoin()` in implode calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7032)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[minor: `SingleSpaceAroundConstructFixer` - support space before `as`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7029)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[bug: ListFilesCommand - fix computing of relative path](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7028)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[bug: SelfStaticAccessor - fix static access inside enums](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7024)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[minor: Utils - add naturalLanguageJoin](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7022)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[feature: Introduce `NullableTypeDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7002)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
