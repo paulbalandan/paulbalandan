@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[minor: UseArrowFunctionsFixer - run before FunctionDeclarationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7065)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
+- **[minor: `UseArrowFunctionsFixer` - run before `FunctionDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7065)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[feature: Make `UnaryOperatorSpaces` configurable](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7059)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
 - **[feat: Precise return type inference for `model()` and `config()`](https://github.com/codeigniter4/CodeIgniter4/pull/7568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: remove Factories::models()](https://github.com/codeigniter4/CodeIgniter4/pull/7566)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
