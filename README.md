@@ -32,10 +32,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.4](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.4), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.12.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.12.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[predis/predis](https://github.com/predis/predis)** ([v2.2.0](https://github.com/predis/predis/releases/tag/v2.2.0), *2 weeks ago*) - A flexible and feature-complete Redis client for PHP.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *6 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v1.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v1.2.0), *7 months ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *8 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 years ago*) - Seamless software updates library for CodeIgniter4 projects.
 
 ### 🔨 My recent Pull Requests
 
