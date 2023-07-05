@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@dcygan](https://github.com/dcygan)
 - [@imranertaza](https://github.com/imranertaza)
 - [@tarcisiodev1](https://github.com/tarcisiodev1)
 - [@agusharya17](https://github.com/agusharya17)
 - [@sukrillah](https://github.com/sukrillah)
-- [@4cyberlord](https://github.com/4cyberlord)
 
 ### 📫 You can reach me here
 
