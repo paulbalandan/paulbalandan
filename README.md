@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[fix: change assertion on CLITest::testWaitZero](https://github.com/codeigniter4/CodeIgniter4/pull/7608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feature: Make `UnaryOperatorSpaces` configurable](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7059)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[feat: Precise return type inference for `model()` and `config()`](https://github.com/codeigniter4/CodeIgniter4/pull/7568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[refactor: remove Factories::models()](https://github.com/codeigniter4/CodeIgniter4/pull/7566)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[DX: Cleanup duplicate files in finder](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7042)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
