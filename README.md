@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: add no-merge-commits.yml](https://github.com/codeigniter4/shield/pull/764)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[minor: `UseArrowFunctionsFixer` - run before `FunctionDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7065)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 - **[feature: Make `UnaryOperatorSpaces` configurable](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7059)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[feat: Precise return type inference for `model()` and `config()`](https://github.com/codeigniter4/CodeIgniter4/pull/7568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[refactor: remove Factories::models()](https://github.com/codeigniter4/CodeIgniter4/pull/7566)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
