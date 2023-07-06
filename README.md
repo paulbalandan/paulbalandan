@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove `parallel.processTimeout`](https://github.com/codeigniter4/CodeIgniter4/pull/7666)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Remove `SODIUM_LIBRARY_VERSION` from `dynamicConstantNames`](https://github.com/codeigniter4/CodeIgniter4/pull/7665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add no-merge-commits.yml](https://github.com/codeigniter4/shield/pull/764)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add Composer\Config::disableProcessTimeout](https://github.com/codeigniter4/CodeIgniter4/pull/7607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: remove unused non-empty array in RequestTrait](https://github.com/codeigniter4/CodeIgniter4/pull/7606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[minor: `UseArrowFunctionsFixer` - run before `FunctionDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7065)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
-- **[feature: Make `UnaryOperatorSpaces` configurable](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7059)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
-- **[feat: Precise return type inference for `model()` and `config()`](https://github.com/codeigniter4/CodeIgniter4/pull/7568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
