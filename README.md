@@ -13,20 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*2 months ago*)
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*3 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*7 months ago*)
 - **[NexusPHP/.github](https://github.com/NexusPHP/.github)** - GitHub health files for Nexus (*9 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.14.1](https://github.com/laravel/framework/releases/tag/v10.14.1), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.6](https://github.com/codeigniter4/translations/releases/tag/v4.3.6), *1 week ago*) - System message translations for CodeIgniter4
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.4](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.4), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[fix: change assertion on CLITest::testWaitZero](https://github.com/codeigniter4/CodeIgniter4/pull/7608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: add Composer\Config::disableProcessTimeout](https://github.com/codeigniter4/CodeIgniter4/pull/7607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: remove unused non-empty array in RequestTrait](https://github.com/codeigniter4/CodeIgniter4/pull/7606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[chore: add Composer\Config::disableProcessTimeout](https://github.com/codeigniter4/CodeIgniter4/pull/7607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[refactor: remove unused non-empty array in RequestTrait](https://github.com/codeigniter4/CodeIgniter4/pull/7606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[minor: `UseArrowFunctionsFixer` - run before `FunctionDeclarationFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7065)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 - **[feature: Make `UnaryOperatorSpaces` configurable](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7059)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[feat: Precise return type inference for `model()` and `config()`](https://github.com/codeigniter4/CodeIgniter4/pull/7568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
