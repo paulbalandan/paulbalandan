@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: change `isset()` to `instanceof` check](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: [Cache] simplify code of `FileHandler::getItem()`](https://github.com/codeigniter4/CodeIgniter4/pull/7667)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Remove `parallel.processTimeout`](https://github.com/codeigniter4/CodeIgniter4/pull/7666)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Remove `SODIUM_LIBRARY_VERSION` from `dynamicConstantNames`](https://github.com/codeigniter4/CodeIgniter4/pull/7665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*5 days ago*)
 - **[fix: change assertion on CLITest::testWaitZero](https://github.com/codeigniter4/CodeIgniter4/pull/7608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[chore: add Composer\Config::disableProcessTimeout](https://github.com/codeigniter4/CodeIgniter4/pull/7607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: remove unused non-empty array in RequestTrait](https://github.com/codeigniter4/CodeIgniter4/pull/7606)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
