@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: change `isset()` to `instanceof` check](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: [Redis Cache] fix phpstan baseline error](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: [Cache] simplify code of `FileHandler::getItem()`](https://github.com/codeigniter4/CodeIgniter4/pull/7667)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Remove `parallel.processTimeout`](https://github.com/codeigniter4/CodeIgniter4/pull/7666)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Remove `SODIUM_LIBRARY_VERSION` from `dynamicConstantNames`](https://github.com/codeigniter4/CodeIgniter4/pull/7665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
