@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix signature of `DOMNode::lookupNamespaceURI`](https://github.com/phpstan/phpstan-src/pull/2527)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[More precise return type for trigger_error](https://github.com/phpstan/phpstan-src/pull/2526)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
 - **[refactor: [Redis Cache] fix phpstan baseline error](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: [Cache] simplify code of `FileHandler::getItem()`](https://github.com/codeigniter4/CodeIgniter4/pull/7667)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[minor: `FinalInternalClassFixer` - use `AliasedFixerOptionBuilder` for renamed options](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7110)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[fix: change assertion on CLITest::testWaitZero](https://github.com/codeigniter4/CodeIgniter4/pull/7608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
