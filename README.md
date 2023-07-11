@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update docs for `DOMNode::lookupNamespaceURI`](https://github.com/php/doc-en/pull/2573)** on [php/doc-en](https://github.com/php/doc-en) (*today*)
 - **[Parameter and return of `DOMNode::lookupNamespaceURI` are both nullable](https://github.com/JetBrains/phpstorm-stubs/pull/1556)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*today*)
 - **[Fix signature of `DOMNode::lookupNamespaceURI`](https://github.com/phpstan/phpstan-src/pull/2527)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[More precise return type for trigger_error](https://github.com/phpstan/phpstan-src/pull/2526)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Remove `SODIUM_LIBRARY_VERSION` from `dynamicConstantNames`](https://github.com/codeigniter4/CodeIgniter4/pull/7665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[chore: add no-merge-commits.yml](https://github.com/codeigniter4/shield/pull/764)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
 - **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Normalize data provider names](https://github.com/codeigniter4/CodeIgniter4/pull/7656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
