@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.21.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.2), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.5), *1 day ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.13.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.13.0), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), *5 days ago*) - The Laravel Framework.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.6](https://github.com/codeigniter4/translations/releases/tag/v4.3.6), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.6), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *6 months ago*) - Development toolkit for CodeIgniter libraries and projects
