@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*6 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.5), *2 days ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.13.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.13.0), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), *6 days ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.6](https://github.com/codeigniter4/translations/releases/tag/v4.3.6), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.6), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
