@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Adjust php matrix of coding-standards workflow](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Configure `php_unit_data_provider_return_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update docs for `DOMNode::lookupNamespaceURI`](https://github.com/php/doc-en/pull/2573)** on [php/doc-en](https://github.com/php/doc-en) (*6 days ago*)
 - **[Parameter and return of `DOMNode::lookupNamespaceURI` are both nullable](https://github.com/JetBrains/phpstorm-stubs/pull/1556)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*6 days ago*)
 - **[Fix signature of `DOMNode::lookupNamespaceURI`](https://github.com/phpstan/phpstan-src/pull/2527)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: [Redis Cache] fix phpstan baseline error](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: [Cache] simplify code of `FileHandler::getItem()`](https://github.com/codeigniter4/CodeIgniter4/pull/7667)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Remove `parallel.processTimeout`](https://github.com/codeigniter4/CodeIgniter4/pull/7666)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Remove `SODIUM_LIBRARY_VERSION` from `dynamicConstantNames`](https://github.com/codeigniter4/CodeIgniter4/pull/7665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: add no-merge-commits.yml](https://github.com/codeigniter4/shield/pull/764)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
-- **[Fix generics signature of `config()` and `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/7660)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
