@@ -14,10 +14,10 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Adjust php matrix of coding-standards workflow](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Adjust registering of custom fixers for PHP 8.0&#43; only](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Configure `php_unit_data_provider_return_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Update docs for `DOMNode::lookupNamespaceURI`](https://github.com/php/doc-en/pull/2573)** on [php/doc-en](https://github.com/php/doc-en) (*1 week ago*)
 - **[Parameter and return of `DOMNode::lookupNamespaceURI` are both nullable](https://github.com/JetBrains/phpstorm-stubs/pull/1556)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*1 week ago*)
