@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Run tests in random to catch non-deterministic tests](https://github.com/codeigniter4/CodeIgniter4/pull/7717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Adjust registering of custom fixers for PHP 8.0&#43; only](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Configure `php_unit_data_provider_return_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[More precise return type for trigger_error](https://github.com/phpstan/phpstan-src/pull/2526)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[refactor: [Redis Cache] fix phpstan baseline error](https://github.com/codeigniter4/CodeIgniter4/pull/7683)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: [Cache] simplify code of `FileHandler::getItem()`](https://github.com/codeigniter4/CodeIgniter4/pull/7667)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Remove `parallel.processTimeout`](https://github.com/codeigniter4/CodeIgniter4/pull/7666)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
