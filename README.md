@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
 - **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix PHPDoc of `Config\Cache::$validHandlers`](https://github.com/codeigniter4/CodeIgniter4/pull/7720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Adjust registering of custom fixers for PHP 8.0&#43; only](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Configure `php_unit_data_provider_return_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Update docs for `DOMNode::lookupNamespaceURI`](https://github.com/php/doc-en/pull/2573)** on [php/doc-en](https://github.com/php/doc-en) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
