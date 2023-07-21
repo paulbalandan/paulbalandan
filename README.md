@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
+- **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix PHPDoc of `Config\Cache::$validHandlers`](https://github.com/codeigniter4/CodeIgniter4/pull/7720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix failing tests in Windows for RoutesTest and NamespacesTest](https://github.com/codeigniter4/CodeIgniter4/pull/7719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Add `PathNormalizerTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Adjust registering of custom fixers for PHP 8.0&#43; only](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Configure `php_unit_data_provider_return_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Update docs for `DOMNode::lookupNamespaceURI`](https://github.com/php/doc-en/pull/2573)** on [php/doc-en](https://github.com/php/doc-en) (*1 week ago*)
-- **[Parameter and return of `DOMNode::lookupNamespaceURI` are both nullable](https://github.com/JetBrains/phpstorm-stubs/pull/1556)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*1 week ago*)
-- **[Fix signature of `DOMNode::lookupNamespaceURI`](https://github.com/phpstan/phpstan-src/pull/2527)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
