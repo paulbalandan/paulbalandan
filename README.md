@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: services function actually returns `object|null`](https://github.com/codeigniter4/CodeIgniter4/pull/7730)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: Use all available checked tokens for `no_extra_blank_lines`](https://github.com/codeigniter4/CodeIgniter4/pull/7729)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add `PathNormalizerTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Run tests in random to catch non-deterministic tests](https://github.com/codeigniter4/CodeIgniter4/pull/7717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Adjust registering of custom fixers for PHP 8.0&#43; only](https://github.com/codeigniter4/CodeIgniter4/pull/7712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
