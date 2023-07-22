@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 weeks ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*3 months ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.1), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.5), *6 days ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.1), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.5), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[laravel/framework](https://github.com/laravel/framework)** ([v10.15.0](https://github.com/laravel/framework/releases/tag/v10.15.0), *1 week ago*) - The Laravel Framework.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.6](https://github.com/codeigniter4/translations/releases/tag/v4.3.6), *4 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.6), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: services function actually returns `object|null`](https://github.com/codeigniter4/CodeIgniter4/pull/7730)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[style: Use all available checked tokens for `no_extra_blank_lines`](https://github.com/codeigniter4/CodeIgniter4/pull/7729)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
-- **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix PHPDoc of `Config\Cache::$validHandlers`](https://github.com/codeigniter4/CodeIgniter4/pull/7720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Fix failing tests in Windows for RoutesTest and NamespacesTest](https://github.com/codeigniter4/CodeIgniter4/pull/7719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add `PathNormalizerTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Run tests in random to catch non-deterministic tests](https://github.com/codeigniter4/CodeIgniter4/pull/7717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: services function actually returns `object|null`](https://github.com/codeigniter4/CodeIgniter4/pull/7730)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[style: Use all available checked tokens for `no_extra_blank_lines`](https://github.com/codeigniter4/CodeIgniter4/pull/7729)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*1 day ago*)
+- **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix PHPDoc of `Config\Cache::$validHandlers`](https://github.com/codeigniter4/CodeIgniter4/pull/7720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Fix failing tests in Windows for RoutesTest and NamespacesTest](https://github.com/codeigniter4/CodeIgniter4/pull/7719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Add `PathNormalizerTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Run tests in random to catch non-deterministic tests](https://github.com/codeigniter4/CodeIgniter4/pull/7717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
