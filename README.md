@@ -46,7 +46,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Fix PHPDoc of `Config\Cache::$validHandlers`](https://github.com/codeigniter4/CodeIgniter4/pull/7720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Fix failing tests in Windows for RoutesTest and NamespacesTest](https://github.com/codeigniter4/CodeIgniter4/pull/7719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add `PathNormalizerTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Add `normalize_path` helper function](https://github.com/codeigniter4/CodeIgniter4/pull/7718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Run tests in random to catch non-deterministic tests](https://github.com/codeigniter4/CodeIgniter4/pull/7717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Bump to phpstan rule level 6](https://github.com/codeigniter4/CodeIgniter4/pull/7713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
