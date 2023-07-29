@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add void return to tests](https://github.com/codeigniter4/CodeIgniter4/pull/7748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add types to Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/7746)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: use `yield_from_array_to_yields` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: Use all available checked tokens for `no_extra_blank_lines`](https://github.com/codeigniter4/CodeIgniter4/pull/7729)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Bump phpstan level to 6](https://github.com/codeigniter4/devkit/pull/99)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*1 week ago*)
-- **[chore: Add `minimum-stability` and `prefer-stable` properties to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7724)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
