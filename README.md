@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[Add void return to tests](https://github.com/codeigniter4/CodeIgniter4/pull/7748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add types to Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/7746)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[style: use `yield_from_array_to_yields` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add types for app](https://github.com/codeigniter4/CodeIgniter4/pull/7741)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
