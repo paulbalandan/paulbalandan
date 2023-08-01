@@ -13,21 +13,21 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
-- **[php/doc-en](https://github.com/php/doc-en)** - English PHP documentation (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
+- **[php/doc-en](https://github.com/php/doc-en)** - English PHP documentation (*6 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 week ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 weeks ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 weeks ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.7), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.16.0](https://github.com/laravel/framework/releases/tag/v10.16.0), *6 days ago*) - The Laravel Framework.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.7), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[laravel/framework](https://github.com/laravel/framework)** ([v10.16.0](https://github.com/laravel/framework/releases/tag/v10.16.0), *1 week ago*) - The Laravel Framework.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.1), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.5), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,12 +39,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add void return to tests](https://github.com/codeigniter4/CodeIgniter4/pull/7748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add types to Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/7746)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[style: use `yield_from_array_to_yields` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Add types for app](https://github.com/codeigniter4/CodeIgniter4/pull/7741)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[docs: replace `U&#43;2019` with `U&#43;0060`](https://github.com/codeigniter4/CodeIgniter4/pull/7740)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Add void return to tests](https://github.com/codeigniter4/CodeIgniter4/pull/7748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Add types to Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/7746)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[style: use `yield_from_array_to_yields` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Add types for app](https://github.com/codeigniter4/CodeIgniter4/pull/7741)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[docs: replace `U&#43;2019` with `U&#43;0060`](https://github.com/codeigniter4/CodeIgniter4/pull/7740)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: services function actually returns `object|null`](https://github.com/codeigniter4/CodeIgniter4/pull/7730)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[style: Use all available checked tokens for `no_extra_blank_lines`](https://github.com/codeigniter4/CodeIgniter4/pull/7729)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: Add `composer-normalize` to auto-review testing of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/7727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
