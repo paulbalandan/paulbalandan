@@ -26,7 +26,6 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[laravel/framework](https://github.com/laravel/framework)** ([v10.18.0](https://github.com/laravel/framework/releases/tag/v10.18.0), *today*) - The Laravel Framework.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.2), *3 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.3.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.3.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
