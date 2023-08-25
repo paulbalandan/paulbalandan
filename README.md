@@ -21,7 +21,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 weeks ago*)
 - **[NexusPHP/spectroscope](https://github.com/NexusPHP/spectroscope)** - Provides code highlighting to the terminal. (*2 weeks ago*)
-- **[php/doc-en](https://github.com/php/doc-en)** - English PHP documentation (*4 weeks ago*)
+- **[php/doc-en](https://github.com/php/doc-en)** - English PHP documentation (*1 month ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 month ago*)
 
 ### 🔭 Latest releases I've contributed to
@@ -39,7 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*6 days ago*)
+- **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
+- **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*1 week ago*)
 - **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 - **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 - **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add void return to tests](https://github.com/codeigniter4/CodeIgniter4/pull/7748)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Return signatures of Autoloader&#39;s loaders should be void](https://github.com/codeigniter4/CodeIgniter4/pull/7747)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Add types to Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/7746)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[style: use `yield_from_array_to_yields` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/7745)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
