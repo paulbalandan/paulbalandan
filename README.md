@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.0), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.8](https://github.com/codeigniter4/translations/releases/tag/v4.3.8), *1 day ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.0), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.8](https://github.com/codeigniter4/translations/releases/tag/v4.3.8), *2 days ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.14.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.14.4), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.7), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Support for colored progress bars accdg to percent](https://github.com/codeigniter4/translations/pull/391)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
-- **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
-- **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Support for colored progress bars accdg to percent](https://github.com/codeigniter4/translations/pull/391)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*1 week ago*)
-- **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
-- **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
-- **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
+- **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
+- **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
+- **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Enable `php_unit_data_provider_static`](https://github.com/codeigniter4/CodeIgniter4/pull/7767)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[Remove trimming logic of `Autoloader::loadClass()`](https://github.com/codeigniter4/CodeIgniter4/pull/7763)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
