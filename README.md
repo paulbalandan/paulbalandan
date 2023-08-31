@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: add types to View $filters and $plugins](https://github.com/codeigniter4/CodeIgniter4/pull/7885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Support for colored progress bars accdg to percent](https://github.com/codeigniter4/translations/pull/391)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 - **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
 - **[Enable `php_unit_data_provider_static`](https://github.com/codeigniter4/CodeIgniter4/pull/7767)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[Remove trimming logic of `Autoloader::loadClass()`](https://github.com/codeigniter4/CodeIgniter4/pull/7763)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
