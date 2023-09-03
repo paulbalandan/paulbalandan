@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.0.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.0.1), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.8), *3 days ago*) - Official Coding Standards for CodeIgniter
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.15.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.15.0), *3 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.0.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.0.1), *4 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.8), *4 days ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.15.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.15.0), *4 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.0), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.3.8](https://github.com/codeigniter4/translations/releases/tag/v4.3.8), *1 week ago*) - System message translations for CodeIgniter4
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.2), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
@@ -39,15 +39,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: add types to View $filters and $plugins](https://github.com/codeigniter4/CodeIgniter4/pull/7885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[fix: add types to View $filters and $plugins](https://github.com/codeigniter4/CodeIgniter4/pull/7885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Support for colored progress bars accdg to percent](https://github.com/codeigniter4/translations/pull/391)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*2 weeks ago*)
-- **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
-- **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
-- **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 weeks ago*)
+- **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 weeks ago*)
+- **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 weeks ago*)
+- **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 weeks ago*)
 - **[Enable `php_unit_data_provider_static`](https://github.com/codeigniter4/CodeIgniter4/pull/7767)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
