@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.26.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.0), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.1), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.0.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.0.1), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.8), *1 week ago*) - Official Coding Standards for CodeIgniter
