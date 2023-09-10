@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: types for common functions](https://github.com/codeigniter4/CodeIgniter4/pull/7917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[fix: add types to View $filters and $plugins](https://github.com/codeigniter4/CodeIgniter4/pull/7885)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*3 weeks ago*)
 - **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[feature: BlankLineBeforeStatementFixer - separate handling for enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7201)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
-- **[feature: Add EnumCaseTransformer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7200)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
