@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.1.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.1.3), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.0.0), *today*) - Prevent merge commits in pull requests.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.1), *6 days ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -35,10 +36,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.2), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.1](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1), *8 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v1.4.0](https://github.com/NexusPHP/tachycardia/releases/tag/v1.4.0), *11 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** ([v1.1.0](https://github.com/paulbalandan/liaison-revision/releases/tag/v1.1.0), *2 years ago*) - Seamless software updates library for CodeIgniter4 projects.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove unneeded arguments to session](https://github.com/codeigniter4/CodeIgniter4/pull/7919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: types for common functions](https://github.com/codeigniter4/CodeIgniter4/pull/7917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 - **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 - **[feature: Update to PHPUnit 10](https://github.com/NexusPHP/tachycardia/pull/12)** on [NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia) (*3 weeks ago*)
-- **[feature: `BlankLineBeforeStatementFixer` - skip enum cases](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7203)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
