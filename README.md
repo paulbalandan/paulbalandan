@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/182)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[chore: add phpstan-codeigniter](https://github.com/codeigniter4/shield/pull/828)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
 - **[chore: use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: remove unneeded arguments to session](https://github.com/codeigniter4/CodeIgniter4/pull/7919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: add types for cache handlers](https://github.com/codeigniter4/CodeIgniter4/pull/7858)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Support for colored progress bars accdg to percent](https://github.com/codeigniter4/translations/pull/391)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 - **[Fix generate-page workflow](https://github.com/codeigniter4/translations/pull/390)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
-- **[Fix cs styles](https://github.com/codeigniter4/translations/pull/389)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
