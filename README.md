@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[fix: add env.GITHUB_TOKEN to setup-php](https://github.com/codeigniter4/translations/pull/402)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
 - **[chore: add dependabot.yml](https://github.com/codeigniter4/translations/pull/401)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/185)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: remove unneeded arguments to session](https://github.com/codeigniter4/CodeIgniter4/pull/7919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: types for common functions](https://github.com/codeigniter4/CodeIgniter4/pull/7917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
