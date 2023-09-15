@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.1](https://github.com/codeigniter4/translations/releases/tag/v4.4.1), *today*) - System message translations for CodeIgniter4
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.1.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.1.3), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.0.0), *3 days ago*) - Prevent merge commits in pull requests.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.1](https://github.com/codeigniter4/translations/releases/tag/v4.4.1), *1 day ago*) - System message translations for CodeIgniter4
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.1.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.1.3), *4 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.0.0), *4 days ago*) - Prevent merge commits in pull requests.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.1), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.8), *2 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.15.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.15.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
-- **[fix: add env.GITHUB_TOKEN to setup-php](https://github.com/codeigniter4/translations/pull/402)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
-- **[chore: add dependabot.yml](https://github.com/codeigniter4/translations/pull/401)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/185)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/184)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/182)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
-- **[chore: add phpstan-codeigniter](https://github.com/codeigniter4/shield/pull/828)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
-- **[chore: use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: remove unneeded arguments to session](https://github.com/codeigniter4/CodeIgniter4/pull/7919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
+- **[fix: add env.GITHUB_TOKEN to setup-php](https://github.com/codeigniter4/translations/pull/402)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[chore: add dependabot.yml](https://github.com/codeigniter4/translations/pull/401)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/185)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/184)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/182)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
+- **[chore: add phpstan-codeigniter](https://github.com/codeigniter4/shield/pull/828)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 days ago*)
+- **[chore: use phpstan-codeigniter](https://github.com/codeigniter4/CodeIgniter4/pull/7923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: remove unneeded arguments to session](https://github.com/codeigniter4/CodeIgniter4/pull/7919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
