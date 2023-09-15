@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: remove redundant dynamicConstantNames](https://github.com/ad-aures/castopod/pull/6)** on [ad-aures/castopod](https://github.com/ad-aures/castopod) (*today*)
 - **[Add note on using pwsh on Windows with parallel mode](https://github.com/rectorphp/rector-src/pull/5022)** on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (*today*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/187)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/185)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/184)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/182)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
-- **[chore: add phpstan-codeigniter](https://github.com/codeigniter4/shield/pull/828)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
