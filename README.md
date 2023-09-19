@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Enable phpstan&#39;s bleedingEdge.neon](https://github.com/codeigniter4/shield/pull/842)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/192)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/191)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/190)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/187)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
 - **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[fix: add env.GITHUB_TOKEN to setup-php](https://github.com/codeigniter4/translations/pull/402)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
