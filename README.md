@@ -19,19 +19,19 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[rectorphp/rector-src](https://github.com/rectorphp/rector-src)** - Development repository for Rector (*1 week ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
 - **[php/doc-en](https://github.com/php/doc-en)** - English PHP documentation (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *1 day ago*) - Development toolkit for CodeIgniter libraries and projects
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *2 days ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.9](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.9), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.16.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.16.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.3.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.3.0), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.1](https://github.com/codeigniter4/translations/releases/tag/v4.4.1), *1 week ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.1](https://github.com/codeigniter4/translations/releases/tag/v4.4.1), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.0.0), *2 weeks ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.1), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.2), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
@@ -47,8 +47,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: remove redundant dynamicConstantNames](https://github.com/ad-aures/castopod/pull/6)** on [ad-aures/castopod](https://github.com/ad-aures/castopod) (*1 week ago*)
 - **[Add note on using pwsh on Windows with parallel mode](https://github.com/rectorphp/rector-src/pull/5022)** on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (*1 week ago*)
 - **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/187)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
-- **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
+- **[chore: reformat composer.json](https://github.com/codeigniter4/shield/pull/832)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
+- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/186)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
