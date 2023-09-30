@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[rectorphp/rector-src](https://github.com/rectorphp/rector-src)** - Development repository for Rector (*2 weeks ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.34.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0), *today*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *3 days ago*) - Development toolkit for CodeIgniter libraries and projects
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.34.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *4 days ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.9](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.9), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.16.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.16.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.3.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.3.0), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
