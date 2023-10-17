@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/212)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[Update phpstan-codeigniter and fix new errors](https://github.com/codeigniter4/CodeIgniter4/pull/8036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/206)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
 - **[Enable phpstan&#39;s bleedingEdge.neon](https://github.com/codeigniter4/shield/pull/842)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update phpstan-codeigniter to v1.3](https://github.com/codeigniter4/shield/pull/840)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 weeks ago*)
 - **[chore: remove redundant dynamicConstantNames](https://github.com/ad-aures/castopod/pull/6)** on [ad-aures/castopod](https://github.com/ad-aures/castopod) (*1 month ago*)
 - **[Add note on using pwsh on Windows with parallel mode](https://github.com/rectorphp/rector-src/pull/5022)** on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (*1 month ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/187)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
