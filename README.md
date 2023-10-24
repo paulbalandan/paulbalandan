@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.0.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.0.0), *today*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.1), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.2), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.11](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.11), *1 week ago*) - Official Coding Standards for CodeIgniter
