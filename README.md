@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: add correct array signatures for Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[style: run cs-fix](https://github.com/codeigniter4/CodeIgniter4/pull/8105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: allow escaped dots as lang keys](https://github.com/codeigniter4/CodeIgniter4/pull/8104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/215)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/212)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[Update phpstan-codeigniter and fix errors on Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/206)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Enable phpstan&#39;s bleedingEdge.neon](https://github.com/codeigniter4/shield/pull/842)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/192)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/191)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
-- **[Update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/190)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
-- **[chore: update phpstan-codeigniter to v1.3](https://github.com/codeigniter4/shield/pull/840)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
-- **[chore: remove redundant dynamicConstantNames](https://github.com/ad-aures/castopod/pull/6)** on [ad-aures/castopod](https://github.com/ad-aures/castopod) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
