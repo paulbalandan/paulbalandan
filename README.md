@@ -13,19 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[rectorphp/rector-src](https://github.com/rectorphp/rector-src)** - Development repository for Rector (*1 month ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *today*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.3), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.0.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.0.0), *3 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.1), *6 days ago*) - CodeIgniter extensions and rules for PHPStan
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.18.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.18.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.1](https://github.com/codeigniter4/translations/releases/tag/v4.4.1), *1 month ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.0.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.0.0), *1 month ago*) - Prevent merge commits in pull requests.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.2), *2 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 
