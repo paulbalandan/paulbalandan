@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: Use native PHPDocs instead of `@phpstan-`](https://github.com/codeigniter4/CodeIgniter4/pull/8114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: add correct array signatures for Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[style: run cs-fix](https://github.com/codeigniter4/CodeIgniter4/pull/8105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update phpstan-codeigniter and fix errors on Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/206)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Enable phpstan&#39;s bleedingEdge.neon](https://github.com/codeigniter4/shield/pull/842)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/192)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
