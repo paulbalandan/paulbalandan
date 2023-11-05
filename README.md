@@ -44,7 +44,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add correct array signatures for Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[style: run cs-fix](https://github.com/codeigniter4/CodeIgniter4/pull/8105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: allow escaped dots as lang keys](https://github.com/codeigniter4/CodeIgniter4/pull/8104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[allow dots at end of keys](https://github.com/codeigniter4/CodeIgniter4/pull/8104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/215)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/212)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Update phpstan-codeigniter and fix errors on Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
