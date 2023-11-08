@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add `ConstantsInTraitsRule`](https://github.com/phpstan/phpstan-src/pull/2718)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Update to phpstan-codeigniter v1.4.2](https://github.com/codeigniter4/CodeIgniter4/pull/8151)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[docs: Use native PHPDocs instead of `@phpstan-`](https://github.com/codeigniter4/CodeIgniter4/pull/8114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/215)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/212)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
 - **[Update phpstan-codeigniter and fix errors on Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/206)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
