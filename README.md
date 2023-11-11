@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 day ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 weeks ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.2), *5 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.2), *6 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.3), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add NoncapturingCatchRule](https://github.com/phpstan/phpstan-src/pull/2721)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
-- **[Add `ConstantsInTraitsRule`](https://github.com/phpstan/phpstan-src/pull/2718)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
-- **[Update to phpstan-codeigniter v1.4.2](https://github.com/codeigniter4/CodeIgniter4/pull/8151)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[docs: Use native PHPDocs instead of `@phpstan-`](https://github.com/codeigniter4/CodeIgniter4/pull/8114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[Add NoncapturingCatchRule](https://github.com/phpstan/phpstan-src/pull/2721)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
+- **[Add `ConstantsInTraitsRule`](https://github.com/phpstan/phpstan-src/pull/2718)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
+- **[Update to phpstan-codeigniter v1.4.2](https://github.com/codeigniter4/CodeIgniter4/pull/8151)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[docs: Use native PHPDocs instead of `@phpstan-`](https://github.com/codeigniter4/CodeIgniter4/pull/8114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[docs: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[docs: add correct array signatures for Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[style: run cs-fix](https://github.com/codeigniter4/CodeIgniter4/pull/8105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
