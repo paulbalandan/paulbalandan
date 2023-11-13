@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
+- **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
+- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
+- **[Detect properties declared in interface](https://github.com/phpstan/phpstan-src/pull/2731)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Detect non-abstract methods with no body](https://github.com/phpstan/phpstan-src/pull/2730)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Add NoncapturingCatchRule](https://github.com/phpstan/phpstan-src/pull/2721)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
 - **[Add `ConstantsInTraitsRule`](https://github.com/phpstan/phpstan-src/pull/2718)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
 - **[Update to phpstan-codeigniter v1.4.2](https://github.com/codeigniter4/CodeIgniter4/pull/8151)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: Use native PHPDocs instead of `@phpstan-`](https://github.com/codeigniter4/CodeIgniter4/pull/8114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[docs: add Closure signature for CodeIgniter::$controller](https://github.com/codeigniter4/CodeIgniter4/pull/8107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[docs: add correct array signatures for Modules](https://github.com/codeigniter4/CodeIgniter4/pull/8106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[style: run cs-fix](https://github.com/codeigniter4/CodeIgniter4/pull/8105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[allow dots at end of keys](https://github.com/codeigniter4/CodeIgniter4/pull/8104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/215)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
