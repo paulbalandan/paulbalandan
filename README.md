@@ -52,7 +52,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
-- [@fullstack124](https://github.com/fullstack124)
+- [@hilalahmad0101](https://github.com/hilalahmad0101)
 - [@GallFox99](https://github.com/GallFox99)
 - [@mshannaq](https://github.com/mshannaq)
 - [@Neustradamus](https://github.com/Neustradamus)
