@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
+- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
 - **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
 - **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Detect properties declared in interface](https://github.com/phpstan/phpstan-src/pull/2731)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[Detect non-abstract methods with no body](https://github.com/phpstan/phpstan-src/pull/2730)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[Add NoncapturingCatchRule](https://github.com/phpstan/phpstan-src/pull/2721)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
-- **[Add `ConstantsInTraitsRule`](https://github.com/phpstan/phpstan-src/pull/2718)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
-- **[Update to phpstan-codeigniter v1.4.2](https://github.com/codeigniter4/CodeIgniter4/pull/8151)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
