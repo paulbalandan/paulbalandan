@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
 - **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
 - **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
 - **[Detect properties declared in interface](https://github.com/phpstan/phpstan-src/pull/2731)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[Detect non-abstract methods with no body](https://github.com/phpstan/phpstan-src/pull/2730)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
-- **[Add NoncapturingCatchRule](https://github.com/phpstan/phpstan-src/pull/2721)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
