@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.2), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *2 weeks ago*) - System message translations for CodeIgniter4
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *3 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.3), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.11](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.11), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.18.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.18.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 day ago*)
-- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 day ago*)
-- **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
-- **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
-- **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
-- **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
-- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
-- **[Detect properties declared in interface](https://github.com/phpstan/phpstan-src/pull/2731)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
-- **[Detect non-abstract methods with no body](https://github.com/phpstan/phpstan-src/pull/2730)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
+- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
+- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
+- **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
+- **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
+- **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
+- **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
+- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
+- **[Detect properties declared in interface](https://github.com/phpstan/phpstan-src/pull/2731)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
+- **[Detect non-abstract methods with no body](https://github.com/phpstan/phpstan-src/pull/2730)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
