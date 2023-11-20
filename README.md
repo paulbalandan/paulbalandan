@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add test for checking localization parameters are not translated](https://github.com/codeigniter4/shield/pull/955)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 day ago*)
 - **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
 - **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 - **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 - **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
-- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
