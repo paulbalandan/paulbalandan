@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.2), *2 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *3 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *3 weeks ago*) - System message translations for CodeIgniter4
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
-- **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
-- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
-- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
-- **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
-- **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
-- **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
-- **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
-- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
+- **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 day ago*)
+- **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
+- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*5 days ago*)
+- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*5 days ago*)
+- **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
+- **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
+- **[Fix allow class const fetch when on App namespace](https://github.com/CodeIgniter/phpstan-codeigniter/pull/13)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
+- **[Use native PHPDocs](https://github.com/CodeIgniter/phpstan-codeigniter/pull/12)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
+- **[Fix styles](https://github.com/CodeIgniter/phpstan-codeigniter/pull/11)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
