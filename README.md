@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Introduce InvalidLexicalVariablesInClosureUseRule](https://github.com/phpstan/phpstan-src/pull/2757)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
-- **[Add RedefinedParametersRule](https://github.com/phpstan/phpstan-src/pull/2755)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
-- **[Add test for checking localization parameters are not translated](https://github.com/codeigniter4/shield/pull/955)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
-- **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
-- **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
-- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
-- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
+- **[Introduce InvalidLexicalVariablesInClosureUseRule](https://github.com/phpstan/phpstan-src/pull/2757)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
+- **[Add RedefinedParametersRule](https://github.com/phpstan/phpstan-src/pull/2755)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
+- **[Add test for checking localization parameters are not translated](https://github.com/codeigniter4/shield/pull/955)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
+- **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
+- **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
+- **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
+- **[refactor: Restructure test fixtures](https://github.com/CodeIgniter/phpstan-codeigniter/pull/15)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 - **[Add VariadicParametersDeclarationRule](https://github.com/phpstan/phpstan-src/pull/2733)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[Allow specific argument type checks for factories](https://github.com/CodeIgniter/phpstan-codeigniter/pull/14)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 
