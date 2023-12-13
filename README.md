@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 weeks ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*today*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[InvalidPromotedPropertiesRule - use FunctionLike as node type](https://github.com/phpstan/phpstan-src/pull/2823)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Introduce ForbiddenInterfacesInClassImplementsRule](https://github.com/phpstan/phpstan-src/pull/2814)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
 - **[refactor: `TestResponse` is now a class of its own](https://github.com/codeigniter4/CodeIgniter4/pull/8264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[Introduce InvalidTypesInUnionRule](https://github.com/phpstan/phpstan-src/pull/2763)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 weeks ago*)
 - **[Add InvalidCallablePropertyTypeRule](https://github.com/phpstan/phpstan-src/pull/2745)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 weeks ago*)
 - **[fix: migrations not using custom DB connection of migration runner](https://github.com/codeigniter4/CodeIgniter4/pull/8221)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[chore: Add parallel-lint to lint downgraded source](https://github.com/CodeIgniter/phpstan-codeigniter/pull/16)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
