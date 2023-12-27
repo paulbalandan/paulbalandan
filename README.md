@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *5 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *6 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3), *1 week ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *2 months ago*) - System message translations for CodeIgniter4
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Add stub for Model::$appends](https://github.com/larastan/larastan/pull/1805)** on [larastan/larastan](https://github.com/larastan/larastan) (*5 days ago*)
-- **[InvalidPromotedPropertiesRule - use FunctionLike as node type](https://github.com/phpstan/phpstan-src/pull/2823)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
+- **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Add stub for Model::$appends](https://github.com/larastan/larastan/pull/1805)** on [larastan/larastan](https://github.com/larastan/larastan) (*6 days ago*)
+- **[InvalidPromotedPropertiesRule - use FunctionLike as node type](https://github.com/phpstan/phpstan-src/pull/2823)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
 - **[Introduce ForbiddenInterfacesInClassImplementsRule](https://github.com/phpstan/phpstan-src/pull/2814)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
 - **[refactor: `TestResponse` is now a class of its own](https://github.com/codeigniter4/CodeIgniter4/pull/8264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Introduce InvalidTypesInUnionRule](https://github.com/phpstan/phpstan-src/pull/2763)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
