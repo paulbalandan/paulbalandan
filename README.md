@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: add ExceptionHandlingTrait and Exceptions::(un)register](https://github.com/codeigniter4/CodeIgniter4/pull/8380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add stub for Model::$appends](https://github.com/larastan/larastan/pull/1805)** on [larastan/larastan](https://github.com/larastan/larastan) (*1 week ago*)
 - **[InvalidPromotedPropertiesRule - use FunctionLike as node type](https://github.com/phpstan/phpstan-src/pull/2823)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Introduce InvalidLexicalVariablesInClosureUseRule](https://github.com/phpstan/phpstan-src/pull/2757)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
 - **[Add RedefinedParametersRule](https://github.com/phpstan/phpstan-src/pull/2755)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
 - **[chore: Add test for checking localization parameters are not translated](https://github.com/codeigniter4/shield/pull/955)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 month ago*)
-- **[Fix inference of type of Model::find() to base on framework behavior](https://github.com/CodeIgniter/phpstan-codeigniter/pull/18)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
