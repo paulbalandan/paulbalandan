@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
@@ -21,11 +22,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 months ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 months ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 months ago*)
 - **[rectorphp/rector-src](https://github.com/rectorphp/rector-src)** - Development repository for Rector (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.12](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.12), *today*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.19.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.19.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.43.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.4), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -34,7 +35,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3), *2 weeks ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *2 months ago*) - System message translations for CodeIgniter4
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.11](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.11), *2 months ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *3 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
