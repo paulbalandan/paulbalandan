@@ -15,8 +15,8 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 weeks ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 months ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: fix path name of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8387)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: remove overrides for coding-standard v1.7.12](https://github.com/codeigniter4/CodeIgniter4/pull/8386)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: strip colors on `xdebug.cli_color=2`](https://github.com/codeigniter4/CodeIgniter4/pull/8381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: add ExceptionHandlingTrait and Exceptions::(un)register](https://github.com/codeigniter4/CodeIgniter4/pull/8380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Introduce ForbiddenInterfacesInClassImplementsRule](https://github.com/phpstan/phpstan-src/pull/2814)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 weeks ago*)
 - **[refactor: `TestResponse` is now a class of its own](https://github.com/codeigniter4/CodeIgniter4/pull/8264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Introduce InvalidTypesInUnionRule](https://github.com/phpstan/phpstan-src/pull/2763)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
-- **[Introduce InvalidLexicalVariablesInClosureUseRule](https://github.com/phpstan/phpstan-src/pull/2757)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
-- **[Add RedefinedParametersRule](https://github.com/phpstan/phpstan-src/pull/2755)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
