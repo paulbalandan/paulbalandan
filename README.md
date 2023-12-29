@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.43.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.43.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.4), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0](https://github.com/codeigniter4/shield/releases/tag/v1.0.0), *2 days ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
