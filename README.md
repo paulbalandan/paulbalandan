@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: enforce PR title format with PRLint Reloaded](https://github.com/codeigniter4/CodeIgniter4/pull/8394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: ensure cleanup of sqlite3 db files after test](https://github.com/codeigniter4/CodeIgniter4/pull/8393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: ensure no .env when EncryptionTest is run](https://github.com/codeigniter4/CodeIgniter4/pull/8392)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: fix path name of composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8387)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove overrides for coding-standard v1.7.12](https://github.com/codeigniter4/CodeIgniter4/pull/8386)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: strip colors on `xdebug.cli_color=2`](https://github.com/codeigniter4/CodeIgniter4/pull/8381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add stub for Model::$appends](https://github.com/larastan/larastan/pull/1805)** on [larastan/larastan](https://github.com/larastan/larastan) (*1 week ago*)
 - **[InvalidPromotedPropertiesRule - use FunctionLike as node type](https://github.com/phpstan/phpstan-src/pull/2823)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
-- **[Introduce ForbiddenInterfacesInClassImplementsRule](https://github.com/phpstan/phpstan-src/pull/2814)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 weeks ago*)
-- **[refactor: `TestResponse` is now a class of its own](https://github.com/codeigniter4/CodeIgniter4/pull/8264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Introduce InvalidTypesInUnionRule](https://github.com/phpstan/phpstan-src/pull/2763)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
