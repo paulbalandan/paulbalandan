@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[larastan/larastan](https://github.com/larastan/larastan)** - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 day ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
@@ -22,7 +23,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 months ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 months ago*)
-- **[rectorphp/rector-src](https://github.com/rectorphp/rector-src)** - Development repository for Rector (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -33,9 +33,9 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0](https://github.com/codeigniter4/shield/releases/tag/v1.0.0), *6 days ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3), *2 weeks ago*) - PHP runtime &amp; extensions header files for PhpStorm
+- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.7.0](https://github.com/larastan/larastan/releases/tag/v2.7.0), *4 weeks ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.3](https://github.com/codeigniter4/translations/releases/tag/v4.4.3), *2 months ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.1.2](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2), *3 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
 
