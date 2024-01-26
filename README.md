@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
@@ -21,11 +22,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 months ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 months ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.4](https://github.com/codeigniter4/translations/releases/tag/v4.4.4), *today*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.20.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.20.0), *3 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.0](https://github.com/codeigniter4/devkit/releases/tag/v1.2.0), *5 days ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -35,10 +36,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0](https://github.com/codeigniter4/shield/releases/tag/v1.0.0), *1 month ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2023.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2023.3), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.1.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.1.0), *3 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
+- **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: refactor ImageMagickHandlerTest](https://github.com/codeigniter4/CodeIgniter4/pull/8461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: enforce PR title format with PRLint Reloaded](https://github.com/codeigniter4/CodeIgniter4/pull/8394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[test: ensure cleanup of sqlite3 db files after test](https://github.com/codeigniter4/CodeIgniter4/pull/8393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: strip colors on `xdebug.cli_color=2`](https://github.com/codeigniter4/CodeIgniter4/pull/8381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[feat: add ExceptionHandlingTrait and Exceptions::(un)register](https://github.com/codeigniter4/CodeIgniter4/pull/8380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Add `replace` to composer.json](https://github.com/codeigniter4/CodeIgniter4/pull/8355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Add stub for Model::$appends](https://github.com/larastan/larastan/pull/1805)** on [larastan/larastan](https://github.com/larastan/larastan) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
