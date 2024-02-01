@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[larastan/larastan](https://github.com/larastan/larastan)** - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (*4 weeks ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.2.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.2.0), *3 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.13](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.13), *4 days ago*) - Official Coding Standards for CodeIgniter
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.5), *4 days ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.4](https://github.com/codeigniter4/translations/releases/tag/v4.4.4), *5 days ago*) - System message translations for CodeIgniter4
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.2.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.2.0), *4 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.13](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.13), *5 days ago*) - Official Coding Standards for CodeIgniter
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.5), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.4](https://github.com/codeigniter4/translations/releases/tag/v4.4.4), *6 days ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.20.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.20.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.0](https://github.com/codeigniter4/devkit/releases/tag/v1.2.0), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[docs: fix phpstan errors on TestLogger](https://github.com/codeigniter4/CodeIgniter4/pull/8479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[test: refactor ImageMagickHandlerTest](https://github.com/codeigniter4/CodeIgniter4/pull/8461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[docs: fix phpstan errors on TestLogger](https://github.com/codeigniter4/CodeIgniter4/pull/8479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[test: refactor ImageMagickHandlerTest](https://github.com/codeigniter4/CodeIgniter4/pull/8461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[chore: enforce PR title format with PRLint Reloaded](https://github.com/codeigniter4/CodeIgniter4/pull/8394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[test: ensure cleanup of sqlite3 db files after test](https://github.com/codeigniter4/CodeIgniter4/pull/8393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[test: ensure no .env when EncryptionTest is run](https://github.com/codeigniter4/CodeIgniter4/pull/8392)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
