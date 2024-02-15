@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.1](https://github.com/codeigniter4/shield/releases/tag/v1.0.1), *today*) - Authentication and Authorization for CodeIgniter 4
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.0](https://github.com/larastan/larastan/releases/tag/v2.9.0), *2 days ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *1 week ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.21.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.21.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -34,7 +35,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.4](https://github.com/codeigniter4/translations/releases/tag/v4.4.4), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.0](https://github.com/codeigniter4/devkit/releases/tag/v1.2.0), *3 weeks ago*) - Development toolkit for CodeIgniter libraries and projects
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.0](https://github.com/codeigniter4/shield/releases/tag/v1.0.0), *1 month ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
 
 ### 🔨 My recent Pull Requests
