@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.1](https://github.com/codeigniter4/shield/releases/tag/v1.0.1), *5 days ago*) - Authentication and Authorization for CodeIgniter 4
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.1](https://github.com/codeigniter4/shield/releases/tag/v1.0.1), *6 days ago*) - Authentication and Authorization for CodeIgniter 4
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.0](https://github.com/larastan/larastan/releases/tag/v2.9.0), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.21.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.21.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
-- **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/26)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
-- **[style: also align `@phpstan-type` and `@phpstan-var`](https://github.com/codeigniter4/CodeIgniter4/pull/8551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
+- **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/26)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*5 days ago*)
+- **[style: also align `@phpstan-type` and `@phpstan-var`](https://github.com/codeigniter4/CodeIgniter4/pull/8551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[style: Enable `phpdoc_list_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: fix phpstan errors on TestLogger](https://github.com/codeigniter4/CodeIgniter4/pull/8479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
