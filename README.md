@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.6), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.50.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.50.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.1](https://github.com/codeigniter4/devkit/releases/tag/v1.2.1), *2 days ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.1](https://github.com/codeigniter4/shield/releases/tag/v1.0.1), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.21.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.21.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.13](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.13), *4 weeks ago*) - Official Coding Standards for CodeIgniter
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.5), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.4.4](https://github.com/codeigniter4/translations/releases/tag/v4.4.4), *4 weeks ago*) - System message translations for CodeIgniter4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *2 months ago*) - CodeIgniter extensions and rules for PHPStan
 
