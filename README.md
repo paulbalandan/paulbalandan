@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
@@ -28,7 +28,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.2](https://github.com/larastan/larastan/releases/tag/v2.9.2), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.14](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.14), *1 week ago*) - Official Coding Standards for CodeIgniter
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.14](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.14), *2 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.22.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.22.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.6), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.1](https://github.com/codeigniter4/devkit/releases/tag/v1.2.1), *2 weeks ago*) - Development toolkit for CodeIgniter libraries and projects
@@ -43,7 +43,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
 - **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/26)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 weeks ago*)
 - **[style: also align `@phpstan-type` and `@phpstan-var`](https://github.com/codeigniter4/CodeIgniter4/pull/8551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[style: Enable `phpdoc_list_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[style: Enable `phpdoc_list_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[docs: fix phpstan errors on TestLogger](https://github.com/codeigniter4/CodeIgniter4/pull/8479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[test: refactor ImageMagickHandlerTest](https://github.com/codeigniter4/CodeIgniter4/pull/8461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
