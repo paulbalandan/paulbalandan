@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@Samuel-08](https://github.com/Samuel-08)
 - [@StanyMadanu](https://github.com/StanyMadanu)
 - [@bimap98](https://github.com/bimap98)
 - [@jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [@mrhbozkurt](https://github.com/mrhbozkurt)
-- [@voku](https://github.com/voku)
 
 ### 📫 You can reach me here
 
