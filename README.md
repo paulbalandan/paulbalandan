@@ -54,7 +54,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - [@Samuel-08](https://github.com/Samuel-08)
 - [@StanyMadanu](https://github.com/StanyMadanu)
-- [@bimap98](https://github.com/bimap98)
+- [@bima-putral](https://github.com/bima-putral)
 - [@jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [@mrhbozkurt](https://github.com/mrhbozkurt)
 
