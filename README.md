@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: Support faker modifiers on Fabricator](https://github.com/codeigniter4/CodeIgniter4/pull/8671)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[style: enable `phpdoc_array_type`](https://github.com/codeigniter4/CodeIgniter4/pull/8580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: Enable `phpdoc_list_type` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[docs: fix phpstan errors on TestLogger](https://github.com/codeigniter4/CodeIgniter4/pull/8479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[style: apply new options to `phpdoc_align` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/8462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[test: refactor ImageMagickHandlerTest](https://github.com/codeigniter4/CodeIgniter4/pull/8461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[chore: enforce PR title format with PRLint Reloaded](https://github.com/codeigniter4/CodeIgniter4/pull/8394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
