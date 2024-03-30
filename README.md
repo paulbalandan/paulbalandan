@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[fix: [ImageMagickHandler] early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: Support faker modifiers on Fabricator](https://github.com/codeigniter4/CodeIgniter4/pull/8671)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[style: enable `phpdoc_array_type`](https://github.com/codeigniter4/CodeIgniter4/pull/8580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
