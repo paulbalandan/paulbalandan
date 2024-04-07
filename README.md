@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.4.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.4.8), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.2](https://github.com/codeigniter4/devkit/releases/tag/v1.2.2), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.22.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.22.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.15](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.15), *2 weeks ago*) - Official Coding Standards for CodeIgniter
