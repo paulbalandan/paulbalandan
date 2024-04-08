@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.0), *today*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.0), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.2](https://github.com/codeigniter4/devkit/releases/tag/v1.2.2), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.22.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.22.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.15](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.15), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
 - **[chore: realign contents of .gitattributes](https://github.com/codeigniter4/CodeIgniter4/pull/8687)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: [ImageMagickHandler] early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
