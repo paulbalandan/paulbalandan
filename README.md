@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.0), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.2](https://github.com/codeigniter4/devkit/releases/tag/v1.2.2), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.22.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.22.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.15](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.15), *2 weeks ago*) - Official Coding Standards for CodeIgniter
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.2](https://github.com/codeigniter4/shield/releases/tag/v1.0.2), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.2](https://github.com/larastan/larastan/releases/tag/v2.9.2), *1 month ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
