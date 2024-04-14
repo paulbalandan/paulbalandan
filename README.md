@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.3](https://github.com/larastan/larastan/releases/tag/v2.9.3), *today*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.4](https://github.com/larastan/larastan/releases/tag/v2.9.4), *today*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.3](https://github.com/codeigniter4/shield/releases/tag/v1.0.3), *today*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.1), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
