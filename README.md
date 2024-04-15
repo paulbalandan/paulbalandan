@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[style: enable modernize_strpos](https://github.com/codeigniter4/CodeIgniter4/pull/8754)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[chore: Reverts disabling custom fixers for PHP 7.4](https://github.com/codeigniter4/CodeIgniter4/pull/8753)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[chore: Revert disabling custom fixers for PHP 7.4](https://github.com/codeigniter4/CodeIgniter4/pull/8753)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[chore: realign contents of .gitattributes](https://github.com/codeigniter4/CodeIgniter4/pull/8687)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
