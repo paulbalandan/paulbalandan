@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.5](https://github.com/larastan/larastan/releases/tag/v2.9.5), *2 days ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), *2 days ago*) - PHP runtime &amp; extensions header files for PhpStorm
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.3](https://github.com/codeigniter4/shield/releases/tag/v1.0.3), *4 days ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.1), *4 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.5](https://github.com/larastan/larastan/releases/tag/v2.9.5), *3 days ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), *3 days ago*) - PHP runtime &amp; extensions header files for PhpStorm
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.3](https://github.com/codeigniter4/shield/releases/tag/v1.0.3), *5 days ago*) - Authentication and Authorization for CodeIgniter 4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.1), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.2](https://github.com/codeigniter4/devkit/releases/tag/v1.2.2), *3 weeks ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.22.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.22.1), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.15](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.15), *3 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,13 +39,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: update to PHP 8.1 and PHPUnit 10.5 || 11.0](https://github.com/codeigniter4/translations/pull/445)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
+- **[refactor: update to PHP 8.1 and PHPUnit 10.5 || 11.0](https://github.com/codeigniter4/translations/pull/445)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
 - **[style: enable modernize_strpos](https://github.com/codeigniter4/CodeIgniter4/pull/8754)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: Revert disabling custom fixers for PHP 7.4](https://github.com/codeigniter4/CodeIgniter4/pull/8753)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[chore: realign contents of .gitattributes](https://github.com/codeigniter4/CodeIgniter4/pull/8687)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: [ImageMagickHandler] early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[refactor: simplify ImageMagickHandler::getVersion()](https://github.com/codeigniter4/CodeIgniter4/pull/8681)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[fix: [ImageMagickHandler] early terminate processing of invalid library path](https://github.com/codeigniter4/CodeIgniter4/pull/8680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[feat: Support faker modifiers on Fabricator](https://github.com/codeigniter4/CodeIgniter4/pull/8671)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[style: enable `phpdoc_array_type`](https://github.com/codeigniter4/CodeIgniter4/pull/8580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/271)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
