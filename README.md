@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.57.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.2), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.16](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.16), *2 days ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.0), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.1](https://github.com/codeigniter4/translations/releases/tag/v4.5.1), *2 days ago*) - System message translations for CodeIgniter4
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.57.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.1), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.6](https://github.com/larastan/larastan/releases/tag/v2.9.6), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
