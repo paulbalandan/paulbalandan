@@ -20,13 +20,13 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 months ago*)
 - **[larastan/larastan](https://github.com/larastan/larastan)** - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (*5 months ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*5 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.58.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.58.1), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.58.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.58.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.16](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.16), *2 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
