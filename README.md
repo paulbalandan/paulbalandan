@@ -41,7 +41,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[Enable rules for PHP 8.1](https://github.com/CodeIgniter/coding-standard/pull/20)** on [CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard) (*2 weeks ago*)
 - **[chore: Bump to phpstan v1.11](https://github.com/codeigniter4/CodeIgniter4/pull/8891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[style: enable `ordered_attributes`](https://github.com/codeigniter4/CodeIgniter4/pull/8864)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[style: enable `ordered_attributes`](https://github.com/codeigniter4/CodeIgniter4/pull/8864)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[fix: `PhpUnitAttributesFixer` - fix for `#[RequiresPhp]` exceeding its constructor parameters](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7966)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[style: Enable `php_unit_attributes`](https://github.com/codeigniter4/CodeIgniter4/pull/8821)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: update to PHP 8.1 and PHPUnit 10.5 || 11.0](https://github.com/codeigniter4/translations/pull/445)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
