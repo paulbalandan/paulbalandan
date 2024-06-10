@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: `RedisHandler::deleteMatching()` not deleting matching keys if cache prefix is used](https://github.com/codeigniter4/CodeIgniter4/pull/8952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Enable rules for PHP 8.1](https://github.com/CodeIgniter/coding-standard/pull/20)** on [CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard) (*3 weeks ago*)
 - **[chore: Bump to phpstan v1.11](https://github.com/codeigniter4/CodeIgniter4/pull/8891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[style: enable `ordered_attributes`](https://github.com/codeigniter4/CodeIgniter4/pull/8864)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: enable modernize_strpos](https://github.com/codeigniter4/CodeIgniter4/pull/8754)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[chore: Revert disabling custom fixers for PHP 7.4](https://github.com/codeigniter4/CodeIgniter4/pull/8753)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/291)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
-- **[chore: realign contents of .gitattributes](https://github.com/codeigniter4/CodeIgniter4/pull/8687)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
