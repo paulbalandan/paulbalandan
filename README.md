@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.2), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.58.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.58.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.16](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.16), *3 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -34,7 +35,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), *1 month ago*) - PHP runtime &amp; extensions header files for PhpStorm
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.0.3](https://github.com/codeigniter4/shield/releases/tag/v1.0.3), *1 month ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.1), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *4 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
