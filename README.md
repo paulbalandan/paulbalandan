@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.59.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.0), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *2 days ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.2), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.58.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.58.1), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7), *2 weeks ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.7.16](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.16), *4 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.0), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
