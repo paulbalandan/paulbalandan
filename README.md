@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.2](https://github.com/codeigniter4/translations/releases/tag/v4.5.2), *1 day ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.2](https://github.com/codeigniter4/translations/releases/tag/v4.5.2), *2 days ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *1 week ago*) - Prevent merge commits in pull requests.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.0), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
 - **[fix: return and param types of BaseConnection](https://github.com/codeigniter4/CodeIgniter4/pull/8983)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/323)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[chore: add checks for RELEASE and VERSION variables](https://github.com/codeigniter4/CodeIgniter4/pull/8968)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
