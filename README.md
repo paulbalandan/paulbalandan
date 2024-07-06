@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8), *today*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.2](https://github.com/codeigniter4/translations/releases/tag/v4.5.2), *5 days ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *1 week ago*) - Prevent merge commits in pull requests.
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
-- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.7](https://github.com/larastan/larastan/releases/tag/v2.9.7), *1 month ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs)** ([v2024.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.1), *2 months ago*) - PHP runtime &amp; extensions header files for PhpStorm
 
