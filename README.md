@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: fix cs](https://github.com/codeigniter4/CodeIgniter4/pull/8967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[fix: `RedisHandler::deleteMatching()` not deleting matching keys if cache prefix is used](https://github.com/codeigniter4/CodeIgniter4/pull/8952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[Enable rules for PHP 8.1](https://github.com/CodeIgniter/coding-standard/pull/20)** on [CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard) (*1 month ago*)
-- **[chore: Bump to phpstan v1.11](https://github.com/codeigniter4/CodeIgniter4/pull/8891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
