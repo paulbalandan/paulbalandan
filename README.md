@@ -13,14 +13,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 months ago*)
 - **[larastan/larastan](https://github.com/larastan/larastan)** - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (*6 months ago*)
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: reorganise toolkit](https://github.com/codeigniter4/CodeIgniter4/pull/9047)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add checks for RELEASE and VERSION variables](https://github.com/codeigniter4/CodeIgniter4/pull/8968)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[style: fix cs](https://github.com/codeigniter4/CodeIgniter4/pull/8967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[fix: `RedisHandler::deleteMatching()` not deleting matching keys if cache prefix is used](https://github.com/codeigniter4/CodeIgniter4/pull/8952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Enable rules for PHP 8.1](https://github.com/CodeIgniter/coding-standard/pull/20)** on [CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
