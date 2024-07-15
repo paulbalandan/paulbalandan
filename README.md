@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
@@ -27,9 +27,9 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔭 Latest releases I've contributed to
 
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.2](https://github.com/codeigniter4/translations/releases/tag/v4.5.2), *1 week ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.2](https://github.com/codeigniter4/translations/releases/tag/v4.5.2), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.3), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *2 weeks ago*) - Prevent merge commits in pull requests.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *3 weeks ago*) - Prevent merge commits in pull requests.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.0](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.0), *4 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.1), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), *4 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: reorganise toolkit](https://github.com/codeigniter4/CodeIgniter4/pull/9047)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
+- **[chore: reorganise toolkit](https://github.com/codeigniter4/CodeIgniter4/pull/9047)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 - **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[fix: return and param types of BaseConnection](https://github.com/codeigniter4/CodeIgniter4/pull/8983)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/323)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
