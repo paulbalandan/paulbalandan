@@ -34,8 +34,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.23.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.23.1), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *1 month ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *2 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *5 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.4.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.3), *7 months ago*) - CodeIgniter extensions and rules for PHPStan
 
 ### 🔨 My recent Pull Requests
 
