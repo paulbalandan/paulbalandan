@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: [BaseConnection] change `@property-read` annotations to just `@property`](https://github.com/codeigniter4/CodeIgniter4/pull/9061)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: use `PgSql` classes](https://github.com/codeigniter4/CodeIgniter4/pull/9060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix invalid symbol &#39;&#34;&#39;](https://github.com/codeigniter4/CodeIgniter4/pull/9058)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: reorganise toolkit](https://github.com/codeigniter4/CodeIgniter4/pull/9047)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
 - **[fix: return and param types of BaseConnection](https://github.com/codeigniter4/CodeIgniter4/pull/8983)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/323)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
-- **[chore: add checks for RELEASE and VERSION variables](https://github.com/codeigniter4/CodeIgniter4/pull/8968)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[style: fix cs](https://github.com/codeigniter4/CodeIgniter4/pull/8967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
