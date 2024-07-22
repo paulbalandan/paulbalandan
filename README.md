@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: add `bin/generate-changelog`](https://github.com/codeigniter4/translations/pull/466)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[chore: fix invalid symbol &#39;&#34;&#39;](https://github.com/codeigniter4/devkit/pull/132)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
 - **[refactor: [BaseConnection] change `@property-read` annotations to just `@property`](https://github.com/codeigniter4/CodeIgniter4/pull/9061)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: use `PgSql` classes](https://github.com/codeigniter4/CodeIgniter4/pull/9060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[chore: remove dev files in dist version](https://github.com/codeigniter4/shield/pull/1140)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
-- **[fix: return and param types of BaseConnection](https://github.com/codeigniter4/CodeIgniter4/pull/8983)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
