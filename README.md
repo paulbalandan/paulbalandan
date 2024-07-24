@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `Throttler::check()` $tokens](https://github.com/codeigniter4/CodeIgniter4/pull/9067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: refactor CS scripts](https://github.com/codeigniter4/CodeIgniter4/pull/9066)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add `bin/generate-changelog`](https://github.com/codeigniter4/translations/pull/466)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[chore: fix invalid symbol &#39;&#34;&#39;](https://github.com/codeigniter4/devkit/pull/132)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: reorganise toolkit](https://github.com/codeigniter4/CodeIgniter4/pull/9047)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: Prevent invalid session handlers](https://github.com/codeigniter4/CodeIgniter4/pull/9036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[chore: make php-cs-fixer configs DRY](https://github.com/codeigniter4/CodeIgniter4/pull/9035)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[chore: update cs](https://github.com/codeigniter4/translations/pull/464)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
