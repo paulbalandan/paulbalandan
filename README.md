@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*5 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*6 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[codeigniter4/.github](https://github.com/codeigniter4/.github)** - CodeIgniter4 Default Templates for GitHub (*3 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
@@ -28,7 +28,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.24.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.24.3), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.5), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), *3 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.1), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.3](https://github.com/codeigniter4/translations/releases/tag/v4.5.3), *1 month ago*) - System message translations for CodeIgniter4
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8), *2 months ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
@@ -46,9 +46,9 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix mssql-server 2022 failing to start](https://github.com/codeigniter4/CodeIgniter4/pull/9068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: fix `Throttler::check()` $tokens](https://github.com/codeigniter4/CodeIgniter4/pull/9067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[chore: refactor CS scripts](https://github.com/codeigniter4/CodeIgniter4/pull/9066)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[chore: add `bin/generate-changelog`](https://github.com/codeigniter4/translations/pull/466)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
-- **[chore: fix invalid symbol &#39;&#34;&#39;](https://github.com/codeigniter4/devkit/pull/132)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*1 month ago*)
-- **[refactor: [BaseConnection] change `@property-read` annotations to just `@property`](https://github.com/codeigniter4/CodeIgniter4/pull/9061)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[chore: add `bin/generate-changelog`](https://github.com/codeigniter4/translations/pull/466)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 months ago*)
+- **[chore: fix invalid symbol &#39;&#34;&#39;](https://github.com/codeigniter4/devkit/pull/132)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 months ago*)
+- **[refactor: [BaseConnection] change `@property-read` annotations to just `@property`](https://github.com/codeigniter4/CodeIgniter4/pull/9061)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
