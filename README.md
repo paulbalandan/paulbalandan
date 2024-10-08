@@ -34,12 +34,12 @@ knowledge, I am continuously learning. The rest is history.
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.8](https://github.com/larastan/larastan/releases/tag/v2.9.8), *3 months ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *3 months ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *3 months ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *4 months ago*) - Development toolkit for CodeIgniter libraries and projects
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *5 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *8 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
 - **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 month ago*)
 - **[fix: `PhpUnitAttributesFixer` - fix priorities with `PhpUnitDataProvider(.&#43;)Fixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8169)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 month ago*)
 - **[chore: Update phpunit to `^10.5.16 || ^11.2`](https://github.com/codeigniter4/CodeIgniter4/pull/9080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
