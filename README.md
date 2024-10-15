@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*6 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
 - **[codeigniter4/.github](https://github.com/codeigniter4/.github)** - CodeIgniter4 Default Templates for GitHub (*1 month ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 months ago*)
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
 - **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 month ago*)
 - **[fix: `PhpUnitAttributesFixer` - fix priorities with `PhpUnitDataProvider(.&#43;)Fixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8169)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 months ago*)
 - **[chore: Update phpunit to `^10.5.16 || ^11.2`](https://github.com/codeigniter4/CodeIgniter4/pull/9080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
