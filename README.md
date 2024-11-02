@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9), *2 weeks ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- **[larastan/larastan](https://github.com/larastan/larastan)** ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), *today*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.24.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.24.3), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.5), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), *2 months ago*) - A tool to automatically fix PHP Coding Standards issues
