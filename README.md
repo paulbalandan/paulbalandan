@@ -33,7 +33,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.1), *3 months ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.3](https://github.com/codeigniter4/translations/releases/tag/v4.5.3), *3 months ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *4 months ago*) - Prevent merge commits in pull requests.
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *4 months ago*) - Authentication and Authorization for CodeIgniter 4
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *5 months ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *6 months ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *9 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
@@ -41,7 +41,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 - **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*2 months ago*)
-- **[fix: `PhpUnitAttributesFixer` - fix priorities with `PhpUnitDataProvider(.&#43;)Fixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8169)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 months ago*)
+- **[fix: `PhpUnitAttributesFixer` - fix priorities with `PhpUnitDataProvider(.&#43;)Fixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8169)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 months ago*)
 - **[chore: Update phpunit to `^10.5.16 || ^11.2`](https://github.com/codeigniter4/CodeIgniter4/pull/9080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[chore: add composer scripts for phpstan](https://github.com/codeigniter4/CodeIgniter4/pull/9075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[chore: fix mssql-server 2022 failing to start](https://github.com/codeigniter4/CodeIgniter4/pull/9068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
