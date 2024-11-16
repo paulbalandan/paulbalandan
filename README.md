@@ -13,15 +13,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 - **[codeigniter4/.github](https://github.com/codeigniter4/.github)** - CodeIgniter4 Default Templates for GitHub (*2 months ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 months ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 months ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 months ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
