@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: use `Superglobals` in setting &#39;REQUEST_METHOD&#39; in `FeatureT…](https://github.com/codeigniter4/CodeIgniter4/pull/9294)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Fix `iterator_to_array` return type with generators](https://github.com/phpstan/phpstan-src/pull/3652)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
 - **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*2 months ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix mssql-server 2022 failing to start](https://github.com/codeigniter4/CodeIgniter4/pull/9068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 - **[refactor: fix `Throttler::check()` $tokens](https://github.com/codeigniter4/CodeIgniter4/pull/9067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 - **[chore: refactor CS scripts](https://github.com/codeigniter4/CodeIgniter4/pull/9066)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
-- **[chore: add `bin/generate-changelog`](https://github.com/codeigniter4/translations/pull/466)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 months ago*)
 
 ### 👯 Check out some of my recent followers
 
