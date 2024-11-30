@@ -15,6 +15,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*4 days ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
@@ -22,7 +23,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 - **[codeigniter4/.github](https://github.com/codeigniter4/.github)** - CodeIgniter4 Default Templates for GitHub (*3 months ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: refactor `ConfigCheckTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9295)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: use `Superglobals` in setting &#39;REQUEST_METHOD&#39; in `FeatureT…](https://github.com/codeigniter4/CodeIgniter4/pull/9294)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Fix `iterator_to_array` return type with generators](https://github.com/phpstan/phpstan-src/pull/3652)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add composer scripts for phpstan](https://github.com/codeigniter4/CodeIgniter4/pull/9075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 - **[chore: fix mssql-server 2022 failing to start](https://github.com/codeigniter4/CodeIgniter4/pull/9068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 - **[refactor: fix `Throttler::check()` $tokens](https://github.com/codeigniter4/CodeIgniter4/pull/9067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
-- **[chore: refactor CS scripts](https://github.com/codeigniter4/CodeIgniter4/pull/9066)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 
 ### 👯 Check out some of my recent followers
 
