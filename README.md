@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.0), *today*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), *6 days ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.2), *1 week ago*) - Official Coding Standards for CodeIgniter
