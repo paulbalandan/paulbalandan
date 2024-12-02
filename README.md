@@ -14,13 +14,13 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 days ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 - **[codeigniter4/.github](https://github.com/codeigniter4/.github)** - CodeIgniter4 Default Templates for GitHub (*3 months ago*)
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/30)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
 - **[Use native PHPDocs for `Rule` and `RuleTestCase`](https://github.com/phpstan/phpstan-src/pull/3698)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[Introduce `ClassAsClassConstantRule`](https://github.com/phpstan/phpstan-src/pull/3697)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
 - **[refactor: use `baseURI` instead of `base_uri`](https://github.com/codeigniter4/CodeIgniter4/pull/9296)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
 - **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*3 months ago*)
 - **[fix: `PhpUnitAttributesFixer` - fix priorities with `PhpUnitDataProvider(.&#43;)Fixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8169)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 months ago*)
-- **[chore: Update phpunit to `^10.5.16 || ^11.2`](https://github.com/codeigniter4/CodeIgniter4/pull/9080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 months ago*)
 
 ### 👯 Check out some of my recent followers
 
