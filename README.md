@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Fix `iterator_to_array` to early return when `$preserveKeys` is false](https://github.com/phpstan/phpstan-src/pull/3713)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[refactor: split phpstan-baseline into smaller files](https://github.com/codeigniter4/CodeIgniter4/pull/9299)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/30)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
 - **[Use native PHPDocs for `Rule` and `RuleTestCase`](https://github.com/phpstan/phpstan-src/pull/3698)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: use `Superglobals` in setting &#39;REQUEST_METHOD&#39; in `FeatureT…](https://github.com/codeigniter4/CodeIgniter4/pull/9294)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `iterator_to_array` return type with generators](https://github.com/phpstan/phpstan-src/pull/3652)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/385)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 months ago*)
-- **[Implement Nexus Collection](https://github.com/NexusPHP/framework/pull/3)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
 
