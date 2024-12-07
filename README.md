@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[paulbalandan/liaison-revision](https://github.com/paulbalandan/liaison-revision)** - Seamless software updates library for CodeIgniter4 projects. (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 months ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *4 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *5 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), *1 week ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.2), *2 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -35,18 +35,18 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.5), *3 months ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *5 months ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *5 months ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *6 months ago*) - Development toolkit for CodeIgniter libraries and projects
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *7 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: automate merging develop to next minor branch](https://github.com/codeigniter4/CodeIgniter4/pull/9305)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Fix `iterator_to_array` to early return when `$preserveKeys` is false](https://github.com/phpstan/phpstan-src/pull/3713)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
-- **[refactor: split phpstan-baseline into smaller files](https://github.com/codeigniter4/CodeIgniter4/pull/9299)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/30)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 days ago*)
-- **[Use native PHPDocs for `Rule` and `RuleTestCase`](https://github.com/phpstan/phpstan-src/pull/3698)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
-- **[Introduce `ClassAsClassConstantRule`](https://github.com/phpstan/phpstan-src/pull/3697)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
-- **[refactor: use `baseURI` instead of `base_uri`](https://github.com/codeigniter4/CodeIgniter4/pull/9296)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[test: refactor `ConfigCheckTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9295)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: automate merging develop to next minor branch](https://github.com/codeigniter4/CodeIgniter4/pull/9305)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Fix `iterator_to_array` to early return when `$preserveKeys` is false](https://github.com/phpstan/phpstan-src/pull/3713)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
+- **[refactor: split phpstan-baseline into smaller files](https://github.com/codeigniter4/CodeIgniter4/pull/9299)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/30)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*5 days ago*)
+- **[Use native PHPDocs for `Rule` and `RuleTestCase`](https://github.com/phpstan/phpstan-src/pull/3698)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
+- **[Introduce `ClassAsClassConstantRule`](https://github.com/phpstan/phpstan-src/pull/3697)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
+- **[refactor: use `baseURI` instead of `base_uri`](https://github.com/codeigniter4/CodeIgniter4/pull/9296)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[test: refactor `ConfigCheckTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9295)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: use `Superglobals` in setting &#39;REQUEST_METHOD&#39; in `FeatureT…](https://github.com/codeigniter4/CodeIgniter4/pull/9294)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix `iterator_to_array` return type with generators](https://github.com/phpstan/phpstan-src/pull/3652)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
 
