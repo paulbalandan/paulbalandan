@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `phpDoc.parseError` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9313)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: rename `stdclass` to `stdClass`](https://github.com/codeigniter4/CodeIgniter4/pull/9312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Use native PHPDocs wherever possible](https://github.com/phpstan/phpstan-src/pull/3720)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/435)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
 - **[chore: automate merging develop to next minor branch](https://github.com/codeigniter4/CodeIgniter4/pull/9305)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: various reflection issues with `Model` and `Entity`](https://github.com/CodeIgniter/phpstan-codeigniter/pull/30)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 - **[Use native PHPDocs for `Rule` and `RuleTestCase`](https://github.com/phpstan/phpstan-src/pull/3698)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[Introduce `ClassAsClassConstantRule`](https://github.com/phpstan/phpstan-src/pull/3697)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
-- **[refactor: use `baseURI` instead of `base_uri`](https://github.com/codeigniter4/CodeIgniter4/pull/9296)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: refactor `ConfigCheckTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9295)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
