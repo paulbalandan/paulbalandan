@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*today*)
 - **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*3 days ago*)
 - **[refactor: fix implicit array creation](https://github.com/codeigniter4/CodeIgniter4/pull/9316)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: rename `stdclass` to `stdClass`](https://github.com/codeigniter4/CodeIgniter4/pull/9312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Use native PHPDocs wherever possible](https://github.com/phpstan/phpstan-src/pull/3720)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/435)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
-- **[chore: automate merging develop to next minor branch](https://github.com/codeigniter4/CodeIgniter4/pull/9305)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
