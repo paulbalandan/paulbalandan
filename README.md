@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 weeks ago*)
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 day ago*)
-- **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*4 days ago*)
+- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*2 days ago*)
+- **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*5 days ago*)
 - **[refactor: fix implicit array creation](https://github.com/codeigniter4/CodeIgniter4/pull/9316)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix `method.nameCase` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9315)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: rename `controller` to `Controller`](https://github.com/codeigniter4/CodeIgniter4/pull/9314)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
