@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 weeks ago*)
@@ -33,19 +33,19 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *1 month ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.24.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.24.3), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.5), *3 months ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *5 months ago*) - Prevent merge commits in pull requests.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *6 months ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *6 months ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *7 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: fix errors on merging `develop` to `4.6`](https://github.com/codeigniter4/CodeIgniter4/pull/9332)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: `Reflection*::setAccessible()` is now no-op in PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/9331)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `Forge::processIndexes()` for empty `$this-&gt;fields`](https://github.com/codeigniter4/CodeIgniter4/pull/9330)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*3 days ago*)
-- **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*6 days ago*)
+- **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: fix errors on merging `develop` to `4.6`](https://github.com/codeigniter4/CodeIgniter4/pull/9332)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: `Reflection*::setAccessible()` is now no-op in PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/9331)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix `Forge::processIndexes()` for empty `$this-&gt;fields`](https://github.com/codeigniter4/CodeIgniter4/pull/9330)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*4 days ago*)
+- **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 - **[refactor: fix implicit array creation](https://github.com/codeigniter4/CodeIgniter4/pull/9316)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix `method.nameCase` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9315)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: rename `controller` to `Controller`](https://github.com/codeigniter4/CodeIgniter4/pull/9314)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
