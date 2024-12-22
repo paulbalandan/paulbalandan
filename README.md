@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add stub for `$tag` of `openssl_encrypt()`](https://github.com/phpstan/phpstan-src/pull/3753)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[Implement Nexus Encryption](https://github.com/NexusPHP/framework/pull/6)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*today*)
 - **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: fix errors on merging `develop` to `4.6`](https://github.com/codeigniter4/CodeIgniter4/pull/9332)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 - **[refactor: fix implicit array creation](https://github.com/codeigniter4/CodeIgniter4/pull/9316)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: fix `method.nameCase` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9315)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
