@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix used void return type](https://github.com/codeigniter4/CodeIgniter4/pull/9341)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Implement `OpenSslEncryptParameterOutTypeExtension`](https://github.com/phpstan/phpstan-src/pull/3753)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
 - **[Implement Nexus Encryption](https://github.com/NexusPHP/framework/pull/6)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*5 days ago*)
 - **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `Forge::processIndexes()` for empty `$this-&gt;fields`](https://github.com/codeigniter4/CodeIgniter4/pull/9330)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 - **[refactor: add `@throws RedirectException` in `Controller::initController`](https://github.com/codeigniter4/CodeIgniter4/pull/9327)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Implement Nexus Suppression](https://github.com/NexusPHP/framework/pull/4)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
-- **[refactor: fix implicit array creation](https://github.com/codeigniter4/CodeIgniter4/pull/9316)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
