@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Prep for 4.5.6 release](https://github.com/codeigniter4/CodeIgniter4/pull/9344)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Implement Nexus Result](https://github.com/NexusPHP/framework/pull/7)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*today*)
 - **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix used void return type](https://github.com/codeigniter4/CodeIgniter4/pull/9341)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix errors on merging `develop` to `4.6`](https://github.com/codeigniter4/CodeIgniter4/pull/9332)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: `Reflection*::setAccessible()` is now no-op in PHP 8.1](https://github.com/codeigniter4/CodeIgniter4/pull/9331)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix `Forge::processIndexes()` for empty `$this-&gt;fields`](https://github.com/codeigniter4/CodeIgniter4/pull/9330)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Implement Nexus Password](https://github.com/NexusPHP/framework/pull/5)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
