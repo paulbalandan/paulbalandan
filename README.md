@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*2 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.6), *today*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.6), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *3 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), *1 month ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,15 +39,15 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[docs: add changelog and upgrade for v4.5.7](https://github.com/codeigniter4/CodeIgniter4/pull/9347)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[chore: add branch-alias for `master` branch](https://github.com/codeigniter4/CodeIgniter4/pull/9346)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[4.5.6 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Prep for 4.5.6 release](https://github.com/codeigniter4/CodeIgniter4/pull/9344)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Implement Nexus Result](https://github.com/NexusPHP/framework/pull/7)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*today*)
-- **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix used void return type](https://github.com/codeigniter4/CodeIgniter4/pull/9341)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Implement `OpenSslEncryptParameterOutTypeExtension`](https://github.com/phpstan/phpstan-src/pull/3753)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*6 days ago*)
-- **[Implement Nexus Encryption](https://github.com/NexusPHP/framework/pull/6)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*6 days ago*)
+- **[docs: add changelog and upgrade for v4.5.7](https://github.com/codeigniter4/CodeIgniter4/pull/9347)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[chore: add branch-alias for `master` branch](https://github.com/codeigniter4/CodeIgniter4/pull/9346)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[4.5.6 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Prep for 4.5.6 release](https://github.com/codeigniter4/CodeIgniter4/pull/9344)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Implement Nexus Result](https://github.com/NexusPHP/framework/pull/7)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 day ago*)
+- **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix used void return type](https://github.com/codeigniter4/CodeIgniter4/pull/9341)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Implement `OpenSslEncryptParameterOutTypeExtension`](https://github.com/phpstan/phpstan-src/pull/3753)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
+- **[Implement Nexus Encryption](https://github.com/NexusPHP/framework/pull/6)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 - **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
