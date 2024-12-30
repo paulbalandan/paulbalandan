@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: add PHP 8.4 to issue template](https://github.com/codeigniter4/CodeIgniter4/pull/9353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[style: bump to php-cs-fixer v3.66](https://github.com/codeigniter4/CodeIgniter4/pull/9352)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: `Forge::dropColumn()` always returns `false` on SQLite3 driver](https://github.com/codeigniter4/CodeIgniter4/pull/9351)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add changelog and upgrade for v4.5.7](https://github.com/codeigniter4/CodeIgniter4/pull/9347)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: add branch-alias for `master` branch](https://github.com/codeigniter4/CodeIgniter4/pull/9346)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[4.5.6 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Implement Nexus Result](https://github.com/NexusPHP/framework/pull/7)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*2 days ago*)
 - **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: fix used void return type](https://github.com/codeigniter4/CodeIgniter4/pull/9341)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Implement `OpenSslEncryptParameterOutTypeExtension`](https://github.com/phpstan/phpstan-src/pull/3753)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
-- **[Implement Nexus Encryption](https://github.com/NexusPHP/framework/pull/6)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
-- **[chore: bump to laminas-escaper v2.15](https://github.com/codeigniter4/CodeIgniter4/pull/9333)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
