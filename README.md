@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.7), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.6), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *4 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[larastan/larastan](https://github.com/larastan/larastan)** ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), *1 month ago*) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.2), *1 month ago*) - Official Coding Standards for CodeIgniter
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[4.5.7 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Prep for 4.5.7 release](https://github.com/codeigniter4/CodeIgniter4/pull/9357)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: clean up issue templates](https://github.com/codeigniter4/CodeIgniter4/pull/9355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: add PHP 8.4 to issue template](https://github.com/codeigniter4/CodeIgniter4/pull/9353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[style: bump to php-cs-fixer v3.66](https://github.com/codeigniter4/CodeIgniter4/pull/9352)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add branch-alias for `master` branch](https://github.com/codeigniter4/CodeIgniter4/pull/9346)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[4.5.6 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Prep for 4.5.6 release](https://github.com/codeigniter4/CodeIgniter4/pull/9344)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Implement Nexus Result](https://github.com/NexusPHP/framework/pull/7)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*3 days ago*)
-- **[refactor: fix warning on new static usage](https://github.com/codeigniter4/CodeIgniter4/pull/9342)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
