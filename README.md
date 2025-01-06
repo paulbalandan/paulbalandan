@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Implement Nexus Encryption v2](https://github.com/NexusPHP/framework/pull/8)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*today*)
 - **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9364)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[docs: add changelog and upgrade for v4.5.8](https://github.com/codeigniter4/CodeIgniter4/pull/9359)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[4.5.7 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: bump to php-cs-fixer v3.66](https://github.com/codeigniter4/CodeIgniter4/pull/9352)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: `Forge::dropColumn()` always returns `false` on SQLite3 driver](https://github.com/codeigniter4/CodeIgniter4/pull/9351)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add changelog and upgrade for v4.5.7](https://github.com/codeigniter4/CodeIgniter4/pull/9347)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: add branch-alias for `master` branch](https://github.com/codeigniter4/CodeIgniter4/pull/9346)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
