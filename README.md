@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
-- [@mowhn](https://github.com/mowhn)
 - [@neznaika0](https://github.com/neznaika0)
 - [@natamartinscodedev](https://github.com/natamartinscodedev)
 - [@hu8813](https://github.com/hu8813)
 - [@haykaf](https://github.com/haykaf)
+- [@rodriguesfas](https://github.com/rodriguesfas)
 
 ### 📫 You can reach me here
 
