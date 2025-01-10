@@ -9,7 +9,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&show=reviews,discussions,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_title=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&show=reviews,discussions,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&number_format=long&rank_icon=percentile&hide_title=true)
 
 ### 👷 Check out what I'm currently working on
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add write-up on always used methods in the Developing Extensions page](https://github.com/phpstan/phpstan/pull/12404)** on [phpstan/phpstan](https://github.com/phpstan/phpstan) (*today*)
 - **[chore: add more trailing commas in more places](https://github.com/codeigniter4/CodeIgniter4/pull/9395)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: enable `get_class_to_class_keyword` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/9394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: update license year once](https://github.com/codeigniter4/translations/pull/472)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[4.5.7 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for 4.5.7 release](https://github.com/codeigniter4/CodeIgniter4/pull/9357)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: clean up issue templates](https://github.com/codeigniter4/CodeIgniter4/pull/9355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: add PHP 8.4 to issue template](https://github.com/codeigniter4/CodeIgniter4/pull/9353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
