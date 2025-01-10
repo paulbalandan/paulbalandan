@@ -9,7 +9,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&count_private=true&show_icons=true&hide_title=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=paulbalandan&show=reviews,discussions,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_title=true)
 
 ### 👷 Check out what I'm currently working on
 
