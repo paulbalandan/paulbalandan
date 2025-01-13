@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.0), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.3), *today*) - Official Coding Standards for CodeIgniter
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.67.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.67.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.0), *3 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1), *1 week ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
