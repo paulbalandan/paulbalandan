@@ -14,11 +14,11 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*1 day ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*1 day ago*)
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** - PHP Static Analysis Tool - discover bugs in your code without running it! (*3 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*5 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
@@ -26,12 +26,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.3), *today*) - Official Coding Standards for CodeIgniter
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.67.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.67.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.0), *3 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1), *1 week ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.7), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.2), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *1 month ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.1.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.1.0), *6 months ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *7 months ago*) - Authentication and Authorization for CodeIgniter 4
