@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[Update README.md](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/5)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*2 days ago*)
 - **[chore: fix mergeable integration file](https://github.com/codeigniter4/CodeIgniter4/pull/9396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Create LICENSE](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/2)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: enable `get_class_to_class_keyword` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/9394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: update license year once](https://github.com/codeigniter4/translations/pull/472)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 - **[Implement Nexus Encryption v2](https://github.com/NexusPHP/framework/pull/8)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
-- **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9364)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
