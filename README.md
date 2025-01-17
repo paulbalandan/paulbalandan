@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*5 days ago*)
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** - PHP Static Analysis Tool - discover bugs in your code without running it! (*1 week ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fix wrong constraint in mergeable.yml](https://github.com/codeigniter4/CodeIgniter4/pull/9413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
 - **[Update README.md](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/5)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*6 days ago*)
 - **[chore: fix mergeable integration file](https://github.com/codeigniter4/CodeIgniter4/pull/9396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add more trailing commas in more places](https://github.com/codeigniter4/CodeIgniter4/pull/9395)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[style: enable `get_class_to_class_keyword` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/9394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: update license year once](https://github.com/codeigniter4/translations/pull/472)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
-- **[Implement Nexus Encryption v2](https://github.com/NexusPHP/framework/pull/8)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
