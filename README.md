@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[refactor: Use `strtolower` with `str_contains`/`str_**_with` as replacement for `stripos`](https://github.com/codeigniter4/CodeIgniter4/pull/9414)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix wrong constraint in mergeable.yml](https://github.com/codeigniter4/CodeIgniter4/pull/9413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Create LICENSE](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/1)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 - **[Add write-up on always used methods in the Developing Extensions page](https://github.com/phpstan/phpstan/pull/12404)** on [phpstan/phpstan](https://github.com/phpstan/phpstan) (*1 week ago*)
 - **[chore: add more trailing commas in more places](https://github.com/codeigniter4/CodeIgniter4/pull/9395)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[style: enable `get_class_to_class_keyword` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/9394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
