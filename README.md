@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[refactor: Use `strtolower` with `str_contains`/`str_**_with` as replacement for `stripos`](https://github.com/codeigniter4/CodeIgniter4/pull/9414)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix mergeable integration file](https://github.com/codeigniter4/CodeIgniter4/pull/9396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Create LICENSE](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/2)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 - **[Create LICENSE](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/1)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[Add write-up on always used methods in the Developing Extensions page](https://github.com/phpstan/phpstan/pull/12404)** on [phpstan/phpstan](https://github.com/phpstan/phpstan) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
