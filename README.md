@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.8), *today*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.0), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.0), *2 days ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.1), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: allow &#34;Merge code&#34; as valid PR title for PRLint](https://github.com/codeigniter4/CodeIgniter4/pull/9418)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[refactor: Use `strtolower` with `str_contains`/`str_**_with` as replacement for `stripos`](https://github.com/codeigniter4/CodeIgniter4/pull/9414)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: fix wrong constraint in mergeable.yml](https://github.com/codeigniter4/CodeIgniter4/pull/9413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
