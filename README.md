@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.5.8](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.5.8), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.0), *2 days ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.1), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -35,10 +36,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *7 months ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *8 months ago*) - Development toolkit for CodeIgniter libraries and projects
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.3.0](https://github.com/NexusPHP/tachycardia/releases/tag/v2.3.0), *11 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
+- **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
 - **[Update README.md](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/5)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 - **[chore: fix mergeable integration file](https://github.com/codeigniter4/CodeIgniter4/pull/9396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Create LICENSE](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/2)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
