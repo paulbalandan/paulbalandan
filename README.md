@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: allow &#34;Merge code&#34; as valid PR title for PRLint](https://github.com/codeigniter4/CodeIgniter4/pull/9418)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: Use `strtolower` with `str_contains`/`str_**_with` as replacement for `stripos`](https://github.com/codeigniter4/CodeIgniter4/pull/9414)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: fix wrong constraint in mergeable.yml](https://github.com/codeigniter4/CodeIgniter4/pull/9413)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[fix: `CommentsAnalyzer` - allow other forms of assignment as valid structural elements for phpdocs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8371)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
-- **[Update README.md](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/5)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[chore: fix mergeable integration file](https://github.com/codeigniter4/CodeIgniter4/pull/9396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
