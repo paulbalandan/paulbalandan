@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: add changelog and upgrade for v4.6.1](https://github.com/codeigniter4/CodeIgniter4/pull/9425)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
 - **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
-- **[refactor: Use `strtolower` with `str_contains`/`str_**_with` as replacement for `stripos`](https://github.com/codeigniter4/CodeIgniter4/pull/9414)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
