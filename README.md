@@ -14,23 +14,23 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*today*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/tasks](https://github.com/codeigniter4/tasks)** - Task Scheduler for CodeIgnter 4 (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/tasks](https://github.com/codeigniter4/tasks)** - Task Scheduler for CodeIgnter 4 (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*1 week ago*)
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** - PHP Static Analysis Tool - discover bugs in your code without running it! (*1 week ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.1), *today*) - Prevent merge commits in pull requests.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.0), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.1), *4 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2), *1 day ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.1), *1 day ago*) - Prevent merge commits in pull requests.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.0), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.1), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.3), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.1), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *2 months ago*) - System message translations for CodeIgniter4
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[docs: add changelog and upgrade for v4.6.1](https://github.com/codeigniter4/CodeIgniter4/pull/9425)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: allow &#34;Merge code&#34; as valid PR title for PRLint](https://github.com/codeigniter4/CodeIgniter4/pull/9418)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
-- **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
+- **[docs: add changelog and upgrade for v4.6.1](https://github.com/codeigniter4/CodeIgniter4/pull/9425)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[chore: allow &#34;Merge code&#34; as valid PR title for PRLint](https://github.com/codeigniter4/CodeIgniter4/pull/9418)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
+- **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
