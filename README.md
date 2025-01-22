@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/460)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[docs: add changelog and upgrade for v4.6.1](https://github.com/codeigniter4/CodeIgniter4/pull/9425)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Prep for 4.5.8 release](https://github.com/codeigniter4/CodeIgniter4/pull/9415)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Update codebase](https://github.com/NexusPHP/no-merge-commits/pull/454)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[style: fix coding styles](https://github.com/codeigniter4/translations/pull/475)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
