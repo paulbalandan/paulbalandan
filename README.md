@@ -14,13 +14,13 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*today*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 days ago*)
 - **[codeigniter4/tasks](https://github.com/codeigniter4/tasks)** - Task Scheduler for CodeIgnter 4 (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
-- **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*1 week ago*)
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** - PHP Static Analysis Tool - discover bugs in your code without running it! (*2 weeks ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
 
@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: greet new PR contributors using mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Test for codeigniter PR message](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/7)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
+- **[Test PR for first time contributor](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/6)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
 - **[refactor: fix rector change on RedirectException](https://github.com/codeigniter4/CodeIgniter4/pull/9433)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: update phpstan baseline count of errors](https://github.com/codeigniter4/CodeIgniter4/pull/9432)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/460)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update release process](https://github.com/codeigniter4/CodeIgniter4/pull/9421)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[4.6.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9420)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Prep for 4.6.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9419)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[chore: allow &#34;Merge code&#34; as valid PR title for PRLint](https://github.com/codeigniter4/CodeIgniter4/pull/9418)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[4.6.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9417)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[4.5.8 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9416)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
