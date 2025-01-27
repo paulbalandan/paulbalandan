@@ -20,8 +20,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*2 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*5 days ago*)
 - **[codeigniter4/tasks](https://github.com/codeigniter4/tasks)** - Task Scheduler for CodeIgnter 4 (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** - PHP Static Analysis Tool - discover bugs in your code without running it! (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
