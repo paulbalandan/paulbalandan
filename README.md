@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.2), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.3), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.3), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2), *6 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.1), *6 days ago*) - Prevent merge commits in pull requests.
