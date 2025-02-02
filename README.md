@@ -54,7 +54,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - [@alexmigf](https://github.com/alexmigf)
 - [@Eikonsphere](https://github.com/Eikonsphere)
-- [@henryzhang118](https://github.com/henryzhang118)
+- [@shopify118](https://github.com/shopify118)
 - [@neznaika0](https://github.com/neznaika0)
 - [@natamartinscodedev](https://github.com/natamartinscodedev)
 
