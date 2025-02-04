@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.3.0](https://github.com/codeigniter4/devkit/releases/tag/v1.3.0), *today*) - Development toolkit for CodeIgniter libraries and projects
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.3), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2), *2 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.3), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.1.0](https://github.com/codeigniter4/shield/releases/tag/v1.1.0), *7 months ago*) - Authentication and Authorization for CodeIgniter 4
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.2.3](https://github.com/codeigniter4/devkit/releases/tag/v1.2.3), *8 months ago*) - Development toolkit for CodeIgniter libraries and projects
 
 ### 🔨 My recent Pull Requests
 
