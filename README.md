@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@dev02615](https://github.com/dev02615)
 - [@alexmigf](https://github.com/alexmigf)
 - [@Eikonsphere](https://github.com/Eikonsphere)
 - [@shopify118](https://github.com/shopify118)
 - [@neznaika0](https://github.com/neznaika0)
-- [@natamartinscodedev](https://github.com/natamartinscodedev)
 
 ### 📫 You can reach me here
 
