@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4), *3 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.3.0](https://github.com/codeigniter4/devkit/releases/tag/v1.3.0), *1 week ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.3), *2 weeks ago*) - CodeIgniter extensions and rules for PHPStan
