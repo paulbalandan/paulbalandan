@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*today*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*3 weeks ago*)
@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *today*) - System message translations for CodeIgniter4
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6), *2 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.69.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.1), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *3 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.0), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.1), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.3](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.3), *1 month ago*) - Official Coding Standards for CodeIgniter
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.5.4](https://github.com/codeigniter4/translations/releases/tag/v4.5.4), *3 months ago*) - System message translations for CodeIgniter4
 
 ### 🔨 My recent Pull Requests
 
