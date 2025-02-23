@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 day ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 days ago*)
-- **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 weeks ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*2 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 days ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 days ago*)
+- **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*3 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 weeks ago*)
@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *1 day ago*) - System message translations for CodeIgniter4
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6), *3 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.69.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.1), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *4 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *2 days ago*) - System message translations for CodeIgniter4
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6), *4 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *5 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.3.0](https://github.com/codeigniter4/devkit/releases/tag/v1.3.0), *2 weeks ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.3), *4 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.2.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.2.1), *1 month ago*) - Prevent merge commits in pull requests.
@@ -44,11 +44,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/9)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*3 weeks ago*)
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/8)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*3 weeks ago*)
 - **[chore: fix badges](https://github.com/codeigniter4/translations/pull/480)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 weeks ago*)
-- **[chore: try a universal branch alias](https://github.com/codeigniter4/CodeIgniter4/pull/9435)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[chore: greet new PR contributors using mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[Test for codeigniter PR message](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/7)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*4 weeks ago*)
-- **[Test PR for first time contributor](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/6)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*4 weeks ago*)
-- **[refactor: fix rector change on RedirectException](https://github.com/codeigniter4/CodeIgniter4/pull/9433)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[chore: try a universal branch alias](https://github.com/codeigniter4/CodeIgniter4/pull/9435)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[chore: greet new PR contributors using mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[Test for codeigniter PR message](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/7)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 month ago*)
+- **[Test PR for first time contributor](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/6)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 month ago*)
+- **[refactor: fix rector change on RedirectException](https://github.com/codeigniter4/CodeIgniter4/pull/9433)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
