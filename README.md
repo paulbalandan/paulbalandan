@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*today*)
 - **[refactor: call `getPrivateMethodInvoker()` statically](https://github.com/codeigniter4/CodeIgniter4/pull/9490)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: bump to laminas-escaper v2.16](https://github.com/codeigniter4/CodeIgniter4/pull/9458)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/479)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix badges](https://github.com/codeigniter4/translations/pull/480)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 month ago*)
 - **[chore: try a universal branch alias](https://github.com/codeigniter4/CodeIgniter4/pull/9435)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[chore: greet new PR contributors using mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9434)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[Test for codeigniter PR message](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/7)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
