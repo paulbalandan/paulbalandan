@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.72.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.72.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.72.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.72.0), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8), *1 week ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.4](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.4), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,12 +39,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
-- **[refactor: call `getPrivateMethodInvoker()` statically](https://github.com/codeigniter4/CodeIgniter4/pull/9490)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*3 days ago*)
+- **[refactor: call `getPrivateMethodInvoker()` statically](https://github.com/codeigniter4/CodeIgniter4/pull/9490)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: bump to laminas-escaper v2.16](https://github.com/codeigniter4/CodeIgniter4/pull/9458)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/479)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 weeks ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/479)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 - **[chore: remove draft condition in mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/9)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 month ago*)
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/8)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 month ago*)
