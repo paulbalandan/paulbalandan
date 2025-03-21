@@ -13,24 +13,24 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
-- **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*1 week ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
+- **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 weeks ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 weeks ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 weeks ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 weeks ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 weeks ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8), *1 week ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.4](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.4), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *3 weeks ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *4 weeks ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.3.0](https://github.com/codeigniter4/devkit/releases/tag/v1.3.0), *1 month ago*) - Development toolkit for CodeIgniter libraries and projects
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.3), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*6 days ago*)
-- **[refactor: call `getPrivateMethodInvoker()` statically](https://github.com/codeigniter4/CodeIgniter4/pull/9490)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
+- **[refactor: call `getPrivateMethodInvoker()` statically](https://github.com/codeigniter4/CodeIgniter4/pull/9490)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: bump to laminas-escaper v2.16](https://github.com/codeigniter4/CodeIgniter4/pull/9458)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/479)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 - **[chore: remove draft condition in mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
