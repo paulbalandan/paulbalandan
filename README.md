@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: deprecate redundant `FileHandler` cache methods](https://github.com/codeigniter4/CodeIgniter4/pull/9511)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Create reginald.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/10)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 day ago*)
 - **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/479)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 month ago*)
 - **[chore: remove draft condition in mergeable](https://github.com/codeigniter4/CodeIgniter4/pull/9439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/9)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*2 months ago*)
-- **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/8)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
