@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `empty.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix `function.alreadyNarrowedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9518)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `property.protected` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9517)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `property.unusedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9516)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: add `CITestStreamFilter` to phpstan-analysed list and fix errors](https://github.com/codeigniter4/CodeIgniter4/pull/9515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: deprecate redundant `FileHandler` cache methods](https://github.com/codeigniter4/CodeIgniter4/pull/9511)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Create reginald.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/10)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*3 days ago*)
 - **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[refactor: fix tests after smarter `getPrivateMethodInvoker()` return](https://github.com/codeigniter4/CodeIgniter4/pull/9491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[Add ReflectionHelperGetPrivateMethodInvokerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/35)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
