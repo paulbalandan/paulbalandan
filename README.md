@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump to `ubuntu-24.04` as latest ubuntu image](https://github.com/codeigniter4/CodeIgniter4/pull/9521)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: import FQCNs](https://github.com/codeigniter4/CodeIgniter4/pull/9520)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `empty.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9519)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `function.alreadyNarrowedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9518)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `property.protected` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9517)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `return.unusedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `variable.undefined` (and other) errors](https://github.com/codeigniter4/CodeIgniter4/pull/9513)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: deprecate redundant `FileHandler` cache methods](https://github.com/codeigniter4/CodeIgniter4/pull/9511)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Create reginald.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/10)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*4 days ago*)
-- **[refactor: relax objects allowed in `model()`](https://github.com/codeigniter4/CodeIgniter4/pull/9493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
