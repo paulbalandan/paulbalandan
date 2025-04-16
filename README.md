@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11), *3 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.4](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.4), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.2), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.0](https://github.com/codeigniter4/translations/releases/tag/v4.6.0), *1 month ago*) - System message translations for CodeIgniter4
