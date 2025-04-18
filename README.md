@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `@readonly` property errors](https://github.com/codeigniter4/CodeIgniter4/pull/9529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `URI` and `SiteURI`](https://github.com/codeigniter4/CodeIgniter4/pull/9525)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: fix `isset.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9522)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[chore: bump to `ubuntu-24.04` as latest ubuntu image](https://github.com/codeigniter4/CodeIgniter4/pull/9521)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `property.protected` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9517)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[refactor: fix `property.unusedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9516)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[refactor: add `CITestStreamFilter` to phpstan-analysed list and fix errors](https://github.com/codeigniter4/CodeIgniter4/pull/9515)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[refactor: fix `return.unusedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9514)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
