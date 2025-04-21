@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: add tests showing `Session::markAs(Flash|Temp)data()` invalidates all keys when not all in session](https://github.com/codeigniter4/CodeIgniter4/pull/9537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `Session::markAsTempdata()` adding wrong TTL](https://github.com/codeigniter4/CodeIgniter4/pull/9536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `Session` and `SessionInterface` code](https://github.com/codeigniter4/CodeIgniter4/pull/9535)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `codeigniter.modelArgumentType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9533)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `@readonly` property errors](https://github.com/codeigniter4/CodeIgniter4/pull/9529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: fix phpstan errors in `URI` and `SiteURI`](https://github.com/codeigniter4/CodeIgniter4/pull/9525)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix `isset.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9522)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: bump to `ubuntu-24.04` as latest ubuntu image](https://github.com/codeigniter4/CodeIgniter4/pull/9521)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
