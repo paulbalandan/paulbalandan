@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Prep for 4.6.1 release](https://github.com/codeigniter4/CodeIgniter4/pull/9545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: fix `missingType.return` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9542)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Update mergeable.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/11)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 - **[test: add tests showing `Session::markAs(Flash|Temp)data()` invalidates all keys when not all in session](https://github.com/codeigniter4/CodeIgniter4/pull/9537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: fix `codeigniter.unknownServiceMethod` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9532)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[test: fix `generator.valueType` error](https://github.com/codeigniter4/CodeIgniter4/pull/9531)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: fix `missingType.return` errors in system files](https://github.com/codeigniter4/CodeIgniter4/pull/9530)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: fix `@readonly` property errors](https://github.com/codeigniter4/CodeIgniter4/pull/9529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
