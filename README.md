@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump to laminas-escaper v2.17](https://github.com/codeigniter4/CodeIgniter4/pull/9552)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: use `0` as percent when file is missing for `array_sum()`](https://github.com/codeigniter4/translations/pull/490)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
 - **[docs: add changelog and upgrade for v4.6.2](https://github.com/codeigniter4/CodeIgniter4/pull/9547)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[4.6.1 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9546)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: add tests showing `Session::markAs(Flash|Temp)data()` invalidates all keys when not all in session](https://github.com/codeigniter4/CodeIgniter4/pull/9537)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[fix: `Session::markAsTempdata()` adding wrong TTL](https://github.com/codeigniter4/CodeIgniter4/pull/9536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: fix `Session` and `SessionInterface` code](https://github.com/codeigniter4/CodeIgniter4/pull/9535)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: fix `codeigniter.modelArgumentType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/9533)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
