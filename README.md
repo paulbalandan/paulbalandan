@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: ucfirst all cookie samesite values](https://github.com/codeigniter4/CodeIgniter4/pull/9564)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: update `CookieInterface::EXPIRES_FORMAT` to use date format per RFC 7231](https://github.com/codeigniter4/CodeIgniter4/pull/9563)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/551)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
 - **[refactor: add `system/util_bootstrap.php` to curb overreliance to `system/Test/bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9562)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: bump to laminas-escaper v2.17](https://github.com/codeigniter4/CodeIgniter4/pull/9552)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: use `0` as percent when file is missing for `array_sum()`](https://github.com/codeigniter4/translations/pull/490)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 weeks ago*)
 - **[docs: add changelog and upgrade for v4.6.2](https://github.com/codeigniter4/CodeIgniter4/pull/9547)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[4.6.1 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9546)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
