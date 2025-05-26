@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: use native phpdocs wherever possible](https://github.com/codeigniter4/CodeIgniter4/pull/9571)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: more accurate array PHPDocs of Cookie](https://github.com/codeigniter4/CodeIgniter4/pull/9569)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: update places to use `system/util_bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: fix `PublisherInputTest::testAddUri(s)` failing due to rate limiting](https://github.com/codeigniter4/CodeIgniter4/pull/9567)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[docs: `CookieStore::get()` does not give an array of Cookie objects](https://github.com/codeigniter4/CodeIgniter4/pull/9566)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
