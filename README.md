@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix non-booleans in if conditions](https://github.com/codeigniter4/CodeIgniter4/pull/9578)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: update places to use `system/util_bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: fix `PublisherInputTest::testAddUri(s)` failing due to rate limiting](https://github.com/codeigniter4/CodeIgniter4/pull/9567)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: `CookieStore::get()` does not give an array of Cookie objects](https://github.com/codeigniter4/CodeIgniter4/pull/9566)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: ensure all test methods have native return types](https://github.com/codeigniter4/CodeIgniter4/pull/9565)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: ucfirst all cookie samesite values](https://github.com/codeigniter4/CodeIgniter4/pull/9564)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
