@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *6 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *1 week ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.5), *3 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix non-booleans in if conditions](https://github.com/codeigniter4/CodeIgniter4/pull/9578)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: use native phpdocs wherever possible](https://github.com/codeigniter4/CodeIgniter4/pull/9571)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: fix non-booleans in if conditions](https://github.com/codeigniter4/CodeIgniter4/pull/9578)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: use native phpdocs wherever possible](https://github.com/codeigniter4/CodeIgniter4/pull/9571)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: more accurate array PHPDocs of Cookie](https://github.com/codeigniter4/CodeIgniter4/pull/9569)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: update places to use `system/util_bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9568)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
