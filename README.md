@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix psalm error on 4.7](https://github.com/codeigniter4/CodeIgniter4/pull/9590)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix non-booleans in if conditions](https://github.com/codeigniter4/CodeIgniter4/pull/9578)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: use native phpdocs wherever possible](https://github.com/codeigniter4/CodeIgniter4/pull/9571)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: more accurate array PHPDocs of Cookie](https://github.com/codeigniter4/CodeIgniter4/pull/9569)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
