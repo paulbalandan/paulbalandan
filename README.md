@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 weeks ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *2 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *3 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.5), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *1 month ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
