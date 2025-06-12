@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@waterlines](https://github.com/waterlines)
 - [@jinine](https://github.com/jinine)
 - [@tardisblink](https://github.com/tardisblink)
 - [@dev02615](https://github.com/dev02615)
 - [@alexmigf](https://github.com/alexmigf)
-- [@Eikonsphere](https://github.com/Eikonsphere)
 
 ### 📫 You can reach me here
 
