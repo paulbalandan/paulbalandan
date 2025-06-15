@@ -47,8 +47,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[refactor: fix `notIdentical.alwaysTrue` error](https://github.com/codeigniter4/CodeIgniter4/pull/9579)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
