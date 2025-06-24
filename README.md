@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add CacheFactoryGetHandlerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/37)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 days ago*)
 - **[refactor: fix phpstan errors in mock classes](https://github.com/codeigniter4/CodeIgniter4/pull/9594)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[refactor: precise PHPDocs for Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/9593)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[refactor: partial fix errors on Email](https://github.com/codeigniter4/CodeIgniter4/pull/9582)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[refactor: fix various phpstan errors in Log component](https://github.com/codeigniter4/CodeIgniter4/pull/9581)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[refactor: fix phpstan errors in `Events`](https://github.com/codeigniter4/CodeIgniter4/pull/9580)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
