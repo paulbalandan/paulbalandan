@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix various phpstan errors in Cache](https://github.com/codeigniter4/CodeIgniter4/pull/9610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: update phpstan baseline](https://github.com/codeigniter4/CodeIgniter4/pull/9609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix phpstan errors in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[chore: fix psalm error on 4.7](https://github.com/codeigniter4/CodeIgniter4/pull/9590)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[refactor: fix and micro-optimize code in `Format`](https://github.com/codeigniter4/CodeIgniter4/pull/9583)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
