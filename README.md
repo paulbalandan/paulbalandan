@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 month ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *1 month ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.5), *1 month ago*) - Official Coding Standards for CodeIgniter
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *1 month ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.5](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.5), *2 months ago*) - Official Coding Standards for CodeIgniter
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *2 months ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.25.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.25.2), *4 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *4 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** ([v1.3.0](https://github.com/codeigniter4/devkit/releases/tag/v1.3.0), *4 months ago*) - Development toolkit for CodeIgniter libraries and projects
@@ -39,13 +39,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix various phpstan errors in Cache](https://github.com/codeigniter4/CodeIgniter4/pull/9610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: update phpstan baseline](https://github.com/codeigniter4/CodeIgniter4/pull/9609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: fix various phpstan errors in Cache](https://github.com/codeigniter4/CodeIgniter4/pull/9610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[chore: update phpstan baseline](https://github.com/codeigniter4/CodeIgniter4/pull/9609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add CacheFactoryGetHandlerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/37)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
-- **[refactor: fix phpstan errors in mock classes](https://github.com/codeigniter4/CodeIgniter4/pull/9594)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[refactor: precise PHPDocs for Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/9593)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[refactor: fix phpstan errors in mock classes](https://github.com/codeigniter4/CodeIgniter4/pull/9594)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[refactor: precise PHPDocs for Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/9593)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[refactor: fix phpstan errors in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
 - **[chore: fix psalm error on 4.7](https://github.com/codeigniter4/CodeIgniter4/pull/9590)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: add assert on `LiveModelTestCase::createModel()`](https://github.com/codeigniter4/CodeIgniter4/pull/9584)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
