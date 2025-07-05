@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[style: fix code styles from php-cs-fixer v3.76](https://github.com/codeigniter4/CodeIgniter4/pull/9626)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/7)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*2 days ago*)
 - **[Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/6)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*2 days ago*)
 - **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Add CacheFactoryGetHandlerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/37)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*1 week ago*)
 - **[refactor: fix phpstan errors in mock classes](https://github.com/codeigniter4/CodeIgniter4/pull/9594)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: precise PHPDocs for Autoloader](https://github.com/codeigniter4/CodeIgniter4/pull/9593)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[refactor: fix phpstan errors in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
