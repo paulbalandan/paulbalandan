@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: `BracesPositionFixer` - do not throw error when variable is terminated by PHP close tag](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8804)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[Rename all uses of `PhpUnitTestCaseIndicator` to `PhpUnitTestCaseAnalyzer`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/pull/1047)** on [kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) (*2 days ago*)
 - **[style: fix code styles from php-cs-fixer v3.76](https://github.com/codeigniter4/CodeIgniter4/pull/9626)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/7)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update phpstan baseline](https://github.com/codeigniter4/CodeIgniter4/pull/9609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add CacheFactoryGetHandlerReturnTypeExtension](https://github.com/CodeIgniter/phpstan-codeigniter/pull/37)** on [CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter) (*2 weeks ago*)
-- **[refactor: fix phpstan errors in mock classes](https://github.com/codeigniter4/CodeIgniter4/pull/9594)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
