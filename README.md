@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: fix whitespace around code examples and reference sections in rules&#39; docs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8810)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[fix: `PhpUnitInternalClassFixer` - skip adding `@internal` on instantiation of anonymous classes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8807)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[fix: `BracesPositionFixer` - do not throw error when variable is terminated by PHP close tag](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8804)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[Rename all uses of `PhpUnitTestCaseIndicator` to `PhpUnitTestCaseAnalyzer`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/pull/1047)** on [kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix various phpstan errors in Cache](https://github.com/codeigniter4/CodeIgniter4/pull/9610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: update phpstan baseline](https://github.com/codeigniter4/CodeIgniter4/pull/9609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: fix rector crash](https://github.com/codeigniter4/CodeIgniter4/pull/9608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
