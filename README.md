@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.82.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.1), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.82.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.30.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.30.0), *1 day ago*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.6](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.6), *3 days ago*) - Official Coding Standards for CodeIgniter
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17), *1 month ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
