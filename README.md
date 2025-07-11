@@ -13,14 +13,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** - A set of custom fixers for PHP CS Fixer (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
 - **[NexusPHP/reginald-bot](https://github.com/NexusPHP/reginald-bot)** - Reginald the Butler (*2 months ago*)
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fix data provider method order by cs-fix](https://github.com/codeigniter4/shield/pull/1272)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[feat: Introduce `NoUselessPrintfFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8820)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[docs: fix whitespace around code examples and reference sections in rules&#39; docs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8810)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
 - **[fix: `PhpUnitInternalClassFixer` - skip adding `@internal` on instantiation of anonymous classes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8807)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/7)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*1 week ago*)
 - **[Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/6)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*1 week ago*)
 - **[refactor: `Console::showHeader()` call `date()` only once](https://github.com/codeigniter4/CodeIgniter4/pull/9616)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: fix various phpstan errors in Cache](https://github.com/codeigniter4/CodeIgniter4/pull/9610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
