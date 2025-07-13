@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump to psalm v6.12](https://github.com/codeigniter4/CodeIgniter4/pull/9633)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: refactor `NothingPersonalValidatorTest`](https://github.com/codeigniter4/shield/pull/1274)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[test: fix tests&#39; assertions](https://github.com/codeigniter4/shield/pull/1273)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix data provider method order by cs-fix](https://github.com/codeigniter4/shield/pull/1272)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: `BracesPositionFixer` - do not throw error when variable is terminated by PHP close tag](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8804)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
 - **[Rename all uses of `PhpUnitTestCaseIndicator` to `PhpUnitTestCaseAnalyzer`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/pull/1047)** on [kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) (*1 week ago*)
 - **[style: fix code styles from php-cs-fixer v3.76](https://github.com/codeigniter4/CodeIgniter4/pull/9626)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/NexusPHP/cs-config/pull/7)** on [NexusPHP/cs-config](https://github.com/NexusPHP/cs-config) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
