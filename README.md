@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.30.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.30.2), *today*) - A set of custom fixers for PHP CS Fixer
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.83.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.83.0), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *today*) - Authentication and Authorization for CodeIgniter 4
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.30.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.30.1), *2 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.1), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.6](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.6), *1 week ago*) - Official Coding Standards for CodeIgniter
