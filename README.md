@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.1), *today*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *3 days ago*) - Official Coding Standards for CodeIgniter
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18), *4 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.2), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
