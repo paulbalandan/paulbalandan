@@ -14,10 +14,10 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*5 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*6 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** - A set of custom fixers for PHP CS Fixer (*2 weeks ago*)
@@ -26,12 +26,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.0), *1 day ago*) - A set of custom fixers for PHP CS Fixer
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *2 days ago*) - Official Coding Standards for CodeIgniter
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18), *3 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.2), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *6 days ago*) - Authentication and Authorization for CodeIgniter 4
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.0), *2 days ago*) - A set of custom fixers for PHP CS Fixer
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *3 days ago*) - Official Coding Standards for CodeIgniter
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18), *4 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.2), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: `make:test` requires 3 inputs after entering an empty class name](https://github.com/codeigniter4/CodeIgniter4/pull/9637)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[fix: ensure `make:test` generates test files ending in `Test`](https://github.com/codeigniter4/CodeIgniter4/pull/9636)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[fix: ensure `make:test` works on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/9635)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[fix: `make:test` requires 3 inputs after entering an empty class name](https://github.com/codeigniter4/CodeIgniter4/pull/9637)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[fix: ensure `make:test` generates test files ending in `Test`](https://github.com/codeigniter4/CodeIgniter4/pull/9636)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[fix: ensure `make:test` works on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/9635)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: bump to psalm v6.12](https://github.com/codeigniter4/CodeIgniter4/pull/9633)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: refactor `NothingPersonalValidatorTest`](https://github.com/codeigniter4/shield/pull/1274)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[test: fix tests&#39; assertions](https://github.com/codeigniter4/shield/pull/1273)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[chore: fix data provider method order by cs-fix](https://github.com/codeigniter4/shield/pull/1272)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[feat: Introduce `NoUselessPrintfFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8820)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[docs: fix whitespace around code examples and reference sections in rules&#39; docs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8810)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[fix: `PhpUnitInternalClassFixer` - skip adding `@internal` on instantiation of anonymous classes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8807)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
+- **[docs: fix whitespace around code examples and reference sections in rules&#39; docs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8810)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
+- **[fix: `PhpUnitInternalClassFixer` - skip adding `@internal` on instantiation of anonymous classes](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8807)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
