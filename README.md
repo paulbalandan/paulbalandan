@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.0), *2 days ago*) - A set of custom fixers for PHP CS Fixer
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.1), *today*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *3 days ago*) - Official Coding Standards for CodeIgniter
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18), *4 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.2), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
