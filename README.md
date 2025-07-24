@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*6 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
@@ -22,10 +23,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** - A set of custom fixers for PHP CS Fixer (*2 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 weeks ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *today*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19), *3 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.1), *3 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *6 days ago*) - Official Coding Standards for CodeIgniter
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *2 months ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.1](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.1), *5 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
