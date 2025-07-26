@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.2), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *2 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19), *5 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.31.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.31.1), *5 days ago*) - A set of custom fixers for PHP CS Fixer
@@ -35,10 +36,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *2 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.1](https://github.com/codeigniter4/translations/releases/tag/v4.6.1), *2 months ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.1](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.1), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: add changelog and upgrade for v4.6.3](https://github.com/codeigniter4/CodeIgniter4/pull/9643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[4.6.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.6.2 release](https://github.com/codeigniter4/CodeIgniter4/pull/9641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `make:test` requires 3 inputs after entering an empty class name](https://github.com/codeigniter4/CodeIgniter4/pull/9637)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: ensure `make:test` generates test files ending in `Test`](https://github.com/codeigniter4/CodeIgniter4/pull/9636)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: refactor `NothingPersonalValidatorTest`](https://github.com/codeigniter4/shield/pull/1274)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
 - **[test: fix tests&#39; assertions](https://github.com/codeigniter4/shield/pull/1273)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
 - **[chore: fix data provider method order by cs-fix](https://github.com/codeigniter4/shield/pull/1272)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 weeks ago*)
-- **[feat: Introduce `NoUselessPrintfFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8820)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
-- **[docs: fix whitespace around code examples and reference sections in rules&#39; docs](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8810)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
