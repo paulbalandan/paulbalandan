@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.20](https://github.com/phpstan/phpstan/releases/tag/2.1.20), *2 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.2](https://github.com/codeigniter4/translations/releases/tag/v4.6.2), *2 days ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.2), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *4 days ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
