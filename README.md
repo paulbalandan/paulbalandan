@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.85.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.0), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21), *1 day ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.2](https://github.com/codeigniter4/translations/releases/tag/v4.6.2), *3 days ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.2), *3 days ago*) - Open Source PHP Framework (originally from EllisLab)
