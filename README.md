@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add changelog and upgrade for v4.6.4](https://github.com/codeigniter4/CodeIgniter4/pull/9655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: add changelog and upgrade for v4.6.3](https://github.com/codeigniter4/CodeIgniter4/pull/9643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.6.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for 4.6.2 release](https://github.com/codeigniter4/CodeIgniter4/pull/9641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: `make:test` requires 3 inputs after entering an empty class name](https://github.com/codeigniter4/CodeIgniter4/pull/9637)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: ensure `make:test` generates test files ending in `Test`](https://github.com/codeigniter4/CodeIgniter4/pull/9636)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
