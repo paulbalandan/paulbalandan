@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*6 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[4.6.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Prep for 4.6.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/9653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add changelog and upgrade for v4.6.3](https://github.com/codeigniter4/CodeIgniter4/pull/9643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.6.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for 4.6.2 release](https://github.com/codeigniter4/CodeIgniter4/pull/9641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: ensure `make:test` works on Windows](https://github.com/codeigniter4/CodeIgniter4/pull/9635)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[chore: bump to psalm v6.12](https://github.com/codeigniter4/CodeIgniter4/pull/9633)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[test: refactor `NothingPersonalValidatorTest`](https://github.com/codeigniter4/shield/pull/1274)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 weeks ago*)
-- **[test: fix tests&#39; assertions](https://github.com/codeigniter4/shield/pull/1273)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 weeks ago*)
-- **[chore: fix data provider method order by cs-fix](https://github.com/codeigniter4/shield/pull/1272)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
