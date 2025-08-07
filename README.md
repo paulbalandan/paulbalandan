@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*4 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*5 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
@@ -26,12 +26,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22), *2 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *4 days ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.3), *4 days ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.32.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.32.0), *5 days ago*) - A set of custom fixers for PHP CS Fixer
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22), *3 days ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *5 days ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.3), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.32.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.32.0), *6 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *1 week ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *2 weeks ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *2 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.2](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.2), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[docs: add changelog and upgrade for v4.6.4](https://github.com/codeigniter4/CodeIgniter4/pull/9655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[4.6.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[Prep for 4.6.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/9653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[docs: add changelog and upgrade for v4.6.4](https://github.com/codeigniter4/CodeIgniter4/pull/9655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[4.6.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[Prep for 4.6.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/9653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[docs: add changelog and upgrade for v4.6.3](https://github.com/codeigniter4/CodeIgniter4/pull/9643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.6.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
