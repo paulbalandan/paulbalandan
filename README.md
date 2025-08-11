@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: add changelog and upgrade for v4.6.4](https://github.com/codeigniter4/CodeIgniter4/pull/9655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.6.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for 4.6.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/9653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[docs: add changelog and upgrade for v4.6.3](https://github.com/codeigniter4/CodeIgniter4/pull/9643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
