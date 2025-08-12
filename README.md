@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9677)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[docs: add changelog and upgrade for v4.6.4](https://github.com/codeigniter4/CodeIgniter4/pull/9655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
