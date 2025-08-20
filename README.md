@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 weeks ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.86.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.86.0), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.86.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.86.0), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22), *2 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.3), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
