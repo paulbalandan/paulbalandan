@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*4 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 weeks ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 weeks ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 month ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 month ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.3), *6 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.3), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.86.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.86.0), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22), *3 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *4 weeks ago*) - System message translations for CodeIgniter4
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.3), *4 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22), *4 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *1 month ago*) - System message translations for CodeIgniter4
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.32.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.32.0), *1 month ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.7](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.7), *1 month ago*) - Official Coding Standards for CodeIgniter
@@ -40,15 +40,15 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9677)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
+- **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
-- **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
+- **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
