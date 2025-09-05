@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: add the `SensitiveParameter` attribute to methods dealing with sensitive info](https://github.com/codeigniter4/CodeIgniter4/pull/9710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9677)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: change `$request` to `CLIRequest|IncomingRequest` in `ResponseTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[refactor: do not use future-deprecated `DATE_RFC7231` constant](https://github.com/codeigniter4/CodeIgniter4/pull/9657)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[refactor: fix phpdoc and improve code in `Language`](https://github.com/codeigniter4/CodeIgniter4/pull/9656)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
