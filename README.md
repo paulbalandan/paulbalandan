@@ -13,11 +13,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*4 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*5 days ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*5 days ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*5 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*6 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 month ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28), *today*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28), *1 day ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.33.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.33.0), *1 week ago*) - A set of custom fixers for PHP CS Fixer
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.87.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.3), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
