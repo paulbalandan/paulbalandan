@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: fix example in `ResponseTrait::fail()`](https://github.com/codeigniter4/CodeIgniter4/pull/9742)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan issues on magic properties](https://github.com/codeigniter4/CodeIgniter4/pull/9728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: make `ResourceContents` extend `BaseMetadata`](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1443)** on [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) (*3 weeks ago*)
 - **[refactor: add the `SensitiveParameter` attribute to methods dealing with sensitive info](https://github.com/codeigniter4/CodeIgniter4/pull/9710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[refactor: remove redundant property declarations in `BaseController`](https://github.com/codeigniter4/CodeIgniter4/pull/9659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 
 ### 👯 Check out some of my recent followers
 
