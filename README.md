@@ -14,9 +14,9 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*1 week ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 weeks ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*2 weeks ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 weeks ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31), *2 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.35.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.35.1), *3 weeks ago*) - A set of custom fixers for PHP CS Fixer
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.35.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.35.1), *4 weeks ago*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.8), *4 weeks ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.4), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.3](https://github.com/codeigniter4/translations/releases/tag/v4.6.3), *2 months ago*) - System message translations for CodeIgniter4
@@ -40,7 +40,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 🔨 My recent Pull Requests
 
 - **[docs: fix example in `ResponseTrait::fail()`](https://github.com/codeigniter4/CodeIgniter4/pull/9742)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[refactor: fix phpstan issues on magic properties](https://github.com/codeigniter4/CodeIgniter4/pull/9728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 weeks ago*)
+- **[refactor: fix phpstan issues on magic properties](https://github.com/codeigniter4/CodeIgniter4/pull/9728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[fix: make `ResourceContents` extend `BaseMetadata`](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1443)** on [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) (*1 month ago*)
 - **[refactor: add the `SensitiveParameter` attribute to methods dealing with sensitive info](https://github.com/codeigniter4/CodeIgniter4/pull/9710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9677)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
