@@ -14,8 +14,8 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*3 weeks ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 weeks ago*)
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*3 weeks ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*4 weeks ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for Model Context Protocol (MCP) client and server applications. (*4 weeks ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.89.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.2), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31), *4 weeks ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.89.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.2), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[phpstan/phpstan](https://github.com/phpstan/phpstan)** ([2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31), *1 month ago*) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.35.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.35.1), *1 month ago*) - A set of custom fixers for PHP CS Fixer
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.8](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.8), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.26.4](https://github.com/NexusPHP/cs-config/releases/tag/v3.26.4), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -44,10 +44,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: make `ResourceContents` extend `BaseMetadata`](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1443)** on [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) (*2 months ago*)
 - **[refactor: add the `SensitiveParameter` attribute to methods dealing with sensitive info](https://github.com/codeigniter4/CodeIgniter4/pull/9710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
 - **[feat: uniform rendering of stack trace from failed DB operations](https://github.com/codeigniter4/CodeIgniter4/pull/9677)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
-- **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 months ago*)
+- **[test: remove useless `DotEnvTest` test](https://github.com/codeigniter4/CodeIgniter4/pull/9673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
+- **[refactor: update `CheckPhpIni` code](https://github.com/codeigniter4/CodeIgniter4/pull/9672)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
+- **[fix: unset `encryption.key` variables in `RunInSeparateProcess` tests](https://github.com/codeigniter4/CodeIgniter4/pull/9670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
+- **[fix: `DatabaseLive` tests failing locally](https://github.com/codeigniter4/CodeIgniter4/pull/9669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 - **[style: use multiline array shape](https://github.com/codeigniter4/CodeIgniter4/pull/9662)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 months ago*)
 
 ### 👯 Check out some of my recent followers
