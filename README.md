@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@emleonstz](https://github.com/emleonstz)
 - [@0RuiAlvel0](https://github.com/0RuiAlvel0)
 - [@taco-greco](https://github.com/taco-greco)
 - [@waterlines](https://github.com/waterlines)
 - [@jinine](https://github.com/jinine)
-- [@tardisblink](https://github.com/tardisblink)
 
 ### 📫 You can reach me here
 
