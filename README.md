@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: compare `$db-&gt;connID` to `false`](https://github.com/codeigniter4/CodeIgniter4/pull/9891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[chore: rerun `phpstan:baseline` for accurate errors count](https://github.com/codeigniter4/CodeIgniter4/pull/9890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[fix: `SUPPORTPATH` may be undefined in some contexts](https://github.com/codeigniter4/CodeIgniter4/pull/9882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: compare `$db-&gt;connID` to `false`](https://github.com/codeigniter4/CodeIgniter4/pull/9891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[chore: rerun `phpstan:baseline` for accurate errors count](https://github.com/codeigniter4/CodeIgniter4/pull/9890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[fix: `SUPPORTPATH` may be undefined in some contexts](https://github.com/codeigniter4/CodeIgniter4/pull/9882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/716)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 - **[refactor: Superglobals - remove property promotion and fix PHPDocs](https://github.com/codeigniter4/CodeIgniter4/pull/9871)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[cs: import `array_last` function](https://github.com/phpstan/phpstan-src/pull/4689)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
