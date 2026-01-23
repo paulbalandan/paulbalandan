@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[test: add sanity checks to some Redis tests](https://github.com/codeigniter4/CodeIgniter4/pull/9894)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[refactor: compare `$db-&gt;connID` to `false`](https://github.com/codeigniter4/CodeIgniter4/pull/9891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: Superglobals - remove property promotion and fix PHPDocs](https://github.com/codeigniter4/CodeIgniter4/pull/9871)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[cs: import `array_last` function](https://github.com/phpstan/phpstan-src/pull/4689)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 weeks ago*)
 - **[style: implement `CodeIgniterRuleCustomisationPolicy`](https://github.com/codeigniter4/CodeIgniter4/pull/9859)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[docs: add changelog and upgrade for v4.6.5](https://github.com/codeigniter4/CodeIgniter4/pull/9838)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
