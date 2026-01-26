@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 day ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 day ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 month ago*)
@@ -26,12 +26,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.4](https://github.com/codeigniter4/translations/releases/tag/v4.6.4), *1 month ago*) - System message translations for CodeIgniter4
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.8.9](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.8.9), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.27.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.27.0), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.4), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.35.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.35.1), *3 months ago*) - A set of custom fixers for PHP CS Fixer
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.35.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.35.1), *4 months ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *6 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.2.0](https://github.com/codeigniter4/shield/releases/tag/v1.2.0), *6 months ago*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *6 months ago*) - CodeIgniter extensions and rules for PHPStan
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: rename `PhpdocTypesNoDuplicatesFixer` to `PhpdocNoDuplicateTypesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9381)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[refactor: Use native return types instead of using `#[ReturnTypeWillChange]`](https://github.com/codeigniter4/CodeIgniter4/pull/9900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
-- **[test: add sanity checks to some Redis tests](https://github.com/codeigniter4/CodeIgniter4/pull/9894)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: rename `PhpdocTypesNoDuplicatesFixer` to `PhpdocNoDuplicateTypesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9381)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*2 days ago*)
+- **[refactor: Use native return types instead of using `#[ReturnTypeWillChange]`](https://github.com/codeigniter4/CodeIgniter4/pull/9900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*3 days ago*)
+- **[test: add sanity checks to some Redis tests](https://github.com/codeigniter4/CodeIgniter4/pull/9894)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: compare `$db-&gt;connID` to `false`](https://github.com/codeigniter4/CodeIgniter4/pull/9891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: rerun `phpstan:baseline` for accurate errors count](https://github.com/codeigniter4/CodeIgniter4/pull/9890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: `SUPPORTPATH` may be undefined in some contexts](https://github.com/codeigniter4/CodeIgniter4/pull/9882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: `SUPPORTPATH` may be undefined in some contexts](https://github.com/codeigniter4/CodeIgniter4/pull/9882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/716)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 weeks ago*)
-- **[refactor: Superglobals - remove property promotion and fix PHPDocs](https://github.com/codeigniter4/CodeIgniter4/pull/9871)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
+- **[refactor: Superglobals - remove property promotion and fix PHPDocs](https://github.com/codeigniter4/CodeIgniter4/pull/9871)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
