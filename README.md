@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: set phpstan-codeigniter to stable `^1.5` version](https://github.com/codeigniter4/CodeIgniter4/pull/9914)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: update `RELEASE.md` for ignored paths in &#34;all changes&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/9913)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: Move older changelogs to `changelogs/`](https://github.com/codeigniter4/CodeIgniter4/pull/9912)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Prep for 4.6.5 release](https://github.com/codeigniter4/CodeIgniter4/pull/9911)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add support for CSP3 `report-to` directive](https://github.com/codeigniter4/CodeIgniter4/pull/9910)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add support for more CSP3 directives](https://github.com/codeigniter4/CodeIgniter4/pull/9909)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: enclose hash-based CSP directive values in single quotes](https://github.com/codeigniter4/CodeIgniter4/pull/9908)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: ensure CSP nonces are Base64 encoded](https://github.com/codeigniter4/CodeIgniter4/pull/9907)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: Add support for CSP3 keyword-sources](https://github.com/codeigniter4/CodeIgniter4/pull/9906)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: deprecate `CodeIgniter\HTTP\ContentSecurityPolicy::$nonces` since never used](https://github.com/codeigniter4/CodeIgniter4/pull/9905)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: cleanup `ContentSecurityPolicy`](https://github.com/codeigniter4/CodeIgniter4/pull/9904)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/732)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
-- **[refactor: rename `PhpdocTypesNoDuplicatesFixer` to `PhpdocNoDuplicateTypesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9381)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[refactor: Use native return types instead of using `#[ReturnTypeWillChange]`](https://github.com/codeigniter4/CodeIgniter4/pull/9900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
