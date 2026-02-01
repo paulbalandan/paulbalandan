@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.6.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.6.5), *today*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.0), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.0), *1 day ago*) - A set of custom fixers for PHP CS Fixer
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.93.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.1), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.4](https://github.com/codeigniter4/translations/releases/tag/v4.6.4), *1 month ago*) - System message translations for CodeIgniter4
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: add changelog and upgrade for v4.7.1](https://github.com/codeigniter4/CodeIgniter4/pull/9920)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[4.7.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.7.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9918)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: move v4.6 changelog and fix references](https://github.com/codeigniter4/CodeIgniter4/pull/9917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.7.0 Merge code](https://github.com/codeigniter4/CodeIgniter4/pull/9916)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update `RELEASE.md` for ignored paths in &#34;all changes&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/9913)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: Move older changelogs to `changelogs/`](https://github.com/codeigniter4/CodeIgniter4/pull/9912)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.6.5 release](https://github.com/codeigniter4/CodeIgniter4/pull/9911)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: add support for CSP3 `report-to` directive](https://github.com/codeigniter4/CodeIgniter4/pull/9910)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: add support for more CSP3 directives](https://github.com/codeigniter4/CodeIgniter4/pull/9909)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 
 ### 👯 Check out some of my recent followers
 
