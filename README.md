@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: enclose hash-based CSP directive values in single quotes](https://github.com/codeigniter4/CodeIgniter4/pull/9908)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: ensure CSP nonces are Base64 encoded](https://github.com/codeigniter4/CodeIgniter4/pull/9907)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: Add support for CSP3 keyword-sources](https://github.com/codeigniter4/CodeIgniter4/pull/9906)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: deprecate `CodeIgniter\HTTP\ContentSecurityPolicy::$nonces` since never used](https://github.com/codeigniter4/CodeIgniter4/pull/9905)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: Use native return types instead of using `#[ReturnTypeWillChange]`](https://github.com/codeigniter4/CodeIgniter4/pull/9900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[test: add sanity checks to some Redis tests](https://github.com/codeigniter4/CodeIgniter4/pull/9894)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
