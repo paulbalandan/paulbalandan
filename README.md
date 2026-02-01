@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: add support for CSP3 `report-to` directive](https://github.com/codeigniter4/CodeIgniter4/pull/9910)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add support for more CSP3 directives](https://github.com/codeigniter4/CodeIgniter4/pull/9909)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: enclose hash-based CSP directive values in single quotes](https://github.com/codeigniter4/CodeIgniter4/pull/9908)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: ensure CSP nonces are Base64 encoded](https://github.com/codeigniter4/CodeIgniter4/pull/9907)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/732)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
 - **[refactor: rename `PhpdocTypesNoDuplicatesFixer` to `PhpdocNoDuplicateTypesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9381)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
 - **[refactor: Use native return types instead of using `#[ReturnTypeWillChange]`](https://github.com/codeigniter4/CodeIgniter4/pull/9900)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
