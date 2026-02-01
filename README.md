@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: ensure CSP nonces are Base64 encoded](https://github.com/codeigniter4/CodeIgniter4/pull/9907)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: Add support for CSP3 keyword-sources](https://github.com/codeigniter4/CodeIgniter4/pull/9906)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: deprecate `CodeIgniter\HTTP\ContentSecurityPolicy::$nonces` since never used](https://github.com/codeigniter4/CodeIgniter4/pull/9905)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: cleanup `ContentSecurityPolicy`](https://github.com/codeigniter4/CodeIgniter4/pull/9904)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/732)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*4 days ago*)
 - **[refactor: rename `PhpdocTypesNoDuplicatesFixer` to `PhpdocNoDuplicateTypesFixer`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9381)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[Narrow type of reflection `get*Type()` after calling `has*Type()`](https://github.com/phpstan/phpstan-src/pull/4806)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[test: add sanity checks to some Redis tests](https://github.com/codeigniter4/CodeIgniter4/pull/9894)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: complete `QueryInterface`](https://github.com/codeigniter4/CodeIgniter4/pull/9892)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: compare `$db-&gt;connID` to `false`](https://github.com/codeigniter4/CodeIgniter4/pull/9891)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[chore: rerun `phpstan:baseline` for accurate errors count](https://github.com/codeigniter4/CodeIgniter4/pull/9890)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: `SUPPORTPATH` may be undefined in some contexts](https://github.com/codeigniter4/CodeIgniter4/pull/9882)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
