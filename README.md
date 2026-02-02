@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fix CHANGELOG formatting and filenames](https://github.com/codeigniter4/CodeIgniter4/pull/9922)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add changelog and upgrade for v4.7.1](https://github.com/codeigniter4/CodeIgniter4/pull/9920)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[4.7.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Prep for 4.7.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9918)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: set phpstan-codeigniter to stable `^1.5` version](https://github.com/codeigniter4/CodeIgniter4/pull/9914)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: update `RELEASE.md` for ignored paths in &#34;all changes&#34;](https://github.com/codeigniter4/CodeIgniter4/pull/9913)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: Move older changelogs to `changelogs/`](https://github.com/codeigniter4/CodeIgniter4/pull/9912)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Prep for 4.6.5 release](https://github.com/codeigniter4/CodeIgniter4/pull/9911)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
