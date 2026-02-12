@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 days ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 days ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*6 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.94.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.0), *today*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.94.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.0), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.0), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.0), *1 week ago*) - A set of custom fixers for PHP CS Fixer
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.6.4](https://github.com/codeigniter4/translations/releases/tag/v4.6.4), *2 months ago*) - System message translations for CodeIgniter4
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: update to PHP 8.2, PHP 8.5, and cleanup workflow scripts](https://github.com/codeigniter4/translations/pull/519)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
+- **[chore: update to PHP 8.2, PHP 8.5, and cleanup workflow scripts](https://github.com/codeigniter4/translations/pull/519)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
 - **[chore: create instructions file for LLM to use in organic release announcements in the forum](https://github.com/codeigniter4/CodeIgniter4/pull/9923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: fix CHANGELOG formatting and filenames](https://github.com/codeigniter4/CodeIgniter4/pull/9922)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add changelog and upgrade for v4.7.1](https://github.com/codeigniter4/CodeIgniter4/pull/9920)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
