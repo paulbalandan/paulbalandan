@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[[ar] fix code styles](https://github.com/codeigniter4/translations/pull/526)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[refactor: add strict types to tests](https://github.com/codeigniter4/CodeIgniter4/pull/9953)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: display all issues on testing](https://github.com/codeigniter4/CodeIgniter4/pull/9952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: implement development versions for `CodeIgniter::CI_VERSION`](https://github.com/codeigniter4/CodeIgniter4/pull/9951)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: add changelog and upgrade for v4.7.1](https://github.com/codeigniter4/CodeIgniter4/pull/9920)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.7.0 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/9919)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Prep for 4.7.0 release](https://github.com/codeigniter4/CodeIgniter4/pull/9918)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: move v4.6 changelog and fix references](https://github.com/codeigniter4/CodeIgniter4/pull/9917)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
