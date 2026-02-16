@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 day ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 day ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: reduce GitHub API rate limit hits](https://github.com/codeigniter4/translations/pull/527)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[refactor: use latest rector syntax](https://github.com/codeigniter4/devkit/pull/151)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
 - **[refactor: display all issues on testing](https://github.com/codeigniter4/devkit/pull/150)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
 - **[chore: update dependabot to track also in `src/Template/.github`](https://github.com/codeigniter4/devkit/pull/149)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: display all issues on testing](https://github.com/codeigniter4/CodeIgniter4/pull/9952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: implement development versions for `CodeIgniter::CI_VERSION`](https://github.com/codeigniter4/CodeIgniter4/pull/9951)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: update to PHP 8.2, PHP 8.5, and cleanup workflow scripts](https://github.com/codeigniter4/translations/pull/519)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
-- **[chore: create instructions file for LLM to use in organic release announcements in the forum](https://github.com/codeigniter4/CodeIgniter4/pull/9923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
