@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: use latest rector syntax](https://github.com/codeigniter4/devkit/pull/151)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*today*)
 - **[refactor: display all issues on testing](https://github.com/codeigniter4/devkit/pull/150)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
 - **[chore: update dependabot to track also in `src/Template/.github`](https://github.com/codeigniter4/devkit/pull/149)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
 - **[chore: fix rector.php](https://github.com/codeigniter4/devkit/pull/148)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: implement development versions for `CodeIgniter::CI_VERSION`](https://github.com/codeigniter4/CodeIgniter4/pull/9951)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: update to PHP 8.2, PHP 8.5, and cleanup workflow scripts](https://github.com/codeigniter4/translations/pull/519)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 week ago*)
 - **[chore: create instructions file for LLM to use in organic release announcements in the forum](https://github.com/codeigniter4/CodeIgniter4/pull/9923)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[chore: fix CHANGELOG formatting and filenames](https://github.com/codeigniter4/CodeIgniter4/pull/9922)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
