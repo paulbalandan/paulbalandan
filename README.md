@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: `PhpdocLineSpanFixer` - add `function` option](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9439)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[fix: `PhpdocLineSpanFixer` - handle unions and intersections in properties](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9438)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[refactor: remove `$config` in `Response` constructor](https://github.com/codeigniter4/CodeIgniter4/pull/9956)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: reduce GitHub API rate limit hits](https://github.com/codeigniter4/translations/pull/527)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix rector.php](https://github.com/codeigniter4/devkit/pull/148)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 days ago*)
 - **[[ar] fix code styles](https://github.com/codeigniter4/translations/pull/526)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
 - **[refactor: add strict types to tests](https://github.com/codeigniter4/CodeIgniter4/pull/9953)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: display all issues on testing](https://github.com/codeigniter4/CodeIgniter4/pull/9952)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
