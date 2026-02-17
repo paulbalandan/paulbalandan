@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: use `__unserialize` instead of `__wakeup` in `TimeTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: `PhpdocLineSpanFixer` - add `function` option](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9439)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[fix: `PhpdocLineSpanFixer` - handle unions and intersections in properties](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9438)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[refactor: remove `$config` in `Response` constructor](https://github.com/codeigniter4/CodeIgniter4/pull/9956)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update dependabot to track also in `src/Template/.github`](https://github.com/codeigniter4/devkit/pull/149)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 days ago*)
 - **[chore: fix rector.php](https://github.com/codeigniter4/devkit/pull/148)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*3 days ago*)
 - **[[ar] fix code styles](https://github.com/codeigniter4/translations/pull/526)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
-- **[refactor: add strict types to tests](https://github.com/codeigniter4/CodeIgniter4/pull/9953)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
