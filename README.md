@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `Security` test fail by itself](https://github.com/codeigniter4/CodeIgniter4/pull/9969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: fix determinism of `CacheTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: cleanup `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9966)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove `Exceptions::isImplicitNullableDeprecationError`](https://github.com/codeigniter4/CodeIgniter4/pull/9965)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove `$config` in `Response` constructor](https://github.com/codeigniter4/CodeIgniter4/pull/9956)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: reduce GitHub API rate limit hits](https://github.com/codeigniter4/translations/pull/527)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
 - **[refactor: use latest rector syntax](https://github.com/codeigniter4/devkit/pull/151)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*4 days ago*)
-- **[refactor: display all issues on testing](https://github.com/codeigniter4/devkit/pull/150)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
