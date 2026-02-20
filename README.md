@@ -15,6 +15,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*today*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*today*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 days ago*)
@@ -22,7 +23,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: fix determinism of `CacheTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: cleanup `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9966)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove `Exceptions::isImplicitNullableDeprecationError`](https://github.com/codeigniter4/CodeIgniter4/pull/9965)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: use `__unserialize` instead of `__wakeup` in `TimeTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: reduce GitHub API rate limit hits](https://github.com/codeigniter4/translations/pull/527)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*4 days ago*)
 - **[refactor: use latest rector syntax](https://github.com/codeigniter4/devkit/pull/151)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*4 days ago*)
 - **[refactor: display all issues on testing](https://github.com/codeigniter4/devkit/pull/150)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
-- **[chore: update dependabot to track also in `src/Template/.github`](https://github.com/codeigniter4/devkit/pull/149)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
