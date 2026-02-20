@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove `Exceptions::isImplicitNullableDeprecationError`](https://github.com/codeigniter4/CodeIgniter4/pull/9965)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: use `__unserialize` instead of `__wakeup` in `TimeTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[feat: `PhpdocLineSpanFixer` - add `function` option](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9439)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
 - **[fix: `PhpdocLineSpanFixer` - handle unions and intersections in properties](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9438)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: display all issues on testing](https://github.com/codeigniter4/devkit/pull/150)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
 - **[chore: update dependabot to track also in `src/Template/.github`](https://github.com/codeigniter4/devkit/pull/149)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
 - **[chore: fix rector.php](https://github.com/codeigniter4/devkit/pull/148)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*6 days ago*)
-- **[[ar] fix code styles](https://github.com/codeigniter4/translations/pull/526)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
