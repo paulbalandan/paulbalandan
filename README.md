@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove case-insensitive comparison for HTTP methods in `FilterCollector`](https://github.com/codeigniter4/CodeIgniter4/pull/9976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: cleanup deprecations in `Cache`&#39;s `FileHandler`](https://github.com/codeigniter4/CodeIgniter4/pull/9975)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: cleanup deprecations in `CodeIgniter`](https://github.com/codeigniter4/CodeIgniter4/pull/9974)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecated methods in `Autoloader`](https://github.com/codeigniter4/CodeIgniter4/pull/9973)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: cleanup `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9966)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove `Exceptions::isImplicitNullableDeprecationError`](https://github.com/codeigniter4/CodeIgniter4/pull/9965)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: use `__unserialize` instead of `__wakeup` in `TimeTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/9957)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: `PhpdocLineSpanFixer` - add `function` option](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9439)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
