@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: cleanup `Security`](https://github.com/codeigniter4/CodeIgniter4/pull/9972)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `Security` test fail by itself](https://github.com/codeigniter4/CodeIgniter4/pull/9969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: fix determinism of `CacheTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: cleanup `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9966)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: `PhpdocLineSpanFixer` - handle unions and intersections in properties](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9438)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*4 days ago*)
 - **[refactor: remove `$config` in `Response` constructor](https://github.com/codeigniter4/CodeIgniter4/pull/9956)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: reduce GitHub API rate limit hits](https://github.com/codeigniter4/translations/pull/527)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*5 days ago*)
-- **[refactor: use latest rector syntax](https://github.com/codeigniter4/devkit/pull/151)** on [codeigniter4/devkit](https://github.com/codeigniter4/devkit) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
