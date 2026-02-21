@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: test that `@deprecated` items have version numbers](https://github.com/codeigniter4/CodeIgniter4/pull/9981)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecations in `Filters`](https://github.com/codeigniter4/CodeIgniter4/pull/9978)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecated static constructors of `FrameworkException` and child classes](https://github.com/codeigniter4/CodeIgniter4/pull/9977)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove case-insensitive comparison for HTTP methods in `FilterCollector`](https://github.com/codeigniter4/CodeIgniter4/pull/9976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: cleanup `Security`](https://github.com/codeigniter4/CodeIgniter4/pull/9972)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `Security` test fail by itself](https://github.com/codeigniter4/CodeIgniter4/pull/9969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: fix determinism of `CacheTest`](https://github.com/codeigniter4/CodeIgniter4/pull/9967)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: cleanup `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9966)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
