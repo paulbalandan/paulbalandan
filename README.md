@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: update GitHub actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/9988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: bump mssql image to 2025](https://github.com/codeigniter4/CodeIgniter4/pull/9987)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecations in `Database`](https://github.com/codeigniter4/CodeIgniter4/pull/9986)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecations in `Services`](https://github.com/codeigniter4/CodeIgniter4/pull/9985)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove deprecations in `Filters`](https://github.com/codeigniter4/CodeIgniter4/pull/9978)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated static constructors of `FrameworkException` and child classes](https://github.com/codeigniter4/CodeIgniter4/pull/9977)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove case-insensitive comparison for HTTP methods in `FilterCollector`](https://github.com/codeigniter4/CodeIgniter4/pull/9976)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: cleanup deprecations in `Cache`&#39;s `FileHandler`](https://github.com/codeigniter4/CodeIgniter4/pull/9975)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
