@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove deprecations in `Services`](https://github.com/codeigniter4/CodeIgniter4/pull/9985)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: remove deprecations in `CLI`](https://github.com/codeigniter4/CodeIgniter4/pull/9984)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecated `system/bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9982)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: test that `@deprecated` items have version numbers](https://github.com/codeigniter4/CodeIgniter4/pull/9981)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecations in `Filters`](https://github.com/codeigniter4/CodeIgniter4/pull/9978)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: cleanup deprecations in `Cache`&#39;s `FileHandler`](https://github.com/codeigniter4/CodeIgniter4/pull/9975)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: cleanup deprecations in `CodeIgniter`](https://github.com/codeigniter4/CodeIgniter4/pull/9974)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated methods in `Autoloader`](https://github.com/codeigniter4/CodeIgniter4/pull/9973)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: cleanup `Security`](https://github.com/codeigniter4/CodeIgniter4/pull/9972)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `Security` test fail by itself](https://github.com/codeigniter4/CodeIgniter4/pull/9969)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
