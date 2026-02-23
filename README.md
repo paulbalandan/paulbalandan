@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: revert property promotion on `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9995)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix latest phpstan errors](https://github.com/codeigniter4/CodeIgniter4/pull/9993)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: update references to use MySQL 8.0](https://github.com/codeigniter4/CodeIgniter4/pull/9991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: update rector config for latest changes](https://github.com/codeigniter4/CodeIgniter4/pull/9989)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove deprecations in `Services`](https://github.com/codeigniter4/CodeIgniter4/pull/9985)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecations in `CLI`](https://github.com/codeigniter4/CodeIgniter4/pull/9984)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated `system/bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9982)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: test that `@deprecated` items have version numbers](https://github.com/codeigniter4/CodeIgniter4/pull/9981)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
