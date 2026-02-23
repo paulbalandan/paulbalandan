@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: update references to use MySQL 8.0](https://github.com/codeigniter4/CodeIgniter4/pull/9991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: update rector config for latest changes](https://github.com/codeigniter4/CodeIgniter4/pull/9989)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: update GitHub actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/9988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: bump mssql image to 2025](https://github.com/codeigniter4/CodeIgniter4/pull/9987)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove deprecated `system/bootstrap.php`](https://github.com/codeigniter4/CodeIgniter4/pull/9982)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: test that `@deprecated` items have version numbers](https://github.com/codeigniter4/CodeIgniter4/pull/9981)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: remove deprecations in `Filters`](https://github.com/codeigniter4/CodeIgniter4/pull/9978)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecated static constructors of `FrameworkException` and child classes](https://github.com/codeigniter4/CodeIgniter4/pull/9977)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
