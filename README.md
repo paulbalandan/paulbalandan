@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: remove deprecated `BaseCollector::cleanPath()`](https://github.com/codeigniter4/CodeIgniter4/pull/10002)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: remove deprecated `BaseHandler::RESERVED_CHARACTERS` constant](https://github.com/codeigniter4/CodeIgniter4/pull/10001)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: remove deprecations in HTTP [WIP]](https://github.com/codeigniter4/CodeIgniter4/pull/10000)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: turn `MySQLi` `$strictOn` to `true` by default](https://github.com/codeigniter4/CodeIgniter4/pull/9996)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: revert property promotion on `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9995)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: update rector config for latest changes](https://github.com/codeigniter4/CodeIgniter4/pull/9989)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: update GitHub actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/9988)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: bump mssql image to 2025](https://github.com/codeigniter4/CodeIgniter4/pull/9987)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecations in `Database`](https://github.com/codeigniter4/CodeIgniter4/pull/9986)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecations in `Services`](https://github.com/codeigniter4/CodeIgniter4/pull/9985)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
