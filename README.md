@@ -13,21 +13,21 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*6 days ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*6 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 week ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*3 weeks ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.1), *4 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.1), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.1), *1 week ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.0), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.0](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.0), *3 weeks ago*) - A set of custom fixers for PHP CS Fixer
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[perf: optimize ImageMagick installation in GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: `FeatureTestTrait::withRoutes()` may throw all sorts of errors on invalid HTTP methods](https://github.com/codeigniter4/CodeIgniter4/pull/10004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: use uppercase HTTP method names in `FeatureTestTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10003)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecated `BaseCollector::cleanPath()`](https://github.com/codeigniter4/CodeIgniter4/pull/10002)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecated `BaseHandler::RESERVED_CHARACTERS` constant](https://github.com/codeigniter4/CodeIgniter4/pull/10001)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: remove deprecations in HTTP [WIP]](https://github.com/codeigniter4/CodeIgniter4/pull/10000)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[test: turn `MySQLi` `$strictOn` to `true` by default](https://github.com/codeigniter4/CodeIgniter4/pull/9996)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: revert property promotion on `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9995)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: fix latest phpstan errors](https://github.com/codeigniter4/CodeIgniter4/pull/9993)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: update references to use MySQL 8.0](https://github.com/codeigniter4/CodeIgniter4/pull/9991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[perf: optimize ImageMagick installation in GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: `FeatureTestTrait::withRoutes()` may throw all sorts of errors on invalid HTTP methods](https://github.com/codeigniter4/CodeIgniter4/pull/10004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: use uppercase HTTP method names in `FeatureTestTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10003)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: remove deprecated `BaseCollector::cleanPath()`](https://github.com/codeigniter4/CodeIgniter4/pull/10002)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: remove deprecated `BaseHandler::RESERVED_CHARACTERS` constant](https://github.com/codeigniter4/CodeIgniter4/pull/10001)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: remove deprecations in HTTP [WIP]](https://github.com/codeigniter4/CodeIgniter4/pull/10000)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[test: turn `MySQLi` `$strictOn` to `true` by default](https://github.com/codeigniter4/CodeIgniter4/pull/9996)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: revert property promotion on `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9995)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: fix latest phpstan errors](https://github.com/codeigniter4/CodeIgniter4/pull/9993)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: update references to use MySQL 8.0](https://github.com/codeigniter4/CodeIgniter4/pull/9991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
