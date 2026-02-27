@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: add test that DBs throw error on too long inputs](https://github.com/codeigniter4/CodeIgniter4/pull/10009)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[perf: optimize ImageMagick installation in GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: `FeatureTestTrait::withRoutes()` may throw all sorts of errors on invalid HTTP methods](https://github.com/codeigniter4/CodeIgniter4/pull/10004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: use uppercase HTTP method names in `FeatureTestTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10003)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: turn `MySQLi` `$strictOn` to `true` by default](https://github.com/codeigniter4/CodeIgniter4/pull/9996)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: revert property promotion on `Exceptions`](https://github.com/codeigniter4/CodeIgniter4/pull/9995)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: fix latest phpstan errors](https://github.com/codeigniter4/CodeIgniter4/pull/9993)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[chore: update references to use MySQL 8.0](https://github.com/codeigniter4/CodeIgniter4/pull/9991)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
