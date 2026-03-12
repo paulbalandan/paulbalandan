@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.0](https://github.com/codeigniter4/translations/releases/tag/v4.7.0), *2 days ago*) - System message translations for CodeIgniter4
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.1), *4 days ago*) - A set of custom fixers for PHP CS Fixer
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.0](https://github.com/codeigniter4/translations/releases/tag/v4.7.0), *3 days ago*) - System message translations for CodeIgniter4
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.1), *5 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.1), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.94.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.94.2), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.1), *3 weeks ago*) - Official Coding Standards for CodeIgniter
@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: convert forum announcement instruction as a proper agent skill](https://github.com/codeigniter4/CodeIgniter4/pull/10031)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: convert forum announcement instruction as a proper agent skill](https://github.com/codeigniter4/CodeIgniter4/pull/10031)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[feat: Add random test execution verification system](https://github.com/codeigniter4/CodeIgniter4/pull/10015)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: add test that DBs throw error on too long inputs](https://github.com/codeigniter4/CodeIgniter4/pull/10009)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[perf: optimize ImageMagick installation in GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
