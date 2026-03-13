@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump runners to ubuntu-24.04](https://github.com/codeigniter4/CodeIgniter4/pull/10036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: convert forum announcement instruction as a proper agent skill](https://github.com/codeigniter4/CodeIgniter4/pull/10031)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[feat: Add random test execution verification system](https://github.com/codeigniter4/CodeIgniter4/pull/10015)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: add test that DBs throw error on too long inputs](https://github.com/codeigniter4/CodeIgniter4/pull/10009)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: remove deprecated `BaseCollector::cleanPath()`](https://github.com/codeigniter4/CodeIgniter4/pull/10002)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: remove deprecated `BaseHandler::RESERVED_CHARACTERS` constant](https://github.com/codeigniter4/CodeIgniter4/pull/10001)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: remove deprecations in HTTP [WIP]](https://github.com/codeigniter4/CodeIgniter4/pull/10000)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[test: turn `MySQLi` `$strictOn` to `true` by default](https://github.com/codeigniter4/CodeIgniter4/pull/9996)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
