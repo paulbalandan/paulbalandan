@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: enforce security hardening for GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10038)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: bump runners to ubuntu-24.04](https://github.com/codeigniter4/CodeIgniter4/pull/10036)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: convert forum announcement instruction as a proper agent skill](https://github.com/codeigniter4/CodeIgniter4/pull/10031)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[feat: Add random test execution verification system](https://github.com/codeigniter4/CodeIgniter4/pull/10015)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: use uppercase HTTP method names in `FeatureTestTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10003)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: remove deprecated `BaseCollector::cleanPath()`](https://github.com/codeigniter4/CodeIgniter4/pull/10002)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[refactor: remove deprecated `BaseHandler::RESERVED_CHARACTERS` constant](https://github.com/codeigniter4/CodeIgniter4/pull/10001)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[refactor: remove deprecations in HTTP [WIP]](https://github.com/codeigniter4/CodeIgniter4/pull/10000)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
