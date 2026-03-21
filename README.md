@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *today*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.3.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.3.0), *6 days ago*) - Prevent merge commits in pull requests.
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *1 week ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.0](https://github.com/codeigniter4/translations/releases/tag/v4.7.0), *1 week ago*) - System message translations for CodeIgniter4
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.1](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.1), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.0](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.0), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.2](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.2), *8 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v1.5.4](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.5.4), *8 months ago*) - CodeIgniter extensions and rules for PHPStan
 
 ### 🔨 My recent Pull Requests
 
