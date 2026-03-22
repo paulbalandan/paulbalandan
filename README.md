@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[4.7.1 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Prep for 4.7.1 release](https://github.com/codeigniter4/CodeIgniter4/pull/10059)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add labeler action workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: fix path of `secure-git-push` in deploy-apidocs.yml](https://github.com/codeigniter4/CodeIgniter4/pull/10054)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/758)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: convert forum announcement instruction as a proper agent skill](https://github.com/codeigniter4/CodeIgniter4/pull/10031)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: Add random test execution verification system](https://github.com/codeigniter4/CodeIgniter4/pull/10015)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[test: add test that DBs throw error on too long inputs](https://github.com/codeigniter4/CodeIgniter4/pull/10009)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[perf: optimize ImageMagick installation in GitHub Actions workflows](https://github.com/codeigniter4/CodeIgniter4/pull/10005)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[fix: `FeatureTestTrait::withRoutes()` may throw all sorts of errors on invalid HTTP methods](https://github.com/codeigniter4/CodeIgniter4/pull/10004)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
