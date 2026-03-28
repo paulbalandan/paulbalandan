@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: indicate components that already pass random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10073)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add support to parse the `--` separator for commands](https://github.com/codeigniter4/CodeIgniter4/pull/10070)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[docs: add changelog and upgrade for v4.7.3](https://github.com/codeigniter4/CodeIgniter4/pull/10068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[4.7.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: add changelog and upgrade for v4.7.2](https://github.com/codeigniter4/CodeIgniter4/pull/10061)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[4.7.1 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10060)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[Prep for 4.7.1 release](https://github.com/codeigniter4/CodeIgniter4/pull/10059)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: add labeler action workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10055)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
