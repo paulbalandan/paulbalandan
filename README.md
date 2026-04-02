@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*4 days ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.0), *1 day ago*) - Prevent merge commits in pull requests.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.0](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.0), *2 days ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *2 weeks ago*) - Chainable type-safety assertions library.
@@ -39,13 +39,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: fix wrong trigger name for manually runnable workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10077)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[feat: add support for options with attached values by `=`](https://github.com/codeigniter4/CodeIgniter4/pull/10076)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: upgrade to `gvenzl/oracle-free`](https://github.com/codeigniter4/CodeIgniter4/pull/10075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[chore: upload as artifacts the debug files of failing random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10074)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[test: indicate components that already pass random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10073)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: fix wrong trigger name for manually runnable workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10077)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[feat: add support for options with attached values by `=`](https://github.com/codeigniter4/CodeIgniter4/pull/10076)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: upgrade to `gvenzl/oracle-free`](https://github.com/codeigniter4/CodeIgniter4/pull/10075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[chore: upload as artifacts the debug files of failing random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10074)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[test: indicate components that already pass random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10073)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[feat: add support to parse the `--` separator for commands](https://github.com/codeigniter4/CodeIgniter4/pull/10070)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add changelog and upgrade for v4.7.3](https://github.com/codeigniter4/CodeIgniter4/pull/10068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[4.7.2 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10067)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
