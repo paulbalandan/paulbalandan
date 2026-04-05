@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*6 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 weeks ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[codeigniter4/devkit](https://github.com/codeigniter4/devkit)** - Development toolkit for CodeIgniter libraries and projects (*1 month ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*1 month ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *today*) - Prevent merge commits in pull requests.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *1 day ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *2 weeks ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *3 weeks ago*) - Chainable type-safety assertions library.
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Add `declare(strict_types=1)` to all PHP files](https://github.com/codeigniter4/translations/pull/542)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
-- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[chore: fix wrong trigger name for manually runnable workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10077)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: add support for options with attached values by `=`](https://github.com/codeigniter4/CodeIgniter4/pull/10076)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Add `declare(strict_types=1)` to all PHP files](https://github.com/codeigniter4/translations/pull/542)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
+- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[chore: fix wrong trigger name for manually runnable workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10077)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[feat: add support for options with attached values by `=`](https://github.com/codeigniter4/CodeIgniter4/pull/10076)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: upgrade to `gvenzl/oracle-free`](https://github.com/codeigniter4/CodeIgniter4/pull/10075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: upload as artifacts the debug files of failing random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10074)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: indicate components that already pass random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10073)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
