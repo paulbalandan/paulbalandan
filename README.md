@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Add `declare(strict_types=1)` to all PHP files](https://github.com/codeigniter4/translations/pull/542)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
 - **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: upload as artifacts the debug files of failing random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10074)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: indicate components that already pass random execution tests](https://github.com/codeigniter4/CodeIgniter4/pull/10073)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: add support to parse the `--` separator for commands](https://github.com/codeigniter4/CodeIgniter4/pull/10070)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[docs: add changelog and upgrade for v4.7.3](https://github.com/codeigniter4/CodeIgniter4/pull/10068)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
