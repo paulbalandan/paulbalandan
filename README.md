@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*3 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *2 days ago*) - Prevent merge commits in pull requests.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *3 days ago*) - Prevent merge commits in pull requests.
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *2 weeks ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *3 weeks ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.0](https://github.com/codeigniter4/translations/releases/tag/v4.7.0), *4 weeks ago*) - System message translations for CodeIgniter4
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: fix phpdoc for `Console::$options`](https://github.com/codeigniter4/CodeIgniter4/pull/10088)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[Add `declare(strict_types=1)` to all PHP files](https://github.com/codeigniter4/translations/pull/542)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
-- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: fix phpdoc for `Console::$options`](https://github.com/codeigniter4/CodeIgniter4/pull/10088)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[Add `declare(strict_types=1)` to all PHP files](https://github.com/codeigniter4/translations/pull/542)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*3 days ago*)
+- **[refactor: update `Console::run()` to allow it be called in `command()` function](https://github.com/codeigniter4/CodeIgniter4/pull/10080)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[feat: add support for parsing array options](https://github.com/codeigniter4/CodeIgniter4/pull/10079)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: fix wrong trigger name for manually runnable workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10077)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: add support for options with attached values by `=`](https://github.com/codeigniter4/CodeIgniter4/pull/10076)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: upgrade to `gvenzl/oracle-free`](https://github.com/codeigniter4/CodeIgniter4/pull/10075)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
