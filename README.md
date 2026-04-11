@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: refactor tests on `BaseCommand` and `Commands`](https://github.com/codeigniter4/CodeIgniter4/pull/10103)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: refactor phpunit config file](https://github.com/codeigniter4/CodeIgniter4/pull/10102)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/775)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
 - **[fix: ensure output buffer is closed after use of `command()`](https://github.com/codeigniter4/CodeIgniter4/pull/10099)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: group commands tests similar to `system/Commands/`](https://github.com/codeigniter4/CodeIgniter4/pull/10096)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: add full testing for `debugbar:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10093)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: prepend `Autoloader`&#39;s own autoload functions](https://github.com/codeigniter4/CodeIgniter4/pull/10092)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: add full testing for `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10090)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: fix phpdoc for `Console::$options`](https://github.com/codeigniter4/CodeIgniter4/pull/10088)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
