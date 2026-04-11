@@ -14,10 +14,10 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*today*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 day ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.3](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.3), *today*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *6 days ago*) - Prevent merge commits in pull requests.
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.3](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.3), *1 day ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *1 week ago*) - Prevent merge commits in pull requests.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *2 weeks ago*) - Authentication and Authorization for CodeIgniter 4
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *3 weeks ago*) - Chainable type-safety assertions library.
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.3.0](https://github.com/codeigniter4/shield/releases/tag/v1.3.0), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.0.0](https://github.com/NexusPHP/assert/releases/tag/v1.0.0), *4 weeks ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.0](https://github.com/codeigniter4/translations/releases/tag/v4.7.0), *1 month ago*) - System message translations for CodeIgniter4
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.36.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.36.1), *1 month ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.1](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.1), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/775)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
-- **[fix: ensure output buffer is closed after use of `command()`](https://github.com/codeigniter4/CodeIgniter4/pull/10099)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[test: group commands tests similar to `system/Commands/`](https://github.com/codeigniter4/CodeIgniter4/pull/10096)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: re-comment transiently failing component tests](https://github.com/codeigniter4/CodeIgniter4/pull/10095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: add full testing for `cache:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: add full testing for `debugbar:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10093)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: prepend `Autoloader`&#39;s own autoload functions](https://github.com/codeigniter4/CodeIgniter4/pull/10092)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: add full testing for `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10090)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: fix phpdoc for `Console::$options`](https://github.com/codeigniter4/CodeIgniter4/pull/10088)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/775)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 day ago*)
+- **[fix: ensure output buffer is closed after use of `command()`](https://github.com/codeigniter4/CodeIgniter4/pull/10099)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[test: group commands tests similar to `system/Commands/`](https://github.com/codeigniter4/CodeIgniter4/pull/10096)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: re-comment transiently failing component tests](https://github.com/codeigniter4/CodeIgniter4/pull/10095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: add full testing for `cache:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: add full testing for `debugbar:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10093)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: prepend `Autoloader`&#39;s own autoload functions](https://github.com/codeigniter4/CodeIgniter4/pull/10092)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: add full testing for `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10090)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[chore: fix phpdoc for `Console::$options`](https://github.com/codeigniter4/CodeIgniter4/pull/10088)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[feat: get the last executed spark command name](https://github.com/codeigniter4/CodeIgniter4/pull/10085)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
