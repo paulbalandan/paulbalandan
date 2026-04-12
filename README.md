@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: make the progress bar not overwrite on GitHub Actions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9555)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[test: fix command tests that may hang on linux due to sudo](https://github.com/codeigniter4/CodeIgniter4/pull/10107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: refactor inconsistent behavior on `CLI::write()` and `CLI::error()`](https://github.com/codeigniter4/CodeIgniter4/pull/10106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fixes for php-cs-fixer and psalm](https://github.com/codeigniter4/CodeIgniter4/pull/10105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/775)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[fix: ensure output buffer is closed after use of `command()`](https://github.com/codeigniter4/CodeIgniter4/pull/10099)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[test: group commands tests similar to `system/Commands/`](https://github.com/codeigniter4/CodeIgniter4/pull/10096)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: re-comment transiently failing component tests](https://github.com/codeigniter4/CodeIgniter4/pull/10095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
