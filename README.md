@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fixes for php-cs-fixer and psalm](https://github.com/codeigniter4/CodeIgniter4/pull/10105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix labeler workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: refactor tests on `BaseCommand` and `Commands`](https://github.com/codeigniter4/CodeIgniter4/pull/10103)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: refactor phpunit config file](https://github.com/codeigniter4/CodeIgniter4/pull/10102)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: re-comment transiently failing component tests](https://github.com/codeigniter4/CodeIgniter4/pull/10095)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: add full testing for `cache:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10094)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: add full testing for `debugbar:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10093)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: prepend `Autoloader`&#39;s own autoload functions](https://github.com/codeigniter4/CodeIgniter4/pull/10092)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
