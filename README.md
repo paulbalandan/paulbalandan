@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: ensure calling `env` command with options only would not throw](https://github.com/codeigniter4/CodeIgniter4/pull/10114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: rename `-h` option of `routes` command as `--handler`](https://github.com/codeigniter4/CodeIgniter4/pull/10113)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: commands - move the null exit code deprecation earlier](https://github.com/codeigniter4/CodeIgniter4/pull/10112)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: remove `tests/system/Commands/CommandTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10108)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: make the progress bar not overwrite on GitHub Actions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9555)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fixes for php-cs-fixer and psalm](https://github.com/codeigniter4/CodeIgniter4/pull/10105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: fix labeler workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[test: refactor tests on `BaseCommand` and `Commands`](https://github.com/codeigniter4/CodeIgniter4/pull/10103)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: refactor phpunit config file](https://github.com/codeigniter4/CodeIgniter4/pull/10102)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/775)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
