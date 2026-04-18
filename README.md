@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: introduce modern attribute-based `spark` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10120)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix label-pr verification step](https://github.com/codeigniter4/CodeIgniter4/pull/10118)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[fix: ensure calling `env` command with options only would not throw](https://github.com/codeigniter4/CodeIgniter4/pull/10114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: rename `-h` option of `routes` command as `--handler`](https://github.com/codeigniter4/CodeIgniter4/pull/10113)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: fix command tests that may hang on linux due to sudo](https://github.com/codeigniter4/CodeIgniter4/pull/10107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[fix: refactor inconsistent behavior on `CLI::write()` and `CLI::error()`](https://github.com/codeigniter4/CodeIgniter4/pull/10106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[chore: fixes for php-cs-fixer and psalm](https://github.com/codeigniter4/CodeIgniter4/pull/10105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: fix labeler workflow](https://github.com/codeigniter4/CodeIgniter4/pull/10104)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
