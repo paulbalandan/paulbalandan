@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: fix transient random test failures](https://github.com/codeigniter4/CodeIgniter4/pull/10122)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: lazily load CSP and Cookie only when needed by Response](https://github.com/codeigniter4/CodeIgniter4/pull/10121)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: introduce modern attribute-based `spark` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10120)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix label-pr verification step](https://github.com/codeigniter4/CodeIgniter4/pull/10118)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[fix: ensure calling `env` command with options only would not throw](https://github.com/codeigniter4/CodeIgniter4/pull/10114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[test: remove `tests/system/Commands/CommandTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10108)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[fix: make the progress bar not overwrite on GitHub Actions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9555)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*6 days ago*)
 - **[test: fix command tests that may hang on linux due to sudo](https://github.com/codeigniter4/CodeIgniter4/pull/10107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[fix: refactor inconsistent behavior on `CLI::write()` and `CLI::error()`](https://github.com/codeigniter4/CodeIgniter4/pull/10106)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: fixes for php-cs-fixer and psalm](https://github.com/codeigniter4/CodeIgniter4/pull/10105)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
