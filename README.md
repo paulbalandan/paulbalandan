@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: further rename `--handler` to `--sort-by-handler` for `routes`](https://github.com/codeigniter4/CodeIgniter4/pull/10125)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: suppress stty stderr leak in `CLI::generateDimensions()` when stdin is not a TTY](https://github.com/codeigniter4/CodeIgniter4/pull/10124)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix transient random test failures](https://github.com/codeigniter4/CodeIgniter4/pull/10122)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: lazily load CSP and Cookie only when needed by Response](https://github.com/codeigniter4/CodeIgniter4/pull/10121)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[feat: introduce modern attribute-based `spark` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10120)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: rename `-h` option of `routes` command as `--handler`](https://github.com/codeigniter4/CodeIgniter4/pull/10113)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: commands - move the null exit code deprecation earlier](https://github.com/codeigniter4/CodeIgniter4/pull/10112)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: remove `tests/system/Commands/CommandTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10108)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: make the progress bar not overwrite on GitHub Actions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9555)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 week ago*)
-- **[test: fix command tests that may hang on linux due to sudo](https://github.com/codeigniter4/CodeIgniter4/pull/10107)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
