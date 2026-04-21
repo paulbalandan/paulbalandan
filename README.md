@@ -13,16 +13,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*4 days ago*)
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** - A tool to automatically fix PHP Coding Standards issues (*3 weeks ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 month ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: remove deprecated rector class](https://github.com/codeigniter4/shield/pull/1326)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[chore: fix phpstan](https://github.com/codeigniter4/shield/pull/1325)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[chore: fix code styles](https://github.com/codeigniter4/shield/pull/1324)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[test: optimize AutoReview tests](https://github.com/codeigniter4/CodeIgniter4/pull/10127)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: UX: `ClearLogs::execute()` error message is misleading after interactive `&#39;n&#39;`](https://github.com/codeigniter4/CodeIgniter4/pull/10126)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: further rename `--handler` to `--sort-by-handler` for `routes`](https://github.com/codeigniter4/CodeIgniter4/pull/10125)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: suppress stty stderr leak in `CLI::generateDimensions()` when stdin is not a TTY](https://github.com/codeigniter4/CodeIgniter4/pull/10124)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: fix transient random test failures](https://github.com/codeigniter4/CodeIgniter4/pull/10122)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: lazily load CSP and Cookie only when needed by Response](https://github.com/codeigniter4/CodeIgniter4/pull/10121)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[feat: introduce modern attribute-based `spark` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10120)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: fix label-pr verification step](https://github.com/codeigniter4/CodeIgniter4/pull/10118)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: ensure calling `env` command with options only would not throw](https://github.com/codeigniter4/CodeIgniter4/pull/10114)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: rename `-h` option of `routes` command as `--handler`](https://github.com/codeigniter4/CodeIgniter4/pull/10113)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: commands - move the null exit code deprecation earlier](https://github.com/codeigniter4/CodeIgniter4/pull/10112)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
