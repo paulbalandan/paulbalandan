@@ -43,7 +43,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: add the `EnvironmentDetector` utility class and `environmentdetector` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: add the `EnvironmentDetector` utility class and `envdetector` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: remove deprecated rector class](https://github.com/codeigniter4/shield/pull/1326)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix phpstan](https://github.com/codeigniter4/shield/pull/1325)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix code styles](https://github.com/codeigniter4/shield/pull/1324)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
