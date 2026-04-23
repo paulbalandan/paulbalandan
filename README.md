@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add the `EnvironmentDetector` utility class and `environmentdetector` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: remove deprecated rector class](https://github.com/codeigniter4/shield/pull/1326)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix phpstan](https://github.com/codeigniter4/shield/pull/1325)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: UX: `ClearLogs::execute()` error message is misleading after interactive `&#39;n&#39;`](https://github.com/codeigniter4/CodeIgniter4/pull/10126)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: further rename `--handler` to `--sort-by-handler` for `routes`](https://github.com/codeigniter4/CodeIgniter4/pull/10125)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: suppress stty stderr leak in `CLI::generateDimensions()` when stdin is not a TTY](https://github.com/codeigniter4/CodeIgniter4/pull/10124)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: fix transient random test failures](https://github.com/codeigniter4/CodeIgniter4/pull/10122)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: lazily load CSP and Cookie only when needed by Response](https://github.com/codeigniter4/CodeIgniter4/pull/10121)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
