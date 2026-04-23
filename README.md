@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: add the `EnvironmentDetector` utility class and `environmentdetector` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: remove deprecated rector class](https://github.com/codeigniter4/shield/pull/1326)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix phpstan](https://github.com/codeigniter4/shield/pull/1325)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[chore: fix code styles](https://github.com/codeigniter4/shield/pull/1324)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: suppress stty stderr leak in `CLI::generateDimensions()` when stdin is not a TTY](https://github.com/codeigniter4/CodeIgniter4/pull/10124)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[chore: fix transient random test failures](https://github.com/codeigniter4/CodeIgniter4/pull/10122)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: lazily load CSP and Cookie only when needed by Response](https://github.com/codeigniter4/CodeIgniter4/pull/10121)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: introduce modern attribute-based `spark` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10120)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
