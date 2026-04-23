@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: add non-interactive session checking to modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10134)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: fix code styles](https://github.com/codeigniter4/shield/pull/1324)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
 - **[test: optimize AutoReview tests](https://github.com/codeigniter4/CodeIgniter4/pull/10127)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: UX: `ClearLogs::execute()` error message is misleading after interactive `&#39;n&#39;`](https://github.com/codeigniter4/CodeIgniter4/pull/10126)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: further rename `--handler` to `--sort-by-handler` for `routes`](https://github.com/codeigniter4/CodeIgniter4/pull/10125)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
