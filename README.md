@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: fix flaky CommandsTest override-discovery tests under random order](https://github.com/codeigniter4/CodeIgniter4/pull/10141)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add version switcher to docs page](https://github.com/codeigniter4/CodeIgniter4/pull/10135)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: add non-interactive session checking to modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10134)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: remove deprecated rector class](https://github.com/codeigniter4/shield/pull/1326)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
 - **[chore: fix phpstan](https://github.com/codeigniter4/shield/pull/1325)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
 - **[chore: fix code styles](https://github.com/codeigniter4/shield/pull/1324)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
-- **[test: optimize AutoReview tests](https://github.com/codeigniter4/CodeIgniter4/pull/10127)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
