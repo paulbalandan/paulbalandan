@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*5 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.1), *1 day ago*) - A set of custom fixers for PHP CS Fixer
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.1), *2 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.2](https://github.com/codeigniter4/translations/releases/tag/v4.7.2), *1 week ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.3), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[Fix output in agent tool use](https://github.com/phpstan/phpstan-src/pull/5532)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
-- **[refactor: simplify `FileLocator::listFiles()`](https://github.com/codeigniter4/CodeIgniter4/pull/10142)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[test: fix flaky CommandsTest override-discovery tests under random order](https://github.com/codeigniter4/CodeIgniter4/pull/10141)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[docs: add version switcher to docs page](https://github.com/codeigniter4/CodeIgniter4/pull/10135)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: add non-interactive session checking to modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10134)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: add the `EnvironmentDetector` utility class and `environment` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[Fix output in agent tool use](https://github.com/phpstan/phpstan-src/pull/5532)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
+- **[refactor: simplify `FileLocator::listFiles()`](https://github.com/codeigniter4/CodeIgniter4/pull/10142)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[test: fix flaky CommandsTest override-discovery tests under random order](https://github.com/codeigniter4/CodeIgniter4/pull/10141)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[docs: add version switcher to docs page](https://github.com/codeigniter4/CodeIgniter4/pull/10135)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: add non-interactive session checking to modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10134)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[feat: add the `EnvironmentDetector` utility class and `environment` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
