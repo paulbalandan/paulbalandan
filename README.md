@@ -48,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: propose modernizing user guide typography](https://github.com/codeigniter4/CodeIgniter4/pull/10133)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: fix indentation on `4.8.0` changelog](https://github.com/codeigniter4/CodeIgniter4/pull/10132)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: fix indentation on `4.7.2` and `4.7.3` changelogs](https://github.com/codeigniter4/CodeIgniter4/pull/10131)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[feat: add the `EnvironmentDetector` utility class and `environment` service](https://github.com/codeigniter4/CodeIgniter4/pull/10130)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
