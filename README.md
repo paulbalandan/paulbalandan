@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: migrate `key:generate` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10164)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `cache:info` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10163)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Ignore ProtectedVisibility on ClockSensitive PHPUnit hooks](https://github.com/NexusPHP/framework/pull/26)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*2 days ago*)
 - **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: simplify `FileLocator::listFiles()`](https://github.com/codeigniter4/CodeIgniter4/pull/10142)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: fix flaky CommandsTest override-discovery tests under random order](https://github.com/codeigniter4/CodeIgniter4/pull/10141)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: add version switcher to docs page](https://github.com/codeigniter4/CodeIgniter4/pull/10135)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[feat: add non-interactive session checking to modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10134)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
