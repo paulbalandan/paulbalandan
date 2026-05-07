@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: add `key:rotate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10174)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: suppress tput stderr leak when TERM is not present](https://github.com/codeigniter4/CodeIgniter4/pull/10167)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `key:generate` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10164)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `cache:info` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10163)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -46,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Fix output in agent tool use](https://github.com/phpstan/phpstan-src/pull/5532)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
 - **[refactor: simplify `FileLocator::listFiles()`](https://github.com/codeigniter4/CodeIgniter4/pull/10142)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: fix flaky CommandsTest override-discovery tests under random order](https://github.com/codeigniter4/CodeIgniter4/pull/10141)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
