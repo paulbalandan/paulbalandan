@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: improve UX in `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10178)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: add `AbstractCommand::callSilently()`](https://github.com/codeigniter4/CodeIgniter4/pull/10177)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add `key:rotate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10174)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[fix: suppress tput stderr leak when TERM is not present](https://github.com/codeigniter4/CodeIgniter4/pull/10167)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `key:generate` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10164)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `cache:info` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10163)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[Ignore ProtectedVisibility on ClockSensitive PHPUnit hooks](https://github.com/NexusPHP/framework/pull/26)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*5 days ago*)
 - **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Fix output in agent tool use](https://github.com/phpstan/phpstan-src/pull/5532)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 weeks ago*)
-- **[refactor: simplify `FileLocator::listFiles()`](https://github.com/codeigniter4/CodeIgniter4/pull/10142)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
