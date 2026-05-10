@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: improve UX on `cache:clear`, `cache:info`, and `debugbar:clear` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10184)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: harden regex matching on `key:generate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10183)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: improve UX on `key:generate`](https://github.com/codeigniter4/CodeIgniter4/pull/10181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: improve UX in `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10178)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
