@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: harden regex matching on `key:generate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10183)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: improve UX on `key:generate`](https://github.com/codeigniter4/CodeIgniter4/pull/10181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: improve UX in `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10178)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: add `AbstractCommand::callSilently()`](https://github.com/codeigniter4/CodeIgniter4/pull/10177)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: add `key:rotate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10174)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -46,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `key:generate` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10164)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: migrate `cache:info` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10163)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[Ignore ProtectedVisibility on ClockSensitive PHPUnit hooks](https://github.com/NexusPHP/framework/pull/26)** on [NexusPHP/framework](https://github.com/NexusPHP/framework) (*6 days ago*)
-- **[fix: prevent rate limiting in imagemagick pull from GitHub](https://github.com/codeigniter4/CodeIgniter4/pull/10146)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
