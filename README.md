@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.2), *today*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.1.1](https://github.com/NexusPHP/assert/releases/tag/v1.1.1), *1 day ago*) - Chainable type-safety assertions library.
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.1](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.1), *2 weeks ago*) - A set of custom fixers for PHP CS Fixer
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.2](https://github.com/codeigniter4/translations/releases/tag/v4.7.2), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.3), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
