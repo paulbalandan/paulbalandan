@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: remove checkout step for base branch](https://github.com/codeigniter4/CodeIgniter4/pull/10194)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat(logger): Make dots-per-row configurable in the dot progress formatter](https://github.com/infection/infection/pull/3129)** on [infection/infection](https://github.com/infection/infection) (*today*)
 - **[fix: make frankenphp-worker.php template idempotent on watcher restart](https://github.com/codeigniter4/CodeIgniter4/pull/10191)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: fix Bitnami link](https://github.com/codeigniter4/CodeIgniter4/pull/10190)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: restore deep dot-notation traversal in `Language::getLine()`](https://github.com/codeigniter4/CodeIgniter4/pull/10189)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: improve UX on `key:generate`](https://github.com/codeigniter4/CodeIgniter4/pull/10181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: improve UX in `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10178)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[feat: add `AbstractCommand::callSilently()`](https://github.com/codeigniter4/CodeIgniter4/pull/10177)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[feat: add `key:rotate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10174)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[fix: suppress tput stderr leak when TERM is not present](https://github.com/codeigniter4/CodeIgniter4/pull/10167)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
