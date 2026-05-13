@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: Add --dots-per-row CLI option](https://github.com/infection/site/pull/298)** on [infection/site](https://github.com/infection/site) (*today*)
 - **[chore: remove checkout step for base branch](https://github.com/codeigniter4/CodeIgniter4/pull/10194)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat(logger): Make dots-per-row configurable in the dot progress formatter](https://github.com/infection/infection/pull/3129)** on [infection/infection](https://github.com/infection/infection) (*1 day ago*)
 - **[fix: make frankenphp-worker.php template idempotent on watcher restart](https://github.com/codeigniter4/CodeIgniter4/pull/10191)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: harden regex matching on `key:generate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10183)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: improve UX on `key:generate`](https://github.com/codeigniter4/CodeIgniter4/pull/10181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: improve UX in `logs:clear` command](https://github.com/codeigniter4/CodeIgniter4/pull/10178)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: add `AbstractCommand::callSilently()`](https://github.com/codeigniter4/CodeIgniter4/pull/10177)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
