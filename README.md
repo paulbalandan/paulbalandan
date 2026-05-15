@@ -26,12 +26,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.2), *3 days ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.1.1](https://github.com/NexusPHP/assert/releases/tag/v1.1.1), *4 days ago*) - Chainable type-safety assertions library.
 - **[infection/infection](https://github.com/infection/infection)** ([0.32.7](https://github.com/infection/infection/releases/tag/0.32.7), *3 weeks ago*) - PHP Mutation Testing library
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.2](https://github.com/codeigniter4/translations/releases/tag/v4.7.2), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.3](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.3), *4 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.1), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.2), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.3](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.3), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *1 month ago*) - Prevent merge commits in pull requests.
