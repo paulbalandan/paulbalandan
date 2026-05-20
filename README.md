@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[infection/infection](https://github.com/infection/infection)** ([0.33.1](https://github.com/infection/infection/releases/tag/0.33.1), *2 days ago*) - PHP Mutation Testing library
+- **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *today*) - PHP Mutation Testing library
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.2), *1 week ago*) - A set of custom fixers for PHP CS Fixer
