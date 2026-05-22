@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
 - **[infection/site](https://github.com/infection/site)** - Documentation for Infection - PHP Mutation Testing Framework (*1 week ago*)
 - **[infection/infection](https://github.com/infection/infection)** - PHP Mutation Testing library (*1 week ago*)
@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *today*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *2 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -35,10 +36,12 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.2), *1 month ago*) - Official Coding Standards for CodeIgniter
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.3](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.3), *1 month ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** ([v2.4.1](https://github.com/NexusPHP/no-merge-commits/releases/tag/v2.4.1), *1 month ago*) - Prevent merge commits in pull requests.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.2](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.2), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: add changelog and upgrade for v4.7.4](https://github.com/codeigniter4/CodeIgniter4/pull/10230)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[4.7.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10229)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[Prep for 4.7.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/10227)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: escape `--host` option in `serve` command](https://github.com/codeigniter4/CodeIgniter4/pull/10203)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: Add --dots-per-row CLI option](https://github.com/infection/site/pull/298)** on [infection/site](https://github.com/infection/site) (*1 week ago*)
 - **[chore: remove checkout step for base branch](https://github.com/codeigniter4/CodeIgniter4/pull/10194)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: make frankenphp-worker.php template idempotent on watcher restart](https://github.com/codeigniter4/CodeIgniter4/pull/10191)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: fix Bitnami link](https://github.com/codeigniter4/CodeIgniter4/pull/10190)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: restore deep dot-notation traversal in `Language::getLine()`](https://github.com/codeigniter4/CodeIgniter4/pull/10189)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: improve UX on `cache:clear`, `cache:info`, and `debugbar:clear` commands](https://github.com/codeigniter4/CodeIgniter4/pull/10184)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: harden regex matching on `key:generate` command](https://github.com/codeigniter4/CodeIgniter4/pull/10183)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: improve UX on `key:generate`](https://github.com/codeigniter4/CodeIgniter4/pull/10181)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
