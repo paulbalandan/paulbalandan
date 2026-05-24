@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.1.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.1.0), *1 day ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.2.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.2.0), *today*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *4 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
