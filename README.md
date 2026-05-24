@@ -14,7 +14,7 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[infection/site](https://github.com/infection/site)** - Documentation for Infection - PHP Mutation Testing Framework (*1 week ago*)
 - **[infection/infection](https://github.com/infection/infection)** - PHP Mutation Testing library (*1 week ago*)
@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.1.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.1.0), *today*) - PHP SDK for the MCP specification
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 day ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *3 days ago*) - PHP Mutation Testing library
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.1.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.1.0), *1 day ago*) - PHP SDK for the MCP specification
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *4 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.2), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.2), *1 week ago*) - A set of custom fixers for PHP CS Fixer
@@ -39,9 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[docs: add changelog and upgrade for v4.7.4](https://github.com/codeigniter4/CodeIgniter4/pull/10230)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[4.7.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10229)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Prep for 4.7.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/10227)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[docs: add changelog and upgrade for v4.7.4](https://github.com/codeigniter4/CodeIgniter4/pull/10230)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[4.7.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10229)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[Prep for 4.7.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/10227)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[fix: escape `--host` option in `serve` command](https://github.com/codeigniter4/CodeIgniter4/pull/10203)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: Add --dots-per-row CLI option](https://github.com/infection/site/pull/298)** on [infection/site](https://github.com/infection/site) (*1 week ago*)
 - **[chore: remove checkout step for base branch](https://github.com/codeigniter4/CodeIgniter4/pull/10194)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
