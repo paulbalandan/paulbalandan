@@ -20,8 +20,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*1 day ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[infection/site](https://github.com/infection/site)** - Documentation for Infection - PHP Mutation Testing Framework (*2 weeks ago*)
 - **[infection/infection](https://github.com/infection/infection)** - PHP Mutation Testing library (*2 weeks ago*)
+- **[infection/site](https://github.com/infection/site)** - Documentation for Infection - PHP Mutation Testing Framework (*2 weeks ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/16)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
+- **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/15)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
+- **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/14)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
+- **[Add dependabot.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/13)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
+- **[Set up Dependabot for GitHub Actions updates](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/12)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*today*)
 - **[docs: add changelog and upgrade for v4.7.4](https://github.com/codeigniter4/CodeIgniter4/pull/10230)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[4.7.3 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10229)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[Prep for 4.7.3 release](https://github.com/codeigniter4/CodeIgniter4/pull/10227)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[fix: escape `--host` option in `serve` command](https://github.com/codeigniter4/CodeIgniter4/pull/10203)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[docs: Add --dots-per-row CLI option](https://github.com/infection/site/pull/298)** on [infection/site](https://github.com/infection/site) (*2 weeks ago*)
-- **[chore: remove checkout step for base branch](https://github.com/codeigniter4/CodeIgniter4/pull/10194)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[feat(logger): Make dots-per-row configurable in the dot progress formatter](https://github.com/infection/infection/pull/3129)** on [infection/infection](https://github.com/infection/infection) (*2 weeks ago*)
-- **[fix: make frankenphp-worker.php template idempotent on watcher restart](https://github.com/codeigniter4/CodeIgniter4/pull/10191)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[docs: fix Bitnami link](https://github.com/codeigniter4/CodeIgniter4/pull/10190)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[fix: restore deep dot-notation traversal in `Language::getLine()`](https://github.com/codeigniter4/CodeIgniter4/pull/10189)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
