@@ -13,21 +13,21 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*today*)
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*today*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*today*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*today*)
-- **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*2 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*2 days ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*4 days ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*4 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
-- **[infection/infection](https://github.com/infection/infection)** - PHP Mutation Testing library (*2 weeks ago*)
+- **[infection/site](https://github.com/infection/site)** - Documentation for Infection - PHP Mutation Testing Framework (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.4.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.4.0), *today*) - PHP SDK for the MCP specification
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.3), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.3.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.3.0), *5 days ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *1 week ago*) - PHP Mutation Testing library
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
