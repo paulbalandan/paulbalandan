@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.4.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.4.0), *2 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *today*) - PHP SDK for the MCP specification
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.3), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *1 week ago*) - PHP Mutation Testing library
