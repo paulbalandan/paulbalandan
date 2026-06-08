@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: migrate `worker:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10290)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: add support for command name aliases](https://github.com/codeigniter4/CodeIgniter4/pull/10289)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: display default values for options in `spark help`](https://github.com/codeigniter4/CodeIgniter4/pull/10288)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: migrate `db:table` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10287)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `db:seed` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10286)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `migrate` and `migrate:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: migrate `db:create` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: resolve spark routes filters for custom placeholders](https://github.com/codeigniter4/CodeIgniter4/pull/10263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/16)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
 - **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/15)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/14)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[Add dependabot.yml](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/13)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[Set up Dependabot for GitHub Actions updates](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/12)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*1 week ago*)
-- **[docs: add changelog and upgrade for v4.7.4](https://github.com/codeigniter4/CodeIgniter4/pull/10230)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
