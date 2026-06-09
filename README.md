@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.4), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.5), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *2 weeks ago*) - PHP Mutation Testing library
@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@trafficinc](https://github.com/trafficinc)
 - [@Richin](https://github.com/Richin)
 - [@emleonstz](https://github.com/emleonstz)
 - [@0RuiAlvel0](https://github.com/0RuiAlvel0)
 - [@taco-greco](https://github.com/taco-greco)
-- [@waterlines](https://github.com/waterlines)
 
 ### 📫 You can reach me here
 
