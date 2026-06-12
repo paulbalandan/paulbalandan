@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: skip already-translated keys in `spark lang:find`](https://github.com/codeigniter4/CodeIgniter4/pull/10308)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: preserve enclosing stream filter when using `MockInputOutput`](https://github.com/codeigniter4/CodeIgniter4/pull/10307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: migrate `lang:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/812)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
 - **[refactor: migrate `worker:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10290)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[feat: add support for command name aliases](https://github.com/codeigniter4/CodeIgniter4/pull/10289)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `db:table` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10287)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: migrate `db:seed` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10286)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: migrate `migrate` and `migrate:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: migrate `db:create` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10264)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[feat: resolve spark routes filters for custom placeholders](https://github.com/codeigniter4/CodeIgniter4/pull/10263)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[Add Dependabot configuration for GitHub Actions](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d/pull/16)** on [paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
