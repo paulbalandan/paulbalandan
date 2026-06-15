@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.0.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.0.0), *today*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *2 weeks ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: bump to phpstan-codeigniter v2.1](https://github.com/codeigniter4/CodeIgniter4/pull/10312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: skip already-translated keys in `spark lang:find`](https://github.com/codeigniter4/CodeIgniter4/pull/10308)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: preserve enclosing stream filter when using `MockInputOutput`](https://github.com/codeigniter4/CodeIgniter4/pull/10307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `lang:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: display default values for options in `spark help`](https://github.com/codeigniter4/CodeIgniter4/pull/10288)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: migrate `db:table` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10287)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: migrate `db:seed` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10286)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: migrate `migrate` and `migrate:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10265)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
