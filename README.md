@@ -14,20 +14,20 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 day ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*2 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*1 day ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*3 days ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*2 weeks ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
-- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*2 weeks ago*)
+- **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** - Official Coding Standards for CodeIgniter (*3 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *today*) - CodeIgniter extensions and rules for PHPStan
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *1 day ago*) - CodeIgniter extensions and rules for PHPStan
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *2 weeks ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.33.2](https://github.com/infection/infection/releases/tag/0.33.2), *3 weeks ago*) - PHP Mutation Testing library
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: bump to phpstan-codeigniter v2.1](https://github.com/codeigniter4/CodeIgniter4/pull/10312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[fix: skip already-translated keys in `spark lang:find`](https://github.com/codeigniter4/CodeIgniter4/pull/10308)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[fix: preserve enclosing stream filter when using `MockInputOutput`](https://github.com/codeigniter4/CodeIgniter4/pull/10307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: migrate `lang:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/812)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
+- **[refactor: bump to phpstan-codeigniter v2.1](https://github.com/codeigniter4/CodeIgniter4/pull/10312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[fix: skip already-translated keys in `spark lang:find`](https://github.com/codeigniter4/CodeIgniter4/pull/10308)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[fix: preserve enclosing stream filter when using `MockInputOutput`](https://github.com/codeigniter4/CodeIgniter4/pull/10307)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: migrate `lang:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10306)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/812)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
 - **[refactor: migrate `worker:*` commands as modern commands](https://github.com/codeigniter4/CodeIgniter4/pull/10290)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: add support for command name aliases](https://github.com/codeigniter4/CodeIgniter4/pull/10289)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: display default values for options in `spark help`](https://github.com/codeigniter4/CodeIgniter4/pull/10288)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
