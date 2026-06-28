@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[infection/infection](https://github.com/infection/infection)** ([0.34.0](https://github.com/infection/infection/releases/tag/0.34.0), *today*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[infection/infection](https://github.com/infection/infection)** ([0.33.3](https://github.com/infection/infection/releases/tag/0.33.3), *1 week ago*) - PHP Mutation Testing library
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *3 weeks ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
