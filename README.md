@@ -39,7 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Narrow explode() when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
+- **[Narrow `explode()` when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*today*)
 - **[docs: note that `command()` does not catch exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/10360)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `filter:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `env` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10356)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
