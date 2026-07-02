@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[Remove incorrect #[Deprecated] from ReflectionType::__toString() (undeprecated since PHP 8.0)](https://github.com/JetBrains/phpstorm-stubs/pull/1904)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*today*)
 - **[Narrow `explode()` when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
 - **[docs: note that `command()` does not catch exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/10360)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `filter:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: do not use direct access and unset on `$_COOKIE` and `$_POST`](https://github.com/codeigniter4/CodeIgniter4/pull/10353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: replace type `mixed` with more specific types](https://github.com/codeigniter4/CodeIgniter4/pull/10345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/820)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
-- **[refactor: bump to phpstan-codeigniter v2.1](https://github.com/codeigniter4/CodeIgniter4/pull/10312)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
