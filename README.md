@@ -32,10 +32,10 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *1 month ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers)** ([v3.37.2](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.37.2), *1 month ago*) - A set of custom fixers for PHP CS Fixer
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.1.1](https://github.com/NexusPHP/assert/releases/tag/v1.1.1), *1 month ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.2](https://github.com/codeigniter4/translations/releases/tag/v4.7.2), *2 months ago*) - System message translations for CodeIgniter4
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.2), *2 months ago*) - Official Coding Standards for CodeIgniter
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** ([v2.4.3](https://github.com/NexusPHP/tachycardia/releases/tag/v2.4.3), *2 months ago*) - :runner: Detects slow running tests in your PHPUnit-driven test suites.
 
 ### 🔨 My recent Pull Requests
 
