@@ -13,13 +13,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*today*)
-- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*4 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*5 days ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*6 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
+- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 day ago*)
+- **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*6 days ago*)
+- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*1 month ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 month ago*)
@@ -28,7 +28,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[infection/infection](https://github.com/infection/infection)** ([0.34.0](https://github.com/infection/infection/releases/tag/0.34.0), *1 week ago*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *2 weeks ago*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *3 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** ([v0.5.0](https://github.com/NexusPHP/mcp-sdk/releases/tag/v0.5.0), *1 month ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.3](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.3), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *1 month ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[Narrow `explode()` result for limit 0, 1, and -1](https://github.com/phpstan/phpstan-src/pull/5993)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 day ago*)
-- **[Remove incorrect #[Deprecated] from ReflectionType::__toString() (undeprecated since PHP 8.0)](https://github.com/JetBrains/phpstorm-stubs/pull/1904)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*3 days ago*)
-- **[Narrow `explode()` when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
-- **[docs: note that `command()` does not catch exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/10360)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: migrate `filter:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: migrate `env` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10356)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: migrate `config:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: add precise `array` phpdocs for `CLI`](https://github.com/codeigniter4/CodeIgniter4/pull/10354)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: do not use direct access and unset on `$_COOKIE` and `$_POST`](https://github.com/codeigniter4/CodeIgniter4/pull/10353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: replace type `mixed` with more specific types](https://github.com/codeigniter4/CodeIgniter4/pull/10345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[Narrow `explode()` result for limit 0, 1, and -1](https://github.com/phpstan/phpstan-src/pull/5993)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*2 days ago*)
+- **[Remove incorrect #[Deprecated] from ReflectionType::__toString() (undeprecated since PHP 8.0)](https://github.com/JetBrains/phpstorm-stubs/pull/1904)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*4 days ago*)
+- **[Narrow `explode()` when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*5 days ago*)
+- **[docs: note that `command()` does not catch exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/10360)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: migrate `filter:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: migrate `env` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10356)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: migrate `config:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10355)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: add precise `array` phpdocs for `CLI`](https://github.com/codeigniter4/CodeIgniter4/pull/10354)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: do not use direct access and unset on `$_COOKIE` and `$_POST`](https://github.com/codeigniter4/CodeIgniter4/pull/10353)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: replace type `mixed` with more specific types](https://github.com/codeigniter4/CodeIgniter4/pull/10345)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
