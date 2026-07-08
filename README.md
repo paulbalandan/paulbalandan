@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: add script to sync release branches](https://github.com/codeigniter4/CodeIgniter4/pull/10394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: add &#34;Verify Release&#34; workflow to automate post-release checks](https://github.com/codeigniter4/CodeIgniter4/pull/10393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: automate &#34;Config&#34; and &#34;All Changes&#34; sections of the upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/10392)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: add script to audit changelog labels on merged PRs](https://github.com/codeigniter4/CodeIgniter4/pull/10391)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: automate CHANGELOG.md generation for releases](https://github.com/codeigniter4/CodeIgniter4/pull/10390)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: remove legacy docbot and apibot scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: update release docs and remove legacy release scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10382)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: add changelog and upgrade for v4.7.5](https://github.com/codeigniter4/CodeIgniter4/pull/10381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[4.7.4 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[Prep for 4.7.4 release](https://github.com/codeigniter4/CodeIgniter4/pull/10379)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Narrow `explode()` result for limit 0, 1, and -1](https://github.com/phpstan/phpstan-src/pull/5993)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*4 days ago*)
-- **[Remove incorrect #[Deprecated] from ReflectionType::__toString() (undeprecated since PHP 8.0)](https://github.com/JetBrains/phpstorm-stubs/pull/1904)** on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (*6 days ago*)
-- **[Narrow `explode()` when the delimiter is a known substring](https://github.com/phpstan/phpstan-src/pull/5959)** on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (*1 week ago*)
-- **[docs: note that `command()` does not catch exceptions](https://github.com/codeigniter4/CodeIgniter4/pull/10360)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: migrate `filter:check` as a modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10358)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
