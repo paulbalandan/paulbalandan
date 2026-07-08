@@ -14,11 +14,11 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*3 days ago*)
 - **[NexusPHP/mcp-sdk](https://github.com/NexusPHP/mcp-sdk)** - PHP SDK for the MCP specification (*1 week ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 week ago*)
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 week ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*2 weeks ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*3 weeks ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*1 month ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: use `array-key` as the benevolent union of `int|string` in array shapes](https://github.com/codeigniter4/CodeIgniter4/pull/10396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add script to sync release branches](https://github.com/codeigniter4/CodeIgniter4/pull/10394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add &#34;Verify Release&#34; workflow to automate post-release checks](https://github.com/codeigniter4/CodeIgniter4/pull/10393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: automate &#34;Config&#34; and &#34;All Changes&#34; sections of the upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/10392)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: update release docs and remove legacy release scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10382)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: add changelog and upgrade for v4.7.5](https://github.com/codeigniter4/CodeIgniter4/pull/10381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[4.7.4 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[Prep for 4.7.4 release](https://github.com/codeigniter4/CodeIgniter4/pull/10379)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
