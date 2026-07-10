@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@Batool110313](https://github.com/Batool110313)
 - [@chrisipanaque](https://github.com/chrisipanaque)
 - [@trafficinc](https://github.com/trafficinc)
 - [@Richin](https://github.com/Richin)
 - [@emleonstz](https://github.com/emleonstz)
-- [@0RuiAlvel0](https://github.com/0RuiAlvel0)
 
 ### 📫 You can reach me here
 
