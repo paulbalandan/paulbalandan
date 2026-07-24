@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.0](https://github.com/codeigniter4/shield/releases/tag/v1.4.0), *today*) - Authentication and Authorization for CodeIgniter 4
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.0](https://github.com/codeigniter4/shield/releases/tag/v1.4.0), *1 day ago*) - Authentication and Authorization for CodeIgniter 4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[infection/infection](https://github.com/infection/infection)** ([0.34.0](https://github.com/infection/infection/releases/tag/0.34.0), *3 weeks ago*) - PHP Mutation Testing library
