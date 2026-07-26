@@ -48,7 +48,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: remove legacy docbot and apibot scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[chore: update release docs and remove legacy release scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10382)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 - **[docs: add changelog and upgrade for v4.7.5](https://github.com/codeigniter4/CodeIgniter4/pull/10381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
-- **[4.7.4 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10380)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
