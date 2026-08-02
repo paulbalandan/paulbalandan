@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.2.0](https://github.com/NexusPHP/assert/releases/tag/v1.2.0), *today*) - Chainable type-safety assertions library.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[infection/infection](https://github.com/infection/infection)** ([0.34.1](https://github.com/infection/infection/releases/tag/0.34.1), *5 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.5.0](https://github.com/NexusPHP/mcp/releases/tag/v0.5.0), *1 week ago*) - PHP SDK for the MCP specification
@@ -33,7 +34,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *2 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.1.1](https://github.com/NexusPHP/assert/releases/tag/v1.1.1), *2 months ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.2](https://github.com/codeigniter4/translations/releases/tag/v4.7.2), *3 months ago*) - System message translations for CodeIgniter4
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.2), *3 months ago*) - Official Coding Standards for CodeIgniter
 
