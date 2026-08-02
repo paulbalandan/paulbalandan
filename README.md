@@ -13,6 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
@@ -22,7 +23,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
 - **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*2 months ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
