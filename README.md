@@ -47,7 +47,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: automate CHANGELOG.md generation for releases](https://github.com/codeigniter4/CodeIgniter4/pull/10390)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[chore: remove legacy docbot and apibot scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[chore: update release docs and remove legacy release scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10382)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[docs: add changelog and upgrade for v4.7.5](https://github.com/codeigniter4/CodeIgniter4/pull/10381)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
