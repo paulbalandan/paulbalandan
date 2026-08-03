@@ -26,9 +26,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.2.0](https://github.com/NexusPHP/assert/releases/tag/v1.2.0), *today*) - Chainable type-safety assertions library.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[infection/infection](https://github.com/infection/infection)** ([0.34.1](https://github.com/infection/infection/releases/tag/0.34.1), *5 days ago*) - PHP Mutation Testing library
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.2.0](https://github.com/NexusPHP/assert/releases/tag/v1.2.0), *1 day ago*) - Chainable type-safety assertions library.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[infection/infection](https://github.com/infection/infection)** ([0.34.1](https://github.com/infection/infection/releases/tag/0.34.1), *6 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.5.0](https://github.com/NexusPHP/mcp/releases/tag/v0.5.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.0](https://github.com/codeigniter4/shield/releases/tag/v1.4.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
