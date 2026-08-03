@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*4 weeks ago*)
@@ -46,7 +46,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add script to audit changelog labels on merged PRs](https://github.com/codeigniter4/CodeIgniter4/pull/10391)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[chore: automate CHANGELOG.md generation for releases](https://github.com/codeigniter4/CodeIgniter4/pull/10390)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 - **[chore: remove legacy docbot and apibot scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10383)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
-- **[chore: update release docs and remove legacy release scripts](https://github.com/codeigniter4/CodeIgniter4/pull/10382)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
