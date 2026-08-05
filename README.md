@@ -13,8 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 weeks ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
@@ -22,12 +23,11 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 month ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 month ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*1 month ago*)
-- **[paulbalandan/b40d520f57f086f2e58d1f21d093935d](https://github.com/paulbalandan/b40d520f57f086f2e58d1f21d093935d)** - Test repository. Hashed value of my Github username. Nothing much to see here. (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.3.0](https://github.com/NexusPHP/assert/releases/tag/v1.3.0), *today*) - Chainable type-safety assertions library.
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.6.0](https://github.com/NexusPHP/mcp/releases/tag/v0.6.0), *2 days ago*) - PHP SDK for the MCP specification
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.2.0](https://github.com/NexusPHP/assert/releases/tag/v1.2.0), *3 days ago*) - Chainable type-safety assertions library.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[infection/infection](https://github.com/infection/infection)** ([0.34.1](https://github.com/infection/infection/releases/tag/0.34.1), *1 week ago*) - PHP Mutation Testing library
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.0](https://github.com/codeigniter4/shield/releases/tag/v1.4.0), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
