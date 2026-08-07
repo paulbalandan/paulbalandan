@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.9.0](https://github.com/NexusPHP/mcp/releases/tag/v0.9.0), *1 day ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.10.0](https://github.com/NexusPHP/mcp/releases/tag/v0.10.0), *today*) - PHP SDK for the MCP specification
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *2 days ago*) - System message translations for CodeIgniter4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.3.0](https://github.com/NexusPHP/assert/releases/tag/v1.3.0), *2 days ago*) - Chainable type-safety assertions library.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
