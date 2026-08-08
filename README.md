@@ -39,13 +39,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: add generics to `Entity` and `DataCaster` casts](https://github.com/codeigniter4/CodeIgniter4/pull/10442)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: cleanup the Images library](https://github.com/codeigniter4/CodeIgniter4/pull/10441)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `method.alreadyNarrowedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10440)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix uses of `empty()` calls](https://github.com/codeigniter4/CodeIgniter4/pull/10439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/848)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*3 days ago*)
 - **[refactor: use `array-key` as the benevolent union of `int|string` in array shapes](https://github.com/codeigniter4/CodeIgniter4/pull/10396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 - **[chore: add script to sync release branches](https://github.com/codeigniter4/CodeIgniter4/pull/10394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[chore: add &#34;Verify Release&#34; workflow to automate post-release checks](https://github.com/codeigniter4/CodeIgniter4/pull/10393)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[chore: automate &#34;Config&#34; and &#34;All Changes&#34; sections of the upgrade guide](https://github.com/codeigniter4/CodeIgniter4/pull/10392)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
