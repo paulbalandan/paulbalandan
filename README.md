@@ -39,13 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix `missingType.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10447)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix `ternary.shortNotAllowed` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10445)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: add generics to `Entity` and `DataCaster` casts](https://github.com/codeigniter4/CodeIgniter4/pull/10442)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: cleanup the Images library](https://github.com/codeigniter4/CodeIgniter4/pull/10441)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: fix `method.alreadyNarrowedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10440)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[refactor: fix uses of `empty()` calls](https://github.com/codeigniter4/CodeIgniter4/pull/10439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/848)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
-- **[refactor: use `array-key` as the benevolent union of `int|string` in array shapes](https://github.com/codeigniter4/CodeIgniter4/pull/10396)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
-- **[chore: add script to sync release branches](https://github.com/codeigniter4/CodeIgniter4/pull/10394)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 month ago*)
 
 ### 👯 Check out some of my recent followers
 
