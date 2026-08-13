@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*5 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: migrate `publish` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10456)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `phpini:check` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10455)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `optimize` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10454)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `namespaces` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10453)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: add generics to `Forge`, `BaseBuilder` and `BasePreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/10449)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `missingType.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10447)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `ternary.shortNotAllowed` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10445)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
