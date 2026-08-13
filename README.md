@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `property.nonObject` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10451)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: add generics to `Forge`, `BaseBuilder` and `BasePreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/10449)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: cleanup the Images library](https://github.com/codeigniter4/CodeIgniter4/pull/10441)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: fix `method.alreadyNarrowedType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10440)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: fix uses of `empty()` calls](https://github.com/codeigniter4/CodeIgniter4/pull/10439)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/848)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
