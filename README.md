@@ -15,7 +15,7 @@ knowledge, I am continuously learning. The rest is history.
 
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 day ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -26,29 +26,29 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.12.0](https://github.com/NexusPHP/mcp/releases/tag/v0.12.0), *1 day ago*) - PHP SDK for the MCP specification
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *5 days ago*) - Chainable type-safety assertions library.
-- **[infection/infection](https://github.com/infection/infection)** ([0.34.2](https://github.com/infection/infection/releases/tag/0.34.2), *6 days ago*) - PHP Mutation Testing library
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.12.0](https://github.com/NexusPHP/mcp/releases/tag/v0.12.0), *2 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *6 days ago*) - Chainable type-safety assertions library.
+- **[infection/infection](https://github.com/infection/infection)** ([0.34.2](https://github.com/infection/infection/releases/tag/0.34.2), *1 week ago*) - PHP Mutation Testing library
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *1 week ago*) - System message translations for CodeIgniter4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.0](https://github.com/codeigniter4/shield/releases/tag/v1.4.0), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *1 month ago*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *2 months ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.28.5](https://github.com/NexusPHP/cs-config/releases/tag/v3.28.5), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[CodeIgniter/coding-standard](https://github.com/CodeIgniter/coding-standard)** ([v1.9.2](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.9.2), *4 months ago*) - Official Coding Standards for CodeIgniter
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: migrate `publish` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10456)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: migrate `phpini:check` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10455)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: migrate `optimize` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10454)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: migrate `namespaces` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10453)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix phpstan errors in `IncomingRequestTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10452)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix `property.nonObject` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10451)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: add generics to `Forge`, `BaseBuilder` and `BasePreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/10449)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: migrate `publish` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10456)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: migrate `phpini:check` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10455)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: migrate `optimize` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10454)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: migrate `namespaces` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10453)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: fix phpstan errors in `IncomingRequestTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10452)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: fix `property.nonObject` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10451)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: add generics to `Forge`, `BaseBuilder` and `BasePreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/10449)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
