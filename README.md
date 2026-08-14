@@ -22,7 +22,7 @@ knowledge, I am continuously learning. The rest is history.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
 - **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 month ago*)
-- **[NexusPHP/framework](https://github.com/NexusPHP/framework)** - An opinionated framework for building performant and scalable modern PHP web applications. (*1 month ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 months ago*)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Router`](https://github.com/codeigniter4/CodeIgniter4/pull/10460)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix phpstan errors in `Helpers`](https://github.com/codeigniter4/CodeIgniter4/pull/10459)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `publish` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10456)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `phpini:check` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10455)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix phpstan errors in `IncomingRequestTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10452)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `property.nonObject` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10451)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: add generics to `Forge`, `BaseBuilder` and `BasePreparedQuery`](https://github.com/codeigniter4/CodeIgniter4/pull/10449)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix `return.type` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10448)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
