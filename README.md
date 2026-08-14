@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: clear out phpstan errors in `HTTP` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: clear out phpstan errors in `Validation` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Router`](https://github.com/codeigniter4/CodeIgniter4/pull/10460)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Helpers`](https://github.com/codeigniter4/CodeIgniter4/pull/10459)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `optimize` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10454)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: migrate `namespaces` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10453)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `IncomingRequestTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10452)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `property.nonObject` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10451)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix `nullCoalesce.property` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10450)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
