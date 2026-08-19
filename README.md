@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Forge`](https://github.com/codeigniter4/CodeIgniter4/pull/10470)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: apply latest changes of `binary_operator_spaces` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/10468)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `BaseBuilder`](https://github.com/codeigniter4/CodeIgniter4/pull/10466)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/854)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: clear out phpstan errors in `Validation` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: fix phpstan errors in `Router`](https://github.com/codeigniter4/CodeIgniter4/pull/10460)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: fix phpstan errors in `Helpers`](https://github.com/codeigniter4/CodeIgniter4/pull/10459)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: migrate `routes` command as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10457)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
