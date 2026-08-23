@@ -14,9 +14,9 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*5 days ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *today*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.15.0](https://github.com/NexusPHP/mcp/releases/tag/v0.15.0), *2 days ago*) - PHP SDK for the MCP specification
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), *3 days ago*) - PHP Mutation Testing library
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *4 days ago*) - Authentication and Authorization for CodeIgniter 4
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *1 day ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.15.0](https://github.com/NexusPHP/mcp/releases/tag/v0.15.0), *3 days ago*) - PHP SDK for the MCP specification
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), *4 days ago*) - PHP Mutation Testing library
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *5 days ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *2 weeks ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *2 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: fix phpstan errors in `Forge`](https://github.com/codeigniter4/CodeIgniter4/pull/10470)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[style: apply latest changes of `binary_operator_spaces` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/10468)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: fix phpstan errors in `BaseBuilder`](https://github.com/codeigniter4/CodeIgniter4/pull/10466)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/854)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
-- **[refactor: do not override `Exception`&#39;s `$code` in `RedirectException`](https://github.com/codeigniter4/CodeIgniter4/pull/10465)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: fix phpstan errors in `Forge`](https://github.com/codeigniter4/CodeIgniter4/pull/10470)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[style: apply latest changes of `binary_operator_spaces` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/10468)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
+- **[refactor: fix phpstan errors in `BaseBuilder`](https://github.com/codeigniter4/CodeIgniter4/pull/10466)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/854)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
+- **[refactor: do not override `Exception`&#39;s `$code` in `RedirectException`](https://github.com/codeigniter4/CodeIgniter4/pull/10465)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix the latent LSP violations in `HTTP`](https://github.com/codeigniter4/CodeIgniter4/pull/10463)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: clear out phpstan errors in `HTTP` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: clear out phpstan errors in `Validation` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
