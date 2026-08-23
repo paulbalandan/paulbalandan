@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Config`, `Database`, `Query`, `MigrationRunner`, and `SQLite3\Table`](https://github.com/codeigniter4/CodeIgniter4/pull/10477)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `PreparedQuery` and `Utils`](https://github.com/codeigniter4/CodeIgniter4/pull/10476)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/10475)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Result`](https://github.com/codeigniter4/CodeIgniter4/pull/10473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/854)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
 - **[refactor: do not override `Exception`&#39;s `$code` in `RedirectException`](https://github.com/codeigniter4/CodeIgniter4/pull/10465)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix the latent LSP violations in `HTTP`](https://github.com/codeigniter4/CodeIgniter4/pull/10463)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: clear out phpstan errors in `HTTP` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
