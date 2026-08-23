@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/10475)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Result`](https://github.com/codeigniter4/CodeIgniter4/pull/10473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Forge`](https://github.com/codeigniter4/CodeIgniter4/pull/10470)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[style: apply latest changes of `binary_operator_spaces` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/10468)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix the latent LSP violations in `HTTP`](https://github.com/codeigniter4/CodeIgniter4/pull/10463)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: clear out phpstan errors in `HTTP` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10462)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: clear out phpstan errors in `Validation` source and tests](https://github.com/codeigniter4/CodeIgniter4/pull/10461)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: fix phpstan errors in `Router`](https://github.com/codeigniter4/CodeIgniter4/pull/10460)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
