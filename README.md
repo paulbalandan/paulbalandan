@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Filters`](https://github.com/codeigniter4/CodeIgniter4/pull/10485)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix phpstan errors in `View`](https://github.com/codeigniter4/CodeIgniter4/pull/10484)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Commands`](https://github.com/codeigniter4/CodeIgniter4/pull/10483)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `Config`](https://github.com/codeigniter4/CodeIgniter4/pull/10482)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix remaining errors in `Helpers`&#39; tests](https://github.com/codeigniter4/CodeIgniter4/pull/10481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix phpstan errors in `Debug`](https://github.com/codeigniter4/CodeIgniter4/pull/10478)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `Config`, `Database`, `Query`, `MigrationRunner`, and `SQLite3\Table`](https://github.com/codeigniter4/CodeIgniter4/pull/10477)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `PreparedQuery` and `Utils`](https://github.com/codeigniter4/CodeIgniter4/pull/10476)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/10475)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `Result`](https://github.com/codeigniter4/CodeIgniter4/pull/10473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
