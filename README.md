@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.22](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.22), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *2 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.15.0](https://github.com/NexusPHP/mcp/releases/tag/v0.15.0), *4 days ago*) - PHP SDK for the MCP specification
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), *5 days ago*) - PHP Mutation Testing library
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *6 days ago*) - Authentication and Authorization for CodeIgniter 4
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix phpstan errors in `Commands`](https://github.com/codeigniter4/CodeIgniter4/pull/10483)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix phpstan errors in `Config`](https://github.com/codeigniter4/CodeIgniter4/pull/10482)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix remaining errors in `Helpers`&#39; tests](https://github.com/codeigniter4/CodeIgniter4/pull/10481)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: widen `Response` body and `Formatter` data typing to `mixed`](https://github.com/codeigniter4/CodeIgniter4/pull/10480)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `Test`](https://github.com/codeigniter4/CodeIgniter4/pull/10479)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix phpstan errors in `PreparedQuery` and `Utils`](https://github.com/codeigniter4/CodeIgniter4/pull/10476)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `Connection`](https://github.com/codeigniter4/CodeIgniter4/pull/10475)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `Result`](https://github.com/codeigniter4/CodeIgniter4/pull/10473)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `Forge`](https://github.com/codeigniter4/CodeIgniter4/pull/10470)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[style: apply latest changes of `binary_operator_spaces` fixer](https://github.com/codeigniter4/CodeIgniter4/pull/10468)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
