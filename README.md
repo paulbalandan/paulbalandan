@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), *today*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.16.0](https://github.com/NexusPHP/mcp/releases/tag/v0.16.0), *3 days ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *5 days ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.2](https://github.com/infection/infection/releases/tag/0.35.2), *1 week ago*) - PHP Mutation Testing library
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *2 weeks ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *3 weeks ago*) - System message translations for CodeIgniter4
