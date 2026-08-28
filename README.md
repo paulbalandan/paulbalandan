@@ -13,19 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*today*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*4 days ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*4 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*6 days ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 month ago*)
-- **[phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)** - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (*1 month ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.0.0](https://github.com/NexusPHP/carson/releases/tag/v1.0.0), *today*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *today*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), *1 day ago*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -35,10 +36,12 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *2 weeks ago*) - Chainable type-safety assertions library.
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *3 weeks ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *1 month ago*) - Open Source PHP Framework (originally from EllisLab)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.1.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.1.0), *2 months ago*) - CodeIgniter extensions and rules for PHPStan
 
 ### 🔨 My recent Pull Requests
 
+- **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: `RedirectException` no longer defaults to a 302 status code](https://github.com/codeigniter4/CodeIgniter4/pull/10500)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix the remaining fixable `assign.propertyType` and `phpdoc.propertyType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10499)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix remaining not found methods](https://github.com/codeigniter4/CodeIgniter4/pull/10498)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix remaining missing iterable types](https://github.com/codeigniter4/CodeIgniter4/pull/10497)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix missing parameter types](https://github.com/codeigniter4/CodeIgniter4/pull/10496)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix phpstan errors in `DataConverter`](https://github.com/codeigniter4/CodeIgniter4/pull/10494)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix phpstan errors in `I18n`](https://github.com/codeigniter4/CodeIgniter4/pull/10493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix remaining phpstan errors in `Database`](https://github.com/codeigniter4/CodeIgniter4/pull/10492)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[style: fix native type ordering in lambda functions](https://github.com/codeigniter4/CodeIgniter4/pull/10491)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix iterable types in `Router` tests](https://github.com/codeigniter4/CodeIgniter4/pull/10488)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: fix iterable types in `Email`](https://github.com/codeigniter4/CodeIgniter4/pull/10487)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
