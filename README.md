@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: replace anonymous class with bound closure in `PropertiesTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: fix remaining `argument.type` and `method.childParameterType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10502)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: `RedirectException` no longer defaults to a 302 status code](https://github.com/codeigniter4/CodeIgniter4/pull/10500)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix the remaining fixable `assign.propertyType` and `phpdoc.propertyType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10499)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix missing parameter types](https://github.com/codeigniter4/CodeIgniter4/pull/10496)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `AutoReview`](https://github.com/codeigniter4/CodeIgniter4/pull/10495)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix phpstan errors in `DataConverter`](https://github.com/codeigniter4/CodeIgniter4/pull/10494)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `I18n`](https://github.com/codeigniter4/CodeIgniter4/pull/10493)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix remaining phpstan errors in `Database`](https://github.com/codeigniter4/CodeIgniter4/pull/10492)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
