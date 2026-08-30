@@ -13,12 +13,12 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
-- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*1 day ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*5 days ago*)
-- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*5 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
+- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*2 days ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*6 days ago*)
+- **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*6 days ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*1 week ago*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 weeks ago*)
@@ -26,11 +26,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.0.0](https://github.com/NexusPHP/carson/releases/tag/v1.0.0), *1 day ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
-- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *1 day ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), *2 days ago*) - PHP Mutation Testing library
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.16.0](https://github.com/NexusPHP/mcp/releases/tag/v0.16.0), *5 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.0.0](https://github.com/NexusPHP/carson/releases/tag/v1.0.0), *2 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 days ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), *3 days ago*) - PHP Mutation Testing library
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.16.0](https://github.com/NexusPHP/mcp/releases/tag/v0.16.0), *6 days ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *1 week ago*) - Authentication and Authorization for CodeIgniter 4
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.4.0](https://github.com/NexusPHP/assert/releases/tag/v1.4.0), *3 weeks ago*) - Chainable type-safety assertions library.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: replace anonymous class with bound closure in `PropertiesTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[refactor: fix remaining `argument.type` and `method.childParameterType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10502)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: `RedirectException` no longer defaults to a 302 status code](https://github.com/codeigniter4/CodeIgniter4/pull/10500)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix the remaining fixable `assign.propertyType` and `phpdoc.propertyType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10499)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix remaining not found methods](https://github.com/codeigniter4/CodeIgniter4/pull/10498)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix remaining missing iterable types](https://github.com/codeigniter4/CodeIgniter4/pull/10497)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix missing parameter types](https://github.com/codeigniter4/CodeIgniter4/pull/10496)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `AutoReview`](https://github.com/codeigniter4/CodeIgniter4/pull/10495)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: fix phpstan errors in `DataConverter`](https://github.com/codeigniter4/CodeIgniter4/pull/10494)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: replace anonymous class with bound closure in `PropertiesTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[refactor: fix remaining `argument.type` and `method.childParameterType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10502)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[fix: `RedirectException` no longer defaults to a 302 status code](https://github.com/codeigniter4/CodeIgniter4/pull/10500)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix the remaining fixable `assign.propertyType` and `phpdoc.propertyType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10499)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix remaining not found methods](https://github.com/codeigniter4/CodeIgniter4/pull/10498)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix remaining missing iterable types](https://github.com/codeigniter4/CodeIgniter4/pull/10497)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix missing parameter types](https://github.com/codeigniter4/CodeIgniter4/pull/10496)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix phpstan errors in `AutoReview`](https://github.com/codeigniter4/CodeIgniter4/pull/10495)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: fix phpstan errors in `DataConverter`](https://github.com/codeigniter4/CodeIgniter4/pull/10494)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
