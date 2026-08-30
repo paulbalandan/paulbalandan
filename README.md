@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*2 days ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: pass prompt text to readline in `CLI::prompt()` so backspace does not erase it](https://github.com/codeigniter4/CodeIgniter4/pull/10507)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: bound phpstan&#39;s analysed PHP versions](https://github.com/codeigniter4/CodeIgniter4/pull/10505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: replace anonymous class with bound closure in `PropertiesTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10504)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix remaining `argument.type` and `method.childParameterType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10502)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix remaining not found methods](https://github.com/codeigniter4/CodeIgniter4/pull/10498)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: fix remaining missing iterable types](https://github.com/codeigniter4/CodeIgniter4/pull/10497)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[refactor: fix missing parameter types](https://github.com/codeigniter4/CodeIgniter4/pull/10496)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix phpstan errors in `AutoReview`](https://github.com/codeigniter4/CodeIgniter4/pull/10495)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: fix phpstan errors in `DataConverter`](https://github.com/codeigniter4/CodeIgniter4/pull/10494)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
