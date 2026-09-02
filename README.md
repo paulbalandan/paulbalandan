@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), *today*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.0.0](https://github.com/NexusPHP/carson/releases/tag/v1.0.0), *5 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *5 days ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.3](https://github.com/infection/infection/releases/tag/0.35.3), *6 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v0.16.0](https://github.com/NexusPHP/mcp/releases/tag/v0.16.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *1 week ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *2 weeks ago*) - Authentication and Authorization for CodeIgniter 4
