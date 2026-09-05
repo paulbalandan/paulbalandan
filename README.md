@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[style: rerun rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10525)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: add `AbstractGeneratorCommand` base class for modern generator commands](https://github.com/codeigniter4/CodeIgniter4/pull/10524)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix minor type inaccuracies found via PHPStan bleeding edge](https://github.com/codeigniter4/CodeIgniter4/pull/10522)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[fix: pass prompt text to readline in `CLI::prompt()` so backspace does not erase it](https://github.com/codeigniter4/CodeIgniter4/pull/10507)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[refactor: bound phpstan&#39;s analysed PHP versions](https://github.com/codeigniter4/CodeIgniter4/pull/10505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[style: fix rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10501)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: `RedirectException` no longer defaults to a 302 status code](https://github.com/codeigniter4/CodeIgniter4/pull/10500)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix the remaining fixable `assign.propertyType` and `phpdoc.propertyType` errors](https://github.com/codeigniter4/CodeIgniter4/pull/10499)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: fix remaining not found methods](https://github.com/codeigniter4/CodeIgniter4/pull/10498)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: fix remaining missing iterable types](https://github.com/codeigniter4/CodeIgniter4/pull/10497)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
