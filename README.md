@@ -16,21 +16,21 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*today*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*today*)
+- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*today*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*2 days ago*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*4 days ago*)
-- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*1 week ago*)
 - **[NexusPHP/tachycardia](https://github.com/NexusPHP/tachycardia)** - :runner: Detects slow running tests in your PHPUnit-driven test suites. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.3.0](https://github.com/NexusPHP/carson/releases/tag/v1.3.0), *2 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *4 days ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *4 days ago*) - Chainable type-safety assertions library.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), *6 days ago*) - PHP Mutation Testing library
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *1 week ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
