@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.4.1](https://github.com/NexusPHP/carson/releases/tag/v1.4.1), *today*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.4.2](https://github.com/NexusPHP/carson/releases/tag/v1.4.2), *today*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *1 week ago*) - Chainable type-safety assertions library.
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump Carson to v1.4.2 and re-check PR titles on push](https://github.com/codeigniter4/CodeIgniter4/pull/10553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: migrate `make:test` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10552)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `make:cell` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `make:model` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10550)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: correct what `make:migration --session` reads from `Config\Session`](https://github.com/codeigniter4/CodeIgniter4/pull/10549)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `make:migration` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10545)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `make:command` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10543)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: return an empty string when readline() reaches end-of-file](https://github.com/codeigniter4/CodeIgniter4/pull/10542)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: offer to run a suggested command when the typed name is not found](https://github.com/codeigniter4/CodeIgniter4/pull/10538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: migrate `make:controller` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
