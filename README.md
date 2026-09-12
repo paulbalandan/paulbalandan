@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: migrate `make:cell` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: migrate `make:model` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10550)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: correct what `make:migration --session` reads from `Config\Session`](https://github.com/codeigniter4/CodeIgniter4/pull/10549)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: replace labeler workflows with Carson&#39;s `auto-labeler` and `conflicts-notifier`](https://github.com/codeigniter4/CodeIgniter4/pull/10547)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: reject unsupported database drivers in `make:migration --session`](https://github.com/codeigniter4/CodeIgniter4/pull/10546)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: return an empty string when readline() reaches end-of-file](https://github.com/codeigniter4/CodeIgniter4/pull/10542)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: offer to run a suggested command when the typed name is not found](https://github.com/codeigniter4/CodeIgniter4/pull/10538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `make:controller` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: migrate `make:config` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10535)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[chore: replace PRLint with Carson&#39;s pr-title-linter](https://github.com/codeigniter4/CodeIgniter4/pull/10529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 
 ### 👯 Check out some of my recent followers
 
