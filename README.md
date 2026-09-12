@@ -13,39 +13,39 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*2 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*3 days ago*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*3 days ago*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*3 days ago*)
-- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*3 days ago*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*3 days ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*3 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*3 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*4 days ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*4 days ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*4 days ago*)
+- **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*4 days ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*4 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*4 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.4.0](https://github.com/NexusPHP/carson/releases/tag/v1.4.0), *3 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.4.0](https://github.com/NexusPHP/carson/releases/tag/v1.4.0), *4 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), *4 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *1 week ago*) - Chainable type-safety assertions library.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), *1 week ago*) - PHP Mutation Testing library
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 weeks ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *2 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *3 weeks ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *3 weeks ago*) - Authentication and Authorization for CodeIgniter 4
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.4](https://github.com/codeigniter4/translations/releases/tag/v4.7.4), *1 month ago*) - System message translations for CodeIgniter4
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.4](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.4), *2 months ago*) - Open Source PHP Framework (originally from EllisLab)
 
 ### 🔨 My recent Pull Requests
 
-- **[feat: offer to run a suggested command when the typed name is not found](https://github.com/codeigniter4/CodeIgniter4/pull/10538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: migrate `make:controller` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: migrate `make:config` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10535)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: replace PRLint with Carson&#39;s pr-title-linter](https://github.com/codeigniter4/CodeIgniter4/pull/10529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: migrate the simple `make:*` generators to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10528)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[style: rerun rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10525)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[feat: add `AbstractGeneratorCommand` base class for modern generator commands](https://github.com/codeigniter4/CodeIgniter4/pull/10524)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: offer to run a suggested command when the typed name is not found](https://github.com/codeigniter4/CodeIgniter4/pull/10538)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[refactor: migrate `make:controller` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10536)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: migrate `make:config` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10535)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: replace PRLint with Carson&#39;s pr-title-linter](https://github.com/codeigniter4/CodeIgniter4/pull/10529)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: migrate the simple `make:*` generators to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10528)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[style: rerun rector on `4.8`](https://github.com/codeigniter4/CodeIgniter4/pull/10525)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[feat: add `AbstractGeneratorCommand` base class for modern generator commands](https://github.com/codeigniter4/CodeIgniter4/pull/10524)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: fix minor type inaccuracies found via PHPStan bleeding edge](https://github.com/codeigniter4/CodeIgniter4/pull/10522)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: pass prompt text to readline in `CLI::prompt()` so backspace does not erase it](https://github.com/codeigniter4/CodeIgniter4/pull/10507)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: bound phpstan&#39;s analysed PHP versions](https://github.com/codeigniter4/CodeIgniter4/pull/10505)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
