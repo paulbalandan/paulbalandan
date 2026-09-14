@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: stop `FileLocatorCached` from restoring a deleted cache on shutdown](https://github.com/codeigniter4/CodeIgniter4/pull/10559)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix return type covariance of `FileCollection::getIterator()`](https://github.com/codeigniter4/CodeIgniter4/pull/10558)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: label PRs by title type with Carson&#39;s `auto-labeler`](https://github.com/codeigniter4/CodeIgniter4/pull/10557)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: replace signed-commit check with Carson&#39;s `signed-commits`](https://github.com/codeigniter4/CodeIgniter4/pull/10556)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `make:model` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10550)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[docs: correct what `make:migration --session` reads from `Config\Session`](https://github.com/codeigniter4/CodeIgniter4/pull/10549)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: replace labeler workflows with Carson&#39;s `auto-labeler` and `conflicts-notifier`](https://github.com/codeigniter4/CodeIgniter4/pull/10547)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: reject unsupported database drivers in `make:migration --session`](https://github.com/codeigniter4/CodeIgniter4/pull/10546)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
