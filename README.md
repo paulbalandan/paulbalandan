@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: stop removing app/Commands so parallel CLI and Commands runs does not race](https://github.com/codeigniter4/CodeIgniter4/pull/10564)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: print random-test failure details as collapsible groups on CI](https://github.com/codeigniter4/CodeIgniter4/pull/10563)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: reset CLI state before each ConsoleTest so random order keeps the leading newline](https://github.com/codeigniter4/CodeIgniter4/pull/10562)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: stop `FileLocatorCached` from restoring a deleted cache on shutdown](https://github.com/codeigniter4/CodeIgniter4/pull/10559)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix return type covariance of `FileCollection::getIterator()`](https://github.com/codeigniter4/CodeIgniter4/pull/10558)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: label PRs by title type with Carson&#39;s `auto-labeler`](https://github.com/codeigniter4/CodeIgniter4/pull/10557)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: bump Carson to v1.4.2 and re-check PR titles on push](https://github.com/codeigniter4/CodeIgniter4/pull/10553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `make:test` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10552)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: migrate `make:cell` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10551)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: migrate `make:model` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10550)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[docs: correct what `make:migration --session` reads from `Config\Session`](https://github.com/codeigniter4/CodeIgniter4/pull/10549)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: replace labeler workflows with Carson&#39;s `auto-labeler` and `conflicts-notifier`](https://github.com/codeigniter4/CodeIgniter4/pull/10547)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
