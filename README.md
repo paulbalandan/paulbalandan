@@ -52,11 +52,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👯 Check out some of my recent followers
 
+- [@joncastdev](https://github.com/joncastdev)
 - [@skeletonsec](https://github.com/skeletonsec)
 - [@IrshadChanna](https://github.com/IrshadChanna)
 - [@trafficinc](https://github.com/trafficinc)
 - [@Richin](https://github.com/Richin)
-- [@emleonstz](https://github.com/emleonstz)
 
 ### 📫 You can reach me here
 
