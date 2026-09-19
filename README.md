@@ -13,20 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*6 days ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*6 days ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*6 days ago*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*6 days ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*6 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*6 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing. (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.5.0](https://github.com/NexusPHP/carson/releases/tag/v1.5.0), *1 day ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.6.0](https://github.com/NexusPHP/carson/releases/tag/v1.6.0), *today*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *2 weeks ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *2 weeks ago*) - Chainable type-safety assertions library.
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: replace Mergeable with Carson&#39;s welcome, template-enforcer, and no-response-closer](https://github.com/codeigniter4/CodeIgniter4/pull/10572)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: keep CommandsTest out of app/Commands on 4.8](https://github.com/codeigniter4/CodeIgniter4/pull/10570)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: migrate `make:scaffold` as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10567)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: keep CommandsTest out of app/Commands so parallel runs do not race](https://github.com/codeigniter4/CodeIgniter4/pull/10564)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: print random-test failure details as collapsible groups on CI](https://github.com/codeigniter4/CodeIgniter4/pull/10563)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -47,16 +49,14 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: fix return type covariance of `FileCollection::getIterator()`](https://github.com/codeigniter4/CodeIgniter4/pull/10558)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[chore: label PRs by title type with Carson&#39;s `auto-labeler`](https://github.com/codeigniter4/CodeIgniter4/pull/10557)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[chore: replace signed-commit check with Carson&#39;s `signed-commits`](https://github.com/codeigniter4/CodeIgniter4/pull/10556)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[chore: bump Carson to v1.4.2 and re-check PR titles on push](https://github.com/codeigniter4/CodeIgniter4/pull/10553)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: migrate `make:test` to `AbstractGeneratorCommand`](https://github.com/codeigniter4/CodeIgniter4/pull/10552)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
-- [@joncastdev](https://github.com/joncastdev)
 - [@skeletonsec](https://github.com/skeletonsec)
 - [@IrshadChanna](https://github.com/IrshadChanna)
 - [@trafficinc](https://github.com/trafficinc)
 - [@Richin](https://github.com/Richin)
+- [@emleonstz](https://github.com/emleonstz)
 
 ### 📫 You can reach me here
 
