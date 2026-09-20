@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 week ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 week ago*)
