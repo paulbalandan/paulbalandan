@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.7.0](https://github.com/NexusPHP/carson/releases/tag/v1.7.0), *1 day ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.26](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.26), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *2 weeks ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *2 weeks ago*) - Chainable type-safety assertions library.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.4](https://github.com/infection/infection/releases/tag/0.35.4), *2 weeks ago*) - PHP Mutation Testing library
