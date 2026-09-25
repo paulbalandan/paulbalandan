@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: tighten docblock return types in Result, CLIRequest, url_helper and IncomingRequest](https://github.com/codeigniter4/CodeIgniter4/pull/10588)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: allow hiding modern commands from list and suggestions](https://github.com/codeigniter4/CodeIgniter4/pull/10586)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: auto-close stale &#34;waiting for info&#34; items with Carson&#39;s `no-response-closer`](https://github.com/codeigniter4/CodeIgniter4/pull/10585)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: enforce PR bodies follow the PR template](https://github.com/codeigniter4/CodeIgniter4/pull/10577)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: migrate `make:scaffold` as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10567)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: keep CommandsTest out of app/Commands so parallel runs do not race](https://github.com/codeigniter4/CodeIgniter4/pull/10564)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: print random-test failure details as collapsible groups on CI](https://github.com/codeigniter4/CodeIgniter4/pull/10563)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: reset CLI state before each ConsoleTest so random order keeps the leading newline](https://github.com/codeigniter4/CodeIgniter4/pull/10562)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
