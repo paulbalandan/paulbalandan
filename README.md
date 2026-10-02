@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.5](https://github.com/infection/infection/releases/tag/0.35.5), *5 days ago*) - PHP Mutation Testing library
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.6](https://github.com/infection/infection/releases/tag/0.35.6), *today*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.7.0](https://github.com/NexusPHP/carson/releases/tag/v1.7.0), *1 week ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.0.0](https://github.com/NexusPHP/mcp/releases/tag/v1.0.0), *4 weeks ago*) - PHP SDK for the MCP specification
