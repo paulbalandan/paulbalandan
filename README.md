@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/880)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*today*)
 - **[refactor: deprecate `BaseCommand` and `GeneratorTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10592)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[chore: keep manual enhancement labels and accept two-digit versions in PR titles](https://github.com/codeigniter4/CodeIgniter4/pull/10591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[refactor: tighten docblock return types in Result, CLIRequest, url_helper and IncomingRequest](https://github.com/codeigniter4/CodeIgniter4/pull/10588)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: enforce no merge commits in PRs](https://github.com/codeigniter4/CodeIgniter4/pull/10576)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: replace Mergeable with Carson&#39;s welcome, template-enforcer, and no-response-closer](https://github.com/codeigniter4/CodeIgniter4/pull/10572)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: keep CommandsTest out of app/Commands on 4.8](https://github.com/codeigniter4/CodeIgniter4/pull/10570)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: migrate `make:scaffold` as modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10567)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 weeks ago*)
 
 ### 👯 Check out some of my recent followers
 
