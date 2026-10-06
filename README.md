@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: resolve schema-qualified table names in `getFieldData()` and `protectIdentifiers()`](https://github.com/codeigniter4/CodeIgniter4/pull/10604)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: cast OCI8 batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10602)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: cast Postgre batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10601)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: pass the session TTL to `Redis::set()` as an options array](https://github.com/codeigniter4/CodeIgniter4/pull/10600)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: deprecate `BaseCommand` and `GeneratorTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10592)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: keep manual enhancement labels and accept two-digit versions in PR titles](https://github.com/codeigniter4/CodeIgniter4/pull/10591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: tighten docblock return types in Result, CLIRequest, url_helper and IncomingRequest](https://github.com/codeigniter4/CodeIgniter4/pull/10588)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[feat: allow hiding modern commands from list and suggestions](https://github.com/codeigniter4/CodeIgniter4/pull/10586)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
