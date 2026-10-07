@@ -54,9 +54,9 @@ knowledge, I am continuously learning. The rest is history.
 
 - [@skeletonsec](https://github.com/skeletonsec)
 - [@IrshadChanna](https://github.com/IrshadChanna)
-- [@trafficinc](https://github.com/trafficinc)
 - [@Richin](https://github.com/Richin)
 - [@emleonstz](https://github.com/emleonstz)
+- [@0RuiAlvel0](https://github.com/0RuiAlvel0)
 
 ### 📫 You can reach me here
 
