@@ -13,22 +13,22 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*2 days ago*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*2 days ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*2 days ago*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*2 days ago*)
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*4 days ago*)
-- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*2 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*3 days ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*3 days ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*3 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*3 days ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*3 days ago*)
+- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*5 days ago*)
+- **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*5 days ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.0), *1 day ago*) - CodeIgniter extensions and rules for PHPStan
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.1.0](https://github.com/NexusPHP/mcp/releases/tag/v1.1.0), *2 days ago*) - PHP SDK for the MCP specification
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.6](https://github.com/infection/infection/releases/tag/0.35.6), *5 days ago*) - PHP Mutation Testing library
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.0), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.1.0](https://github.com/NexusPHP/mcp/releases/tag/v1.1.0), *3 days ago*) - PHP SDK for the MCP specification
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.6](https://github.com/infection/infection/releases/tag/0.35.6), *6 days ago*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), *2 weeks ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.7.0](https://github.com/NexusPHP/carson/releases/tag/v1.7.0), *2 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.0](https://github.com/NexusPHP/assert/releases/tag/v1.5.0), *1 month ago*) - Chainable type-safety assertions library.
@@ -39,13 +39,13 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: resolve schema-qualified table names in `getFieldData()` and `protectIdentifiers()`](https://github.com/codeigniter4/CodeIgniter4/pull/10604)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: cast OCI8 batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10602)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: cast Postgre batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10601)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: pass the session TTL to `Redis::set()` as an options array](https://github.com/codeigniter4/CodeIgniter4/pull/10600)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[feat: send spark error output to STDERR](https://github.com/codeigniter4/CodeIgniter4/pull/10598)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[feat: allow modern commands to opt out of the spark header](https://github.com/codeigniter4/CodeIgniter4/pull/10597)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/880)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*5 days ago*)
+- **[fix: resolve schema-qualified table names in `getFieldData()` and `protectIdentifiers()`](https://github.com/codeigniter4/CodeIgniter4/pull/10604)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[fix: cast OCI8 batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10602)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[fix: cast Postgre batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10601)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[refactor: pass the session TTL to `Redis::set()` as an options array](https://github.com/codeigniter4/CodeIgniter4/pull/10600)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[feat: send spark error output to STDERR](https://github.com/codeigniter4/CodeIgniter4/pull/10598)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[feat: allow modern commands to opt out of the spark header](https://github.com/codeigniter4/CodeIgniter4/pull/10597)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[[automated] update rebuilt distributable](https://github.com/NexusPHP/no-merge-commits/pull/880)** on [NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits) (*6 days ago*)
 - **[refactor: deprecate `BaseCommand` and `GeneratorTrait`](https://github.com/codeigniter4/CodeIgniter4/pull/10592)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: keep manual enhancement labels and accept two-digit versions in PR titles](https://github.com/codeigniter4/CodeIgniter4/pull/10591)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: tighten docblock return types in Result, CLIRequest, url_helper and IncomingRequest](https://github.com/codeigniter4/CodeIgniter4/pull/10588)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
