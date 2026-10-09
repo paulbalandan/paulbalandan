@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*3 days ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*4 days ago*)
@@ -39,24 +39,24 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: normalize Actions cache keys](https://github.com/codeigniter4/CodeIgniter4/pull/10614)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: drop the removed `Response` constructor argument in HTTP tests](https://github.com/codeigniter4/CodeIgniter4/pull/10613)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[test: adjust `CURLRequestExceptionTest` to 4.8&#39;s base URI handling](https://github.com/codeigniter4/CodeIgniter4/pull/10612)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: add changelog and upgrade for v4.7.6](https://github.com/codeigniter4/CodeIgniter4/pull/10611)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: fix release automation failures on the first run](https://github.com/codeigniter4/CodeIgniter4/pull/10610)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[4.7.5 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10609)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[Prep for 4.7.5 release](https://github.com/codeigniter4/CodeIgniter4/pull/10608)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: declare the throwing Parser filter closure as returning `never`](https://github.com/codeigniter4/CodeIgniter4/pull/10607)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: avoid undefined `STDERR` and `STDIN` outside the CLI](https://github.com/codeigniter4/CodeIgniter4/pull/10605)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: resolve schema-qualified table names in `getFieldData()` and `protectIdentifiers()`](https://github.com/codeigniter4/CodeIgniter4/pull/10604)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[fix: cast OCI8 batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10602)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[fix: cast Postgre batch subquery values so `updateBatch()` and `deleteBatch()` accept mixed PHP types](https://github.com/codeigniter4/CodeIgniter4/pull/10601)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: pass the session TTL to `Redis::set()` as an options array](https://github.com/codeigniter4/CodeIgniter4/pull/10600)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[feat: send spark error output to STDERR](https://github.com/codeigniter4/CodeIgniter4/pull/10598)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: allow modern commands to opt out of the spark header](https://github.com/codeigniter4/CodeIgniter4/pull/10597)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
+- [@mdalikadar](https://github.com/mdalikadar)
 - [@skeletonsec](https://github.com/skeletonsec)
 - [@IrshadChanna](https://github.com/IrshadChanna)
 - [@Richin](https://github.com/Richin)
 - [@emleonstz](https://github.com/emleonstz)
-- [@0RuiAlvel0](https://github.com/0RuiAlvel0)
 
 ### 📫 You can reach me here
 
