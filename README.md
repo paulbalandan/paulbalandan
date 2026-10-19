@@ -13,22 +13,22 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*today*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*5 days ago*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*5 days ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*5 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*6 days ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*6 days ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*6 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*6 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 week ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.2.1](https://github.com/NexusPHP/mcp/releases/tag/v1.2.1), *today*) - PHP SDK for the MCP specification
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), *4 days ago*) - PHP Mutation Testing library
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *5 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.2.1](https://github.com/NexusPHP/mcp/releases/tag/v1.2.1), *1 day ago*) - PHP SDK for the MCP specification
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), *5 days ago*) - PHP Mutation Testing library
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *6 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.5), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.1](https://github.com/NexusPHP/assert/releases/tag/v1.5.1), *1 week ago*) - Chainable type-safety assertions library.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.0), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: split the `CLI` output into `Output`, `Terminal`, `ProgressBar`, `Table` and `Color`](https://github.com/codeigniter4/CodeIgniter4/pull/10628)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[refactor: remove `@see` test annotations in 4.8-only classes](https://github.com/codeigniter4/CodeIgniter4/pull/10625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[refactor: remove `@see` test annotations in source](https://github.com/codeigniter4/CodeIgniter4/pull/10624)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[fix: sort `AbstractGeneratorCommand` imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10623)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[fix: sort generator imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10622)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[fix: ask the `CodeIgniter` namespace confirmation once in `make:cell` and `make:model`](https://github.com/codeigniter4/CodeIgniter4/pull/10621)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: split the `CLI` output into `Output`, `Terminal`, `ProgressBar`, `Table` and `Color`](https://github.com/codeigniter4/CodeIgniter4/pull/10628)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: remove `@see` test annotations in 4.8-only classes](https://github.com/codeigniter4/CodeIgniter4/pull/10625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[refactor: remove `@see` test annotations in source](https://github.com/codeigniter4/CodeIgniter4/pull/10624)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: sort `AbstractGeneratorCommand` imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10623)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: sort generator imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10622)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: ask the `CodeIgniter` namespace confirmation once in `make:cell` and `make:model`](https://github.com/codeigniter4/CodeIgniter4/pull/10621)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: normalize Actions cache keys](https://github.com/codeigniter4/CodeIgniter4/pull/10614)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[test: drop the removed `Response` constructor argument in HTTP tests](https://github.com/codeigniter4/CodeIgniter4/pull/10613)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
