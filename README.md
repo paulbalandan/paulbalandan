@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*6 days ago*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*6 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*6 days ago*)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[feat: split the `CLI` output into `Output`, `Terminal`, `ProgressBar`, `Table` and `Color`](https://github.com/codeigniter4/CodeIgniter4/pull/10628)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: sort `AbstractGeneratorCommand` imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10623)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: sort generator imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10622)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: ask the `CodeIgniter` namespace confirmation once in `make:cell` and `make:model`](https://github.com/codeigniter4/CodeIgniter4/pull/10621)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: normalize Actions cache keys](https://github.com/codeigniter4/CodeIgniter4/pull/10614)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[test: drop the removed `Response` constructor argument in HTTP tests](https://github.com/codeigniter4/CodeIgniter4/pull/10613)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
