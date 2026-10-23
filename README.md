@@ -13,23 +13,23 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*3 days ago*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*3 days ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*4 days ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*4 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*4 days ago*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 week ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 week ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 weeks ago*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*2 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.2.1](https://github.com/NexusPHP/mcp/releases/tag/v1.2.1), *4 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.2.1](https://github.com/NexusPHP/mcp/releases/tag/v1.2.1), *5 days ago*) - PHP SDK for the MCP specification
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), *1 week ago*) - PHP Mutation Testing library
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *1 week ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.5), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.1](https://github.com/NexusPHP/assert/releases/tag/v1.5.1), *2 weeks ago*) - Chainable type-safety assertions library.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.0), *2 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,10 +39,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[feat: add `--silent`, `--quiet` and `--verbose` to `spark`](https://github.com/codeigniter4/CodeIgniter4/pull/10643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[feat: add `--silent`, `--quiet` and `--verbose` to `spark`](https://github.com/codeigniter4/CodeIgniter4/pull/10643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 - **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: split the `CLI` output into `Output`, `Terminal`, `ProgressBar`, `Table` and `Color`](https://github.com/codeigniter4/CodeIgniter4/pull/10628)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: remove `@see` test annotations in 4.8-only classes](https://github.com/codeigniter4/CodeIgniter4/pull/10625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
