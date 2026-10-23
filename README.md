@@ -13,7 +13,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*4 days ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*4 days ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*4 days ago*)
@@ -39,6 +39,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: move the `CLI` prompts into a `Prompt` class](https://github.com/codeigniter4/CodeIgniter4/pull/10655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: reject missing keys in `CLI::promptByMultipleKeys()`](https://github.com/codeigniter4/CodeIgniter4/pull/10654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: modernise colour detection with `FORCE_COLOR`, `COLORTERM` and `TERM=dumb`](https://github.com/codeigniter4/CodeIgniter4/pull/10653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: add `--silent`, `--quiet` and `--verbose` to `spark`](https://github.com/codeigniter4/CodeIgniter4/pull/10643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: split the `CLI` output into `Output`, `Terminal`, `ProgressBar`, `Table` and `Color`](https://github.com/codeigniter4/CodeIgniter4/pull/10628)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[refactor: remove `@see` test annotations in 4.8-only classes](https://github.com/codeigniter4/CodeIgniter4/pull/10625)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[refactor: remove `@see` test annotations in source](https://github.com/codeigniter4/CodeIgniter4/pull/10624)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: sort `AbstractGeneratorCommand` imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10623)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[fix: sort generator imports in templates with CRLF line endings](https://github.com/codeigniter4/CodeIgniter4/pull/10622)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
