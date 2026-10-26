@@ -13,20 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 day ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*2 days ago*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*2 days ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*2 days ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*2 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*3 days ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*3 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 weeks ago*)
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** - :factory: A factory for custom rulesets for PHP CS Fixer. (*3 weeks ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.3.0](https://github.com/NexusPHP/mcp/releases/tag/v1.3.0), *2 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.3.0](https://github.com/NexusPHP/mcp/releases/tag/v1.3.0), *3 days ago*) - PHP SDK for the MCP specification
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), *1 week ago*) - PHP Mutation Testing library
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *1 week ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,14 +39,14 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[feat: add arrow-key `select()` and `multiselect()` to `Prompt`](https://github.com/codeigniter4/CodeIgniter4/pull/10659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[fix: stop prompts from asking forever when the input ends](https://github.com/codeigniter4/CodeIgniter4/pull/10658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: move the `CLI` prompts into a `Prompt` class](https://github.com/codeigniter4/CodeIgniter4/pull/10655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: reject missing keys in `CLI::promptByMultipleKeys()`](https://github.com/codeigniter4/CodeIgniter4/pull/10654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[feat: modernise colour detection with `FORCE_COLOR`, `COLORTERM` and `TERM=dumb`](https://github.com/codeigniter4/CodeIgniter4/pull/10653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[feat: add `--silent`, `--quiet` and `--verbose` to `spark`](https://github.com/codeigniter4/CodeIgniter4/pull/10643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: add arrow-key `select()` and `multiselect()` to `Prompt`](https://github.com/codeigniter4/CodeIgniter4/pull/10659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[fix: stop prompts from asking forever when the input ends](https://github.com/codeigniter4/CodeIgniter4/pull/10658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
+- **[feat: move the `CLI` prompts into a `Prompt` class](https://github.com/codeigniter4/CodeIgniter4/pull/10655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: reject missing keys in `CLI::promptByMultipleKeys()`](https://github.com/codeigniter4/CodeIgniter4/pull/10654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[feat: modernise colour detection with `FORCE_COLOR`, `COLORTERM` and `TERM=dumb`](https://github.com/codeigniter4/CodeIgniter4/pull/10653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[feat: add `--silent`, `--quiet` and `--verbose` to `spark`](https://github.com/codeigniter4/CodeIgniter4/pull/10643)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[test: accept MariaDB version strings in `GetVersionTest`](https://github.com/codeigniter4/CodeIgniter4/pull/10642)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[fix: widen accepted values in `set_value()`&#39;s `$default`](https://github.com/codeigniter4/CodeIgniter4/pull/10641)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: fix the composer normalize check and remove PhpMetrics](https://github.com/codeigniter4/CodeIgniter4/pull/10640)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: clarify the compatibility and static-analysis rules for agent reviewers](https://github.com/codeigniter4/CodeIgniter4/pull/10629)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
