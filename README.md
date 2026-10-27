@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: fix `null` checks that are always `false`](https://github.com/codeigniter4/CodeIgniter4/pull/10670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: defer the blank line after a prompt until something follows](https://github.com/codeigniter4/CodeIgniter4/pull/10669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[[pt-BR] update for v4.7.3](https://github.com/codeigniter4/translations/pull/570)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*today*)
 - **[docs: fix RST markup errors in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: point the version switcher&#39;s in-progress option at the develop build](https://github.com/codeigniter4/CodeIgniter4/pull/10665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[feat: add arrow-key `select()` and `multiselect()` to `Prompt`](https://github.com/codeigniter4/CodeIgniter4/pull/10659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[fix: stop prompts from asking forever when the input ends](https://github.com/codeigniter4/CodeIgniter4/pull/10658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[feat: move the `CLI` prompts into a `Prompt` class](https://github.com/codeigniter4/CodeIgniter4/pull/10655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[fix: reject missing keys in `CLI::promptByMultipleKeys()`](https://github.com/codeigniter4/CodeIgniter4/pull/10654)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[feat: modernise colour detection with `FORCE_COLOR`, `COLORTERM` and `TERM=dumb`](https://github.com/codeigniter4/CodeIgniter4/pull/10653)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
