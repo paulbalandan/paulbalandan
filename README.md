@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.3.0](https://github.com/NexusPHP/mcp/releases/tag/v1.3.0), *4 days ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.4.0](https://github.com/NexusPHP/mcp/releases/tag/v1.4.0), *today*) - PHP SDK for the MCP specification
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.8](https://github.com/infection/infection/releases/tag/0.35.8), *1 week ago*) - PHP Mutation Testing library
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *2 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.5](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.5), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
