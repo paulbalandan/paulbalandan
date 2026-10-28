@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: automate the GitHub release notes and credit all contributors](https://github.com/codeigniter4/CodeIgniter4/pull/10671)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: fix `null` checks that are always `false`](https://github.com/codeigniter4/CodeIgniter4/pull/10670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: defer the blank line after a prompt until something follows](https://github.com/codeigniter4/CodeIgniter4/pull/10669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[[pt-BR] update for v4.7.3](https://github.com/codeigniter4/translations/pull/570)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*1 day ago*)
@@ -48,15 +49,14 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: apply `ContentSecurityPolicy::reportOnly()` to config sources after construction](https://github.com/codeigniter4/CodeIgniter4/pull/10663)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[feat: add arrow-key `select()` and `multiselect()` to `Prompt`](https://github.com/codeigniter4/CodeIgniter4/pull/10659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[fix: stop prompts from asking forever when the input ends](https://github.com/codeigniter4/CodeIgniter4/pull/10658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[feat: move the `CLI` prompts into a `Prompt` class](https://github.com/codeigniter4/CodeIgniter4/pull/10655)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
 
 ### 👯 Check out some of my recent followers
 
+- [@JoseRobertoRM](https://github.com/JoseRobertoRM)
 - [@mdalikadar](https://github.com/mdalikadar)
 - [@skeletonsec](https://github.com/skeletonsec)
 - [@IrshadChanna](https://github.com/IrshadChanna)
 - [@Richin](https://github.com/Richin)
-- [@emleonstz](https://github.com/emleonstz)
 
 ### 📫 You can reach me here
 
