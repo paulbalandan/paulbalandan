@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*1 day ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*4 days ago*)
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: write the Housekeeping, Cache, Server and Translation commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10680)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: add `Output::wrap()`](https://github.com/codeigniter4/CodeIgniter4/pull/10679)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: write the Worker commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10676)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[refactor: write the Utilities commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10675)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[feat: use `select()` for the framework prompts that pick from fixed options](https://github.com/codeigniter4/CodeIgniter4/pull/10674)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: share the deferred blank line between `Output` and its `forStderr()` copy](https://github.com/codeigniter4/CodeIgniter4/pull/10673)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: automate the GitHub release notes and credit all contributors](https://github.com/codeigniter4/CodeIgniter4/pull/10671)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: fix `null` checks that are always `false`](https://github.com/codeigniter4/CodeIgniter4/pull/10670)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[feat: defer the blank line after a prompt until something follows](https://github.com/codeigniter4/CodeIgniter4/pull/10669)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[[pt-BR] update for v4.7.3](https://github.com/codeigniter4/translations/pull/570)** on [codeigniter4/translations](https://github.com/codeigniter4/translations) (*2 days ago*)
-- **[docs: fix RST markup errors in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10668)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[docs: point the version switcher&#39;s in-progress option at the develop build](https://github.com/codeigniter4/CodeIgniter4/pull/10665)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[docs: convert the remaining user guide tables to pipe-table-friendly RST](https://github.com/codeigniter4/CodeIgniter4/pull/10664)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[fix: apply `ContentSecurityPolicy::reportOnly()` to config sources after construction](https://github.com/codeigniter4/CodeIgniter4/pull/10663)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[feat: add arrow-key `select()` and `multiselect()` to `Prompt`](https://github.com/codeigniter4/CodeIgniter4/pull/10659)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[fix: stop prompts from asking forever when the input ends](https://github.com/codeigniter4/CodeIgniter4/pull/10658)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
