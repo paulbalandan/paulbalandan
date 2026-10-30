@@ -21,8 +21,8 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 day ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*3 days ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*5 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*5 days ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*5 days ago*)
 
 ### 🔭 Latest releases I've contributed to
 
