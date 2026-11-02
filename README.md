@@ -13,8 +13,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
-- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*1 day ago*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*1 day ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 day ago*)
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: `SingleLineEmptyBodyFixer` - add options to choose which empty bodies are fixed](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9916)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*today*)
 - **[docs: rewrite the release guide as numbered steps with named variables](https://github.com/codeigniter4/CodeIgniter4/pull/10704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: include authors in advisories](https://github.com/codeigniter4/CodeIgniter4/pull/10703)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: add changelog and upgrade for v4.7.7](https://github.com/codeigniter4/CodeIgniter4/pull/10702)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[refactor: write the generator commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10690)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: write the Database commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10689)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[refactor: write the top-level and Encryption commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10688)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[test: keep `FileHandlerTest::testSaveMode` inside its own cache directory](https://github.com/codeigniter4/CodeIgniter4/pull/10687)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
