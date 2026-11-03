@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[refactor: write the `Console` runner through its `Output`](https://github.com/codeigniter4/CodeIgniter4/pull/10713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: run Psalm on CI on select PHP files only](https://github.com/codeigniter4/CodeIgniter4/pull/10712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: use `$this-&gt;getOutput()` and `$this-&gt;getPrompt()` in the modern command samples](https://github.com/codeigniter4/CodeIgniter4/pull/10711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: fix grammar, markup and line width in the 4.8 user guide additions](https://github.com/codeigniter4/CodeIgniter4/pull/10710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: fix grammar, markup and line width across the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: `SingleLineEmptyBodyFixer` - add options to choose which empty bodies are fixed](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9916)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
 - **[docs: rewrite the release guide as numbered steps with named variables](https://github.com/codeigniter4/CodeIgniter4/pull/10704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: include authors in advisories](https://github.com/codeigniter4/CodeIgniter4/pull/10703)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[docs: add changelog and upgrade for v4.7.7](https://github.com/codeigniter4/CodeIgniter4/pull/10702)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[4.7.6 Ready code](https://github.com/codeigniter4/CodeIgniter4/pull/10701)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[Prep for 4.7.6 release](https://github.com/codeigniter4/CodeIgniter4/pull/10698)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[test: skip the `ReplaceModelTest` cases that SQLSRV&#39;s `replace()` cannot run](https://github.com/codeigniter4/CodeIgniter4/pull/10697)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[refactor: write the generator commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10690)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: write the Database commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10689)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
-- **[refactor: write the top-level and Encryption commands through `$this-&gt;getOutput()`](https://github.com/codeigniter4/CodeIgniter4/pull/10688)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
