@@ -13,23 +13,23 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*today*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
+- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
 - **[NexusPHP/no-merge-commits](https://github.com/NexusPHP/no-merge-commits)** - Prevent merge commits in pull requests. (*4 days ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *today*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.9](https://github.com/infection/infection/releases/tag/0.35.9), *1 day ago*) - PHP Mutation Testing library
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *2 days ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.4.0](https://github.com/NexusPHP/mcp/releases/tag/v1.4.0), *1 week ago*) - PHP SDK for the MCP specification
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.8.0](https://github.com/NexusPHP/carson/releases/tag/v1.8.0), *3 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.1](https://github.com/NexusPHP/assert/releases/tag/v1.5.1), *3 weeks ago*) - Chainable type-safety assertions library.
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.0), *4 weeks ago*) - CodeIgniter extensions and rules for PHPStan
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27), *1 month ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[docs: sync the Markdown user guide with 4.8](https://github.com/codeigniter4/CodeIgniter4/pull/10720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: deploy the next minor user guide on its branch pushes](https://github.com/codeigniter4/CodeIgniter4/pull/10719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: update contributor docs and tooling references](https://github.com/codeigniter4/CodeIgniter4/pull/10718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: switch the user guide to Markdown](https://github.com/codeigniter4/CodeIgniter4/pull/10717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: port the release tooling to Markdown](https://github.com/codeigniter4/CodeIgniter4/pull/10716)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: add the MkDocs build for the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10715)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: add the Markdown user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: write the `Console` runner through its `Output`](https://github.com/codeigniter4/CodeIgniter4/pull/10713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: run Psalm on CI on select PHP files only](https://github.com/codeigniter4/CodeIgniter4/pull/10712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: use `$this-&gt;getOutput()` and `$this-&gt;getPrompt()` in the modern command samples](https://github.com/codeigniter4/CodeIgniter4/pull/10711)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[docs: fix grammar, markup and line width in the 4.8 user guide additions](https://github.com/codeigniter4/CodeIgniter4/pull/10710)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[docs: fix grammar, markup and line width across the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10709)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
-- **[feat: `SingleLineEmptyBodyFixer` - add options to choose which empty bodies are fixed](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9916)** on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (*1 day ago*)
-- **[docs: rewrite the release guide as numbered steps with named variables](https://github.com/codeigniter4/CodeIgniter4/pull/10704)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
