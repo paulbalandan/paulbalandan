@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
+- **[codeigniter4/docs-update](https://github.com/codeigniter4/docs-update)** -  (*today*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*today*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
 - **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 day ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.1), *today*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.2), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *1 day ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.9](https://github.com/infection/infection/releases/tag/0.35.9), *2 days ago*) - PHP Mutation Testing library
@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: bump to Carson v1.9.0](https://github.com/codeigniter4/CodeIgniter4/pull/10723)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: lint the PHP samples in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10722)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: sync the Markdown user guide with 4.8](https://github.com/codeigniter4/CodeIgniter4/pull/10720)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: deploy the next minor user guide on its branch pushes](https://github.com/codeigniter4/CodeIgniter4/pull/10719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: add the MkDocs build for the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10715)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[docs: add the Markdown user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10714)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: write the `Console` runner through its `Output`](https://github.com/codeigniter4/CodeIgniter4/pull/10713)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: run Psalm on CI on select PHP files only](https://github.com/codeigniter4/CodeIgniter4/pull/10712)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
