@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.29](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29), *today*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.2), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *3 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.9](https://github.com/infection/infection/releases/tag/0.35.9), *4 days ago*) - PHP Mutation Testing library
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *5 days ago*) - Open Source PHP Framework (originally from EllisLab)
@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: re-enable mutation testing](https://github.com/codeigniter4/shield/pull/1395)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[chore: cleanup phpunit](https://github.com/codeigniter4/shield/pull/1393)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[fix: drop extra arguments when `--help` is passed](https://github.com/codeigniter4/CodeIgniter4/pull/10728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[feat: add an orchestration layer for testing packages](https://github.com/codeigniter4/CodeIgniter4/pull/10727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: bump to Carson v1.9.0](https://github.com/codeigniter4/CodeIgniter4/pull/10723)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: deploy the next minor user guide on its branch pushes](https://github.com/codeigniter4/CodeIgniter4/pull/10719)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[docs: update contributor docs and tooling references](https://github.com/codeigniter4/CodeIgniter4/pull/10718)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 - **[docs: switch the user guide to Markdown](https://github.com/codeigniter4/CodeIgniter4/pull/10717)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: port the release tooling to Markdown](https://github.com/codeigniter4/CodeIgniter4/pull/10716)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: add the MkDocs build for the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10715)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
 
 ### 👯 Check out some of my recent followers
 
