@@ -26,10 +26,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.10](https://github.com/infection/infection/releases/tag/0.35.10), *today*) - PHP Mutation Testing library
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.29](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.2](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.2), *4 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *5 days ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.9](https://github.com/infection/infection/releases/tag/0.35.9), *6 days ago*) - PHP Mutation Testing library
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.4.0](https://github.com/NexusPHP/mcp/releases/tag/v1.4.0), *1 week ago*) - PHP SDK for the MCP specification
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.1](https://github.com/NexusPHP/assert/releases/tag/v1.5.1), *1 month ago*) - Chainable type-safety assertions library.
