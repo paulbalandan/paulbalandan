@@ -14,21 +14,21 @@ knowledge, I am continuously learning. The rest is history.
 ### 👷 Check out what I'm currently working on
 
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*today*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*today*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*today*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*5 days ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*6 days ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*6 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*1 day ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 day ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*6 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 week ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.3), *1 day ago*) - CodeIgniter extensions and rules for PHPStan
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.10](https://github.com/infection/infection/releases/tag/0.35.10), *2 days ago*) - PHP Mutation Testing library
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30), *2 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.3), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.10](https://github.com/infection/infection/releases/tag/0.35.10), *3 days ago*) - PHP Mutation Testing library
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *1 week ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *1 week ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.4.0](https://github.com/NexusPHP/mcp/releases/tag/v1.4.0), *2 weeks ago*) - PHP SDK for the MCP specification
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[refactor: cleanup `Hmac` command](https://github.com/codeigniter4/shield/pull/1398)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
-- **[test: fix `FileMovingTest` failing on `4.8` merge-up](https://github.com/codeigniter4/CodeIgniter4/pull/10751)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
-- **[refactor: cleanup phpstan and fix mechanical errors](https://github.com/codeigniter4/shield/pull/1396)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
-- **[chore: re-enable mutation testing](https://github.com/codeigniter4/shield/pull/1395)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
-- **[chore: cleanup phpunit](https://github.com/codeigniter4/shield/pull/1393)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
-- **[fix: drop extra arguments when `--help` is passed](https://github.com/codeigniter4/CodeIgniter4/pull/10728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[feat: add an orchestration layer for testing packages](https://github.com/codeigniter4/CodeIgniter4/pull/10727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*5 days ago*)
-- **[chore: bump to Carson v1.9.0](https://github.com/codeigniter4/CodeIgniter4/pull/10723)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[docs: lint the PHP samples in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10722)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[refactor: cleanup `Hmac` command](https://github.com/codeigniter4/shield/pull/1398)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
+- **[test: fix `FileMovingTest` failing on `4.8` merge-up](https://github.com/codeigniter4/CodeIgniter4/pull/10751)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
+- **[refactor: cleanup phpstan and fix mechanical errors](https://github.com/codeigniter4/shield/pull/1396)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
+- **[chore: re-enable mutation testing](https://github.com/codeigniter4/shield/pull/1395)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
+- **[chore: cleanup phpunit](https://github.com/codeigniter4/shield/pull/1393)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
+- **[fix: drop extra arguments when `--help` is passed](https://github.com/codeigniter4/CodeIgniter4/pull/10728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[feat: add an orchestration layer for testing packages](https://github.com/codeigniter4/CodeIgniter4/pull/10727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
+- **[chore: bump to Carson v1.9.0](https://github.com/codeigniter4/CodeIgniter4/pull/10723)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
+- **[docs: lint the PHP samples in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10722)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
