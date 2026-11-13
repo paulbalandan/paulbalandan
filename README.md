@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[test: move tests to the `CodeIgniter\Shield\Tests` namespace](https://github.com/codeigniter4/shield/pull/1405)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[refactor: cleanup `Hmac` command](https://github.com/codeigniter4/shield/pull/1398)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
 - **[test: fix `FileMovingTest` failing on `4.8` merge-up](https://github.com/codeigniter4/CodeIgniter4/pull/10751)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: drop extra arguments when `--help` is passed](https://github.com/codeigniter4/CodeIgniter4/pull/10728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[feat: add an orchestration layer for testing packages](https://github.com/codeigniter4/CodeIgniter4/pull/10727)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: bump to Carson v1.9.0](https://github.com/codeigniter4/CodeIgniter4/pull/10723)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[docs: lint the PHP samples in the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10722)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
