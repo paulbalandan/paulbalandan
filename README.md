@@ -39,6 +39,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[chore: cleanup rector](https://github.com/codeigniter4/shield/pull/1408)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
+- **[refactor: cleanup psalm and raise to errorLevel 6](https://github.com/codeigniter4/shield/pull/1407)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*today*)
 - **[docs: remove the Sphinx anchor aliases from the user guide build](https://github.com/codeigniter4/CodeIgniter4/pull/10775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[docs: port examples in `CLI Signals` to use the modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10774)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: move tests to the `CodeIgniter\Shield\Tests` namespace](https://github.com/codeigniter4/shield/pull/1405)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 day ago*)
@@ -47,8 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
 - **[refactor: cleanup phpstan and fix mechanical errors](https://github.com/codeigniter4/shield/pull/1396)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
 - **[chore: re-enable mutation testing](https://github.com/codeigniter4/shield/pull/1395)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
-- **[chore: cleanup phpunit](https://github.com/codeigniter4/shield/pull/1393)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
-- **[fix: drop extra arguments when `--help` is passed](https://github.com/codeigniter4/CodeIgniter4/pull/10728)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
