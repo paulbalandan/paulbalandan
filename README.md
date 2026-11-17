@@ -13,25 +13,25 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*today*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*today*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*today*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*today*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*1 day ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*1 day ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 day ago*)
+- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*1 day ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 day ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 day ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*4 days ago*)
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 week ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 week ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.5.1](https://github.com/NexusPHP/mcp/releases/tag/v1.5.1), *today*) - PHP SDK for the MCP specification
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.2](https://github.com/NexusPHP/assert/releases/tag/v1.5.2), *today*) - Chainable type-safety assertions library.
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.11](https://github.com/infection/infection/releases/tag/0.35.11), *1 day ago*) - PHP Mutation Testing library
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.31](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.31), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.5.1](https://github.com/NexusPHP/mcp/releases/tag/v1.5.1), *1 day ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.2](https://github.com/NexusPHP/assert/releases/tag/v1.5.2), *1 day ago*) - Chainable type-safety assertions library.
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.11](https://github.com/infection/infection/releases/tag/0.35.11), *2 days ago*) - PHP Mutation Testing library
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.2.3](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.2.3), *1 week ago*) - CodeIgniter extensions and rules for PHPStan
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *1 week ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *2 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 months ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *2 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[chore: cleanup rector](https://github.com/codeigniter4/shield/pull/1408)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
-- **[refactor: cleanup psalm and raise to errorLevel 6](https://github.com/codeigniter4/shield/pull/1407)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*2 days ago*)
-- **[docs: remove the Sphinx anchor aliases from the user guide build](https://github.com/codeigniter4/CodeIgniter4/pull/10775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[docs: port examples in `CLI Signals` to use the modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10774)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[test: move tests to the `CodeIgniter\Shield\Tests` namespace](https://github.com/codeigniter4/shield/pull/1405)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 days ago*)
+- **[chore: cleanup rector](https://github.com/codeigniter4/shield/pull/1408)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 days ago*)
+- **[refactor: cleanup psalm and raise to errorLevel 6](https://github.com/codeigniter4/shield/pull/1407)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*3 days ago*)
+- **[docs: remove the Sphinx anchor aliases from the user guide build](https://github.com/codeigniter4/CodeIgniter4/pull/10775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[docs: port examples in `CLI Signals` to use the modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10774)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[test: move tests to the `CodeIgniter\Shield\Tests` namespace](https://github.com/codeigniter4/shield/pull/1405)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
 - **[refactor: cleanup `Hmac` command](https://github.com/codeigniter4/shield/pull/1398)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 - **[test: fix `FileMovingTest` failing on `4.8` merge-up](https://github.com/codeigniter4/CodeIgniter4/pull/10751)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
