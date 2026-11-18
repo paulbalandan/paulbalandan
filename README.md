@@ -13,19 +13,20 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*today*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*today*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*1 day ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 day ago*)
 - **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*2 days ago*)
 - **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*2 days ago*)
 - **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*2 days ago*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*2 days ago*)
-- **[NexusPHP/mcp-client](https://github.com/NexusPHP/mcp-client)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Client (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *today*) - System message translations for CodeIgniter4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *1 day ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), *1 day ago*) - PHP Mutation Testing library
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.5.1](https://github.com/NexusPHP/mcp/releases/tag/v1.5.1), *2 days ago*) - PHP SDK for the MCP specification
@@ -35,10 +36,12 @@ knowledge, I am continuously learning. The rest is history.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *2 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 months ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
 - **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *2 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.4.1](https://github.com/codeigniter4/shield/releases/tag/v1.4.1), *3 months ago*) - Authentication and Authorization for CodeIgniter 4
 
 ### 🔨 My recent Pull Requests
 
+- **[test: hide the local `.env` and unset encryption settings](https://github.com/codeigniter4/CodeIgniter4/pull/10783)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[docs: import FQCNs in PHP samples of the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: analyse the PHP samples of the user guide with PHPStan](https://github.com/codeigniter4/CodeIgniter4/pull/10779)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[refactor: use the `#[\Override]` attribute](https://github.com/codeigniter4/CodeIgniter4/pull/10778)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[feat: boot the orchestrated application outside PHPUnit](https://github.com/codeigniter4/CodeIgniter4/pull/10777)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: cleanup rector](https://github.com/codeigniter4/shield/pull/1408)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*4 days ago*)
@@ -46,9 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[docs: remove the Sphinx anchor aliases from the user guide build](https://github.com/codeigniter4/CodeIgniter4/pull/10775)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[docs: port examples in `CLI Signals` to use the modern command](https://github.com/codeigniter4/CodeIgniter4/pull/10774)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[test: move tests to the `CodeIgniter\Shield\Tests` namespace](https://github.com/codeigniter4/shield/pull/1405)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*5 days ago*)
-- **[refactor: cleanup `Hmac` command](https://github.com/codeigniter4/shield/pull/1398)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
-- **[test: fix `FileMovingTest` failing on `4.8` merge-up](https://github.com/codeigniter4/CodeIgniter4/pull/10751)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
-- **[chore: do not force the precommit hook on each composer update](https://github.com/codeigniter4/shield/pull/1397)** on [codeigniter4/shield](https://github.com/codeigniter4/shield) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
