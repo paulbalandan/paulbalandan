@@ -13,10 +13,10 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*today*)
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*today*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*today*)
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*1 day ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*today*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*2 days ago*)
 - **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*2 days ago*)
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*3 days ago*)
@@ -26,7 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.3.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.3.0), *1 day ago*) - CodeIgniter extensions and rules for PHPStan
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.0), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *2 days ago*) - System message translations for CodeIgniter4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *3 days ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), *3 days ago*) - PHP Mutation Testing library
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: pass no object to `invokeArgs()` for static methods in `ReflectionHelper`](https://github.com/codeigniter4/CodeIgniter4/pull/10805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[fix: add `create_sid()` and `validateId()` to the session `BaseHandler` for PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
+- **[chore: update to phpstan-codeigniter v2.4](https://github.com/codeigniter4/CodeIgniter4/pull/10800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[test: share the request instance in the invalid session cookie tests](https://github.com/codeigniter4/CodeIgniter4/pull/10799)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[test: make `FrameworkCodeTest` tolerate files removed during the scan](https://github.com/codeigniter4/CodeIgniter4/pull/10798)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: make composer installs resilient to download rate limits](https://github.com/codeigniter4/CodeIgniter4/pull/10795)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated `File::getSizeByUnit()`](https://github.com/codeigniter4/CodeIgniter4/pull/10792)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: deprecate Filters `$modules` as part of the auto-discovery deprecation](https://github.com/codeigniter4/CodeIgniter4/pull/10791)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated Filters auto-discovery](https://github.com/codeigniter4/CodeIgniter4/pull/10790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[fix: return false from `ArrayHelper::dotHas()` for a wildcard over an empty array](https://github.com/codeigniter4/CodeIgniter4/pull/10789)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: update to phpstan-codeigniter v2.3](https://github.com/codeigniter4/CodeIgniter4/pull/10788)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[test: hide the local `.env` and unset encryption settings](https://github.com/codeigniter4/CodeIgniter4/pull/10783)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[docs: import FQCNs in PHP samples of the user guide](https://github.com/codeigniter4/CodeIgniter4/pull/10780)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 
 ### 👯 Check out some of my recent followers
 
