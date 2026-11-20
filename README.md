@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[fix: log the vendor `spl_object_hash()` deprecation on PHP 8.6 instead of throwing](https://github.com/codeigniter4/CodeIgniter4/pull/10806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: pass no object to `invokeArgs()` for static methods in `ReflectionHelper`](https://github.com/codeigniter4/CodeIgniter4/pull/10805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[fix: add `create_sid()` and `validateId()` to the session `BaseHandler` for PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[chore: make composer installs resilient to download rate limits](https://github.com/codeigniter4/CodeIgniter4/pull/10795)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: remove deprecated `File::getSizeByUnit()`](https://github.com/codeigniter4/CodeIgniter4/pull/10792)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[refactor: deprecate Filters `$modules` as part of the auto-discovery deprecation](https://github.com/codeigniter4/CodeIgniter4/pull/10791)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[refactor: remove deprecated Filters auto-discovery](https://github.com/codeigniter4/CodeIgniter4/pull/10790)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 
 ### 👯 Check out some of my recent followers
 
