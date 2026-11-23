@@ -13,25 +13,25 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*2 days ago*)
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*2 days ago*)
-- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*2 days ago*)
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*4 days ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*4 days ago*)
-- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*5 days ago*)
-- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*6 days ago*)
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*6 days ago*)
-- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*6 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*3 days ago*)
+- **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*3 days ago*)
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*5 days ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*5 days ago*)
+- **[NexusPHP/carson](https://github.com/NexusPHP/carson)** - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action. (*6 days ago*)
+- **[NexusPHP/mcp-core](https://github.com/NexusPHP/mcp-core)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Core (*1 week ago*)
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** - Chainable type-safety assertions library. (*1 week ago*)
+- **[NexusPHP/mcp-server](https://github.com/NexusPHP/mcp-server)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Server (*1 week ago*)
 
 ### 🔭 Latest releases I've contributed to
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.0), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
-- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *4 days ago*) - System message translations for CodeIgniter4
-- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *5 days ago*) - A tool to automatically fix PHP Coding Standards issues
-- **[infection/infection](https://github.com/infection/infection)** ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), *5 days ago*) - PHP Mutation Testing library
-- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.5.1](https://github.com/NexusPHP/mcp/releases/tag/v1.5.1), *6 days ago*) - PHP SDK for the MCP specification
-- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.2](https://github.com/NexusPHP/assert/releases/tag/v1.5.2), *6 days ago*) - Chainable type-safety assertions library.
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.0](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.0), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *5 days ago*) - System message translations for CodeIgniter4
+- **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *6 days ago*) - A tool to automatically fix PHP Coding Standards issues
+- **[infection/infection](https://github.com/infection/infection)** ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), *6 days ago*) - PHP Mutation Testing library
+- **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** ([v1.5.1](https://github.com/NexusPHP/mcp/releases/tag/v1.5.1), *1 week ago*) - PHP SDK for the MCP specification
+- **[NexusPHP/assert](https://github.com/NexusPHP/assert)** ([v1.5.2](https://github.com/NexusPHP/assert/releases/tag/v1.5.2), *1 week ago*) - Chainable type-safety assertions library.
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *2 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 months ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
@@ -39,16 +39,16 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[fix: log the vendor `spl_object_hash()` deprecation on PHP 8.6 instead of throwing](https://github.com/codeigniter4/CodeIgniter4/pull/10806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: pass no object to `invokeArgs()` for static methods in `ReflectionHelper`](https://github.com/codeigniter4/CodeIgniter4/pull/10805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[fix: add `create_sid()` and `validateId()` to the session `BaseHandler` for PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: update to phpstan-codeigniter v2.4](https://github.com/codeigniter4/CodeIgniter4/pull/10800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[test: share the request instance in the invalid session cookie tests](https://github.com/codeigniter4/CodeIgniter4/pull/10799)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[test: make `FrameworkCodeTest` tolerate files removed during the scan](https://github.com/codeigniter4/CodeIgniter4/pull/10798)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: make composer installs resilient to download rate limits](https://github.com/codeigniter4/CodeIgniter4/pull/10795)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: remove deprecated `File::getSizeByUnit()`](https://github.com/codeigniter4/CodeIgniter4/pull/10792)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: deprecate Filters `$modules` as part of the auto-discovery deprecation](https://github.com/codeigniter4/CodeIgniter4/pull/10791)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: log the vendor `spl_object_hash()` deprecation on PHP 8.6 instead of throwing](https://github.com/codeigniter4/CodeIgniter4/pull/10806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: pass no object to `invokeArgs()` for static methods in `ReflectionHelper`](https://github.com/codeigniter4/CodeIgniter4/pull/10805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[fix: add `create_sid()` and `validateId()` to the session `BaseHandler` for PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[chore: update to phpstan-codeigniter v2.4](https://github.com/codeigniter4/CodeIgniter4/pull/10800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[test: share the request instance in the invalid session cookie tests](https://github.com/codeigniter4/CodeIgniter4/pull/10799)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[test: make `FrameworkCodeTest` tolerate files removed during the scan](https://github.com/codeigniter4/CodeIgniter4/pull/10798)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: make composer installs resilient to download rate limits](https://github.com/codeigniter4/CodeIgniter4/pull/10795)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: remove deprecated `File::getSizeByUnit()`](https://github.com/codeigniter4/CodeIgniter4/pull/10792)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: deprecate Filters `$modules` as part of the auto-discovery deprecation](https://github.com/codeigniter4/CodeIgniter4/pull/10791)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 
 ### 👯 Check out some of my recent followers
 
