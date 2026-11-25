@@ -26,6 +26,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.5.0](https://github.com/codeigniter4/shield/releases/tag/v1.5.0), *today*) - Authentication and Authorization for CodeIgniter 4
 - **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.1), *today*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *1 week ago*) - System message translations for CodeIgniter4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
@@ -35,7 +36,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[NexusPHP/carson](https://github.com/NexusPHP/carson)** ([v1.9.0](https://github.com/NexusPHP/carson/releases/tag/v1.9.0), *3 weeks ago*) - A GitHub App that manages your repository like a butler. Distributed as a GitHub Action.
 - **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** ([v4.7.6](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.7.6), *3 weeks ago*) - Open Source PHP Framework (originally from EllisLab)
 - **[NexusPHP/clock](https://github.com/NexusPHP/clock)** ([v1.0.0](https://github.com/NexusPHP/clock/releases/tag/v1.0.0), *2 months ago*) - Nexus Clock decouples applications from calendar time, monotonic time, and waiting for better testing.
-- **[NexusPHP/cs-config](https://github.com/NexusPHP/cs-config)** ([v3.29.0](https://github.com/NexusPHP/cs-config/releases/tag/v3.29.0), *3 months ago*) - :factory: A factory for custom rulesets for PHP CS Fixer.
 
 ### 🔨 My recent Pull Requests
 
