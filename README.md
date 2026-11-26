@@ -39,6 +39,7 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
+- **[feat: refresh exception reporting across HTML, CLI, and API responses](https://github.com/codeigniter4/CodeIgniter4/pull/10829)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*today*)
 - **[chore: bump to phpstan-codeigniter v2.4.1](https://github.com/codeigniter4/CodeIgniter4/pull/10827)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
 - **[chore: download phpDocumentor from GitHub releases instead of phive](https://github.com/codeigniter4/CodeIgniter4/pull/10823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
 - **[chore: run Psalm on CI on more triggers](https://github.com/codeigniter4/CodeIgniter4/pull/10822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
@@ -48,7 +49,6 @@ knowledge, I am continuously learning. The rest is history.
 - **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[fix: add `create_sid()` and `validateId()` to the session `BaseHandler` for PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10802)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
 - **[chore: update to phpstan-codeigniter v2.4](https://github.com/codeigniter4/CodeIgniter4/pull/10800)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*6 days ago*)
-- **[test: share the request instance in the invalid session cookie tests](https://github.com/codeigniter4/CodeIgniter4/pull/10799)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 
 ### 👯 Check out some of my recent followers
 
