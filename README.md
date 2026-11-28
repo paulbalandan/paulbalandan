@@ -13,9 +13,9 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 👷 Check out what I'm currently working on
 
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*2 days ago*)
-- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*3 days ago*)
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*3 days ago*)
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** - CodeIgniter extensions and rules for PHPStan (*3 days ago*)
+- **[codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)** - Open Source PHP Framework (originally from EllisLab) (*4 days ago*)
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** - Authentication and Authorization for CodeIgniter 4 (*4 days ago*)
 - **[NexusPHP/mcp](https://github.com/NexusPHP/mcp)** - PHP SDK for the MCP specification (*1 week ago*)
 - **[NexusPHP/mcp-extensions](https://github.com/NexusPHP/mcp-extensions)** - [READ ONLY] Subtree split of the Nexus MCP SDK: Extensions (*1 week ago*)
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** - System message translations for CodeIgniter4 (*1 week ago*)
@@ -26,8 +26,8 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔭 Latest releases I've contributed to
 
-- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.5.0](https://github.com/codeigniter4/shield/releases/tag/v1.5.0), *2 days ago*) - Authentication and Authorization for CodeIgniter 4
-- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.1), *2 days ago*) - CodeIgniter extensions and rules for PHPStan
+- **[codeigniter4/shield](https://github.com/codeigniter4/shield)** ([v1.5.0](https://github.com/codeigniter4/shield/releases/tag/v1.5.0), *3 days ago*) - Authentication and Authorization for CodeIgniter 4
+- **[CodeIgniter/phpstan-codeigniter](https://github.com/CodeIgniter/phpstan-codeigniter)** ([v2.4.1](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v2.4.1), *3 days ago*) - CodeIgniter extensions and rules for PHPStan
 - **[codeigniter4/translations](https://github.com/codeigniter4/translations)** ([v4.7.6](https://github.com/codeigniter4/translations/releases/tag/v4.7.6), *1 week ago*) - System message translations for CodeIgniter4
 - **[PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)** ([v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32), *1 week ago*) - A tool to automatically fix PHP Coding Standards issues
 - **[infection/infection](https://github.com/infection/infection)** ([0.35.12](https://github.com/infection/infection/releases/tag/0.35.12), *1 week ago*) - PHP Mutation Testing library
@@ -39,11 +39,11 @@ knowledge, I am continuously learning. The rest is history.
 
 ### 🔨 My recent Pull Requests
 
-- **[feat: refresh exception reporting across HTML, CLI, and API responses](https://github.com/codeigniter4/CodeIgniter4/pull/10829)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 day ago*)
-- **[chore: bump to phpstan-codeigniter v2.4.1](https://github.com/codeigniter4/CodeIgniter4/pull/10827)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
-- **[chore: download phpDocumentor from GitHub releases instead of phive](https://github.com/codeigniter4/CodeIgniter4/pull/10823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[chore: run Psalm on CI on more triggers](https://github.com/codeigniter4/CodeIgniter4/pull/10822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
-- **[refactor: resolve `CURL_HTTP_VERSION_3` through `constant()`](https://github.com/codeigniter4/CodeIgniter4/pull/10821)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[feat: refresh exception reporting across HTML, CLI, and API responses](https://github.com/codeigniter4/CodeIgniter4/pull/10829)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*2 days ago*)
+- **[chore: bump to phpstan-codeigniter v2.4.1](https://github.com/codeigniter4/CodeIgniter4/pull/10827)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*3 days ago*)
+- **[chore: download phpDocumentor from GitHub releases instead of phive](https://github.com/codeigniter4/CodeIgniter4/pull/10823)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[chore: run Psalm on CI on more triggers](https://github.com/codeigniter4/CodeIgniter4/pull/10822)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
+- **[refactor: resolve `CURL_HTTP_VERSION_3` through `constant()`](https://github.com/codeigniter4/CodeIgniter4/pull/10821)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*4 days ago*)
 - **[fix: log the vendor `spl_object_hash()` deprecation on PHP 8.6 instead of throwing](https://github.com/codeigniter4/CodeIgniter4/pull/10806)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: pass no object to `invokeArgs()` for static methods in `ReflectionHelper`](https://github.com/codeigniter4/CodeIgniter4/pull/10805)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
 - **[fix: skip env overrides for anonymous `BaseConfig` subclasses on PHP 8.6](https://github.com/codeigniter4/CodeIgniter4/pull/10804)** on [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) (*1 week ago*)
